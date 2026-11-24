@@ -1,0 +1,16 @@
+wrote 7 files to tests
+t1_d_times_1.001.txt       verify_q2.py           expected reject got reject ok   | AssertionError: budget inequality violated
+t1_d_times_1.001.txt       check_independent.py   expected reject got reject ok   | CHECK FAILED: the inequality (ii) fails
+t2_d_scaled_down.txt       verify_q2.py           expected reject got reject ok   | NO PROOF: some block could not be certified.
+t2_d_scaled_down.txt       check_independent.py   expected reject got reject ok   | CHECK FAILED: the matrix N is not positive definite (the factorisation of N broke down)
+t3_d_scaled_ok.txt         verify_q2.py           expected accept got accept ok   | monochromatic triangle.  Hence F_e(3,3;4) <= 483.   [2 s]
+t3_d_scaled_ok.txt         check_independent.py   expected accept got accept ok   | [  101.3 s] definite (floating point with error bound, no symmetry used).  By the lemma, G'' arrows (3,3): F_e(3,3;4) <= 483.
+t4_extra_vertex.txt        verify_q2.py           expected reject got reject ok   | AssertionError: budget inequality violated
+t4_extra_vertex.txt        check_independent.py   expected reject got reject ok   | CHECK FAILED: the inequality (ii) fails
+t5_weight_zero.txt         verify_q2.py           expected reject got reject ok   | AssertionError: budget inequality violated
+t5_weight_zero.txt         check_independent.py   expected reject got reject ok   | CHECK FAILED: the inequality (ii) fails
+t6_wrong_matrix.txt        verify_q2.py           expected reject got reject ok   | AssertionError: pi is not an automorphism of Q
+t6_wrong_matrix.txt        check_independent.py   expected reject got reject ok   | CHECK FAILED: an image of a listed triple is not a triangle of G'
+n1_q101_5_uniform.txt      verify_q2.py           expected reject got reject ok   | NO PROOF: some block could not be certified.
+n1_q101_5_uniform.txt      check_independent.py   expected reject got reject ok   | CHECK FAILED: the matrix N is not positive definite (the factorisation of N broke down)
+all results as expected

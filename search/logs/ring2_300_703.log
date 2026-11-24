@@ -1,0 +1,193 @@
+# done F4xF173 n 692  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 9.0000 d 344 tri/edge 0..0 |M| 172 orbits 7 reps [174, 347]  [0s]
+# done F16xF43 n 688  subgroups 24  with 2..26 orbits 11  searched 11  truncated 0  best ratio 1.5000 d 192 tri/edge 32..49 |M| 90 orbits 15 reps [1, 2, 45, 46]  [2s]
+# done F2xF343 n 686  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 9.0000 d 342 tri/edge 0..0 |M| 342 orbits 3 reps [344]  [0s]
+# done F4xF169 n 676  subgroups 36  with 2..26 orbits 17  searched 17  truncated 0  best ratio 1.2024 d 126 tri/edge 9..22 |M| 42 orbits 25 reps [5, 24, 26, 171, 173]  [4s]
+# done F4xZ169 n 676  subgroups 24  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.5000 d 234 tri/edge 26..104 |M| 78 orbits 25 reps [1, 2, 6, 170, 174]  [5s]
+# done Z4xF169 n 676  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.5000 d 126 tri/edge 5..26 |M| 42 orbits 18 reps [182, 351, 354]  [0s]
+# done F27xF25 n 675  subgroups 16  with 2..26 orbits 7  searched 7  truncated 1  best ratio 1.5000 d 218 tri/edge 4..54 |M| 52 orbits 25 reps [1, 5, 6, 8, 13, 30, 32, 34, 36]  [15s]
+# done F27xZ25 n 675  subgroups 12  with 2..26 orbits 5  searched 5  truncated 1  best ratio 1.4953 d 216 tri/edge 4..80 |M| 52 orbits 25 reps [1, 2, 9, 10, 26, 30, 32, 36]  [16s]
+# done Z27xF25 n 675  subgroups 40  with 2..26 orbits 12  searched 12  truncated 0  best ratio 1.5000 d 156 tri/edge 6..48 |M| 48 orbits 21 reps [25, 26, 50, 151, 301]  [10s]
+# done F4xF167 n 668  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 332 tri/edge 0..0 |M| 166 orbits 7 reps [168, 335]  [0s]
+# done F8xF83 n 664  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 328 tri/edge 0..0 |M| 82 orbits 15 reps [84, 167, 333, 582]  [0s]
+# done F9xF73 n 657  subgroups 66  with 2..26 orbits 33  searched 33  truncated 1  best ratio 1.4118 d 162 tri/edge 27..27 |M| 36 orbits 24 reps [1, 78, 224, 293, 370]  [24s]
+# done F16xF41 n 656  subgroups 48  with 2..26 orbits 27  searched 27  truncated 0  best ratio 1.2017 d 120 tri/edge 18..18 |M| 120 orbits 7 reps [43]  [17s]
+# done F4xF163 n 652  subgroups 18  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.3963 d 144 tri/edge 18..22 |M| 54 orbits 19 reps [2, 18, 173, 181]  [0s]
+# done F8xF81 n 648  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.4343 d 160 tri/edge 22..38 |M| 70 orbits 17 reps [3, 5, 84, 85]  [1s]
+# done F8xZ81 n 648  subgroups 8  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 180 tri/edge 27..54 |M| 378 orbits 9 reps [1, 84]  [1s]
+# done Z8xF81 n 648  subgroups 28  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.3889 d 140 tri/edge 8..27 |M| 40 orbits 23 reps [1, 82, 84, 108]  [2s]
+# done F128xF5 n 640  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 256 tri/edge 2..127 |M| 254 orbits 5 reps [1, 7]  [0s]
+# done F9xF71 n 639  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.4671 d 170 tri/edge 11..32 |M| 80 orbits 15 reps [1, 80, 89]  [2s]
+# done F49xF13 n 637  subgroups 84  with 2..26 orbits 43  searched 43  truncated 0  best ratio 1.2495 d 132 tri/edge 8..19 |M| 32 orbits 24 reps [4, 16, 30, 32, 40]  [24s]
+# done F8xF79 n 632  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.3560 d 208 tri/edge 48..48 |M| 182 orbits 7 reps [4, 83]  [0s]
+# done F4xF157 n 628  subgroups 24  with 2..26 orbits 11  searched 11  truncated 0  best ratio 1.5000 d 104 tri/edge 10..15 |M| 78 orbits 13 reps [1, 159]  [0s]
+R F5xF125 (n 625) |M| 124 orbits  6  S = union of orbits of [126]  d 124  tri/edge 18..18  ratio 1.0442 
+R F5xF125 (n 625) |M| 124 orbits  6  S = union of orbits of [127]  d 124  tri/edge 18..18  ratio 1.0442 
+R F5xF125 (n 625) |M| 124 orbits  6  S = union of orbits of [128]  d 124  tri/edge 18..18  ratio 1.0442 
+R F5xF125 (n 625) |M| 124 orbits  6  S = union of orbits of [129]  d 124  tri/edge 18..18  ratio 1.0442 
+# done F5xF125 n 625  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.0442 d 124 tri/edge 18..18 |M| 124 orbits 6 reps [129]  [0s]
+# done F5xZ125 n 625  subgroups 24  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.4554 d 156 tri/edge 14..48 |M| 80 orbits 23 reps [6, 9, 15, 128, 135, 140]  [4s]
+# done F25xF25 n 625  subgroups 132  with 2..26 orbits 75  searched 75  truncated 2  best ratio 1.2500 d 96 tri/edge 12..12 |M| 48 orbits 17 reps [30, 134]  [30s]
+# done F25xZ25 n 625  subgroups 44  with 2..26 orbits 18  searched 18  truncated 1  best ratio 1.4511 d 132 tri/edge 12..26 |M| 60 orbits 20 reps [26, 45, 128]  [17s]
+# done Z25xZ25 n 625  subgroups 64  with 2..26 orbits 25  searched 25  truncated 0  best ratio 1.5000 d 250 tri/edge 50..100 |M| 200 orbits 14 reps [1, 27, 126]  [4s]
+# done F27xF23 n 621  subgroups 8  with 2..26 orbits 3  searched 3  truncated 1  best ratio 1.4931 d 216 tri/edge 1..81 |M| 52 orbits 23 reps [1, 2, 6, 11, 25, 26, 29, 33]  [16s]
+# done F32xF19 n 608  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.4973 d 196 tri/edge 2..66 |M| 62 orbits 19 reps [5, 6, 7, 8, 9, 20, 21, 24]  [9s]
+# done F5xF121 n 605  subgroups 44  with 2..26 orbits 22  searched 22  truncated 0  best ratio 1.2341 d 120 tri/edge 18..18 |M| 120 orbits 7 reps [138]  [1s]
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 152, 157, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 153, 163, 180]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 154, 155, 162]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 152, 157, 161]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 153, 160, 163]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 154, 155, 156]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 154, 156, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 157, 161, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 160, 163, 166]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 152, 166, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 153, 180, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 155, 162, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 156, 180, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 160, 166, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 161, 162, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 152, 157, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 153, 163, 180]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [1, 154, 155, 162]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 152, 157, 161]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 153, 160, 163]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [3, 154, 155, 156]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 154, 156, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 157, 161, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [5, 160, 163, 166]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 152, 166, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 153, 180, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [11, 155, 162, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 156, 180, 181]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 160, 166, 173]  d 120  tri/edge 16..22  ratio 1.0480 
+R F4xF151 (n 604) |M|  30 orbits 21  S = union of orbits of [15, 161, 162, 178]  d 120  tri/edge 16..22  ratio 1.0480 
+# done F4xF151 n 604  subgroups 18  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.0480 d 120 tri/edge 16..22 |M| 30 orbits 21 reps [5, 157, 161, 178]  [1s]
+# done F9xF67 n 603  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.4190 d 198 tri/edge 54..54 |M| 176 orbits 7 reps [2, 69]  [10s]
+# done F4xF149 n 596  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 9.0000 d 296 tri/edge 0..0 |M| 148 orbits 7 reps [150, 299]  [0s]
+# done F16xF37 n 592  subgroups 40  with 2..26 orbits 21  searched 21  truncated 0  best ratio 1.2607 d 102 tri/edge 8..22 |M| 30 orbits 25 reps [1, 2, 38, 45, 50]  [16s]
+# done F8xF73 n 584  subgroups 18  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.4368 d 144 tri/edge 19..34 |M| 126 orbits 9 reps [5, 76]  [9s]
+# done F2xF289 n 578  subgroups 15  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.2989 d 144 tri/edge 22..30 |M| 24 orbits 25 reps [19, 20, 23, 308, 309, 312]  [2s]
+# done F64xF9 n 576  subgroups 18  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.5000 d 132 tri/edge 3..28 |M| 42 orbits 19 reps [1, 4, 5, 10, 21, 40]  [4s]
+# done F64xZ9 n 576  subgroups 20  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.5000 d 128 tri/edge 64..64 |M| 378 orbits 5 reps [3, 12]  [3s]
+# done Z64xF9 n 576  subgroups 52  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.5000 d 256 tri/edge 64..64 |M| 128 orbits 20 reps [3, 12, 21, 39, 75, 147, 291]  [1s]
+# done F25xF23 n 575  subgroups 16  with 2..26 orbits 8  searched 8  truncated 2  best ratio 1.4926 d 200 tri/edge 1..75 |M| 48 orbits 23 reps [1, 2, 4, 8, 24, 29, 31, 34]  [24s]
+# done F8xF71 n 568  subgroups 20  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.4640 d 150 tri/edge 10..28 |M| 70 orbits 15 reps [2, 78, 89]  [0s]
+# done F81xF7 n 567  subgroups 20  with 2..26 orbits 11  searched 11  truncated 0  best ratio 1.3081 d 110 tri/edge 5..27 |M| 30 orbits 25 reps [22, 24, 31, 63, 119]  [9s]
+# done F4xF139 n 556  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 9.0000 d 276 tri/edge 0..0 |M| 138 orbits 7 reps [140, 279]  [0s]
+# done F9xF61 n 549  subgroups 44  with 2..26 orbits 22  searched 22  truncated 1  best ratio 1.3997 d 180 tri/edge 54..54 |M| 160 orbits 7 reps [2, 63]  [12s]
+# done F4xF137 n 548  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.5000 d 102 tri/edge 12..12 |M| 34 orbits 19 reps [139, 276, 414]  [0s]
+# done F32xF17 n 544  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4676 d 256 tri/edge 96..96 |M| 248 orbits 5 reps [3, 20]  [3s]
+# done F49xF11 n 539  subgroups 20  with 2..26 orbits 11  searched 11  truncated 1  best ratio 1.4599 d 176 tri/edge 33..66 |M| 40 orbits 25 reps [11, 12, 33, 34, 132, 133, 220, 221]  [12s]
+# done F8xF67 n 536  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4190 d 176 tri/edge 48..48 |M| 154 orbits 7 reps [4, 71]  [4s]
+# done F9xF59 n 531  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 180 tri/edge 3..61 |M| 58 orbits 13 reps [59, 60, 177, 237, 238, 295]  [1s]
+# done F23xF23 n 529  subgroups 28  with 2..26 orbits 24  searched 24  truncated 2  best ratio 1.1811 d 110 tri/edge 12..23 |M| 22 orbits 24 reps [28, 37, 38, 43, 45]  [33s]
+# done F4xF131 n 524  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4255 d 104 tri/edge 12..16 |M| 78 orbits 11 reps [2, 140]  [1s]
+# done F27xF19 n 513  subgroups 12  with 2..26 orbits 5  searched 5  truncated 0  best ratio 1.4962 d 166 tri/edge 2..56 |M| 52 orbits 19 reps [5, 6, 7, 8, 9, 20, 21, 24]  [7s]
+# done F2xF256 n 512  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best none  [0s]
+# done F2xZ256 n 512  subgroups 7  with 2..26 orbits 1  searched 1  truncated 0  best ratio 9.0000 d 256 tri/edge 0..0 |M| 128 orbits 17 reps [1, 257]  [0s]
+# done F4xF128 n 512  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best none  [0s]
+# done F128xZ4 n 512  subgroups 2  with 2..26 orbits 1  searched 1  truncated 0  best ratio 9.0000 d 256 tri/edge 0..0 |M| 254 orbits 5 reps [1, 5]  [0s]
+# done F4xZ128 n 512  subgroups 12  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 88 tri/edge 4..32 |M| 96 orbits 25 reps [3, 4, 6, 12, 144, 152, 176]  [1s]
+# done Z4xZ128 n 512  subgroups 17  with 2..26 orbits 1  searched 1  truncated 0  best ratio 9.0000 d 256 tri/edge 0..0 |M| 128 orbits 23 reps [1, 128, 130, 132, 136, 144, 160, 192, 257]  [0s]
+# done F8xF64 n 512  subgroups 30  with 2..26 orbits 17  searched 17  truncated 0  best none  [0s]
+# done F64xZ8 n 512  subgroups 12  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 130 tri/edge 2..43 |M| 42 orbits 19 reps [1, 2, 11, 19, 34]  [0s]
+# done F8xZ64 n 512  subgroups 10  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 128 tri/edge 16..64 |M| 112 orbits 21 reps [2, 4, 8, 24, 66, 68, 72, 88]  [1s]
+# done Z8xZ64 n 512  subgroups 49  with 2..26 orbits 0  searched 0  truncated 0  best none  [0s]
+# done F16xF32 n 512  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best none  [0s]
+# done F32xZ16 n 512  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.5000 d 194 tri/edge 4..94 |M| 62 orbits 17 reps [1, 2, 4, 7, 18, 19, 23]  [1s]
+# done F16xZ32 n 512  subgroups 16  with 2..26 orbits 4  searched 4  truncated 1  best ratio 1.5000 d 136 tri/edge 2..36 |M| 60 orbits 25 reps [1, 2, 5, 8, 12, 14, 35, 36, 42]  [7s]
+# done Z16xZ32 n 512  subgroups 81  with 2..26 orbits 0  searched 0  truncated 0  best none  [0s]
+# done F4xF127 n 508  subgroups 20  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.1275 d 168 tri/edge 44..44 |M| 126 orbits 7 reps [9, 136]  [1s]
+# done F3xF169 n 507  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.2836 d 84 tri/edge 6..18 |M| 28 orbits 25 reps [4, 13, 170, 193]  [4s]
+# done F4xF125 n 500  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 9.0000 d 248 tri/edge 0..0 |M| 124 orbits 7 reps [126, 251]  [0s]
+# done F4xZ125 n 500  subgroups 12  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4590 d 128 tri/edge 13..39 |M| 60 orbits 23 reps [3, 6, 30, 127, 140, 155]  [2s]
+# done Z4xF125 n 500  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 9.0000 d 250 tri/edge 0..0 |M| 248 orbits 5 reps [125, 126]  [0s]
+# done F16xF31 n 496  subgroups 48  with 2..26 orbits 34  searched 34  truncated 0  best ratio 1.0904 d 102 tri/edge 9..24 |M| 30 orbits 21 reps [1, 3, 32, 34, 39]  [5s]
+# done F8xF61 n 488  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.3997 d 160 tri/edge 48..48 |M| 140 orbits 7 reps [4, 65]  [2s]
+# done F2xF243 n 486  subgroups 3  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.1660 d 88 tri/edge 12..13 |M| 22 orbits 23 reps [11, 15, 247, 252]  [3s]
+# done F4xF121 n 484  subgroups 36  with 2..26 orbits 21  searched 21  truncated 0  best ratio 1.2976 d 96 tri/edge 10..12 |M| 24 orbits 21 reps [5, 124, 135, 138]  [1s]
+# done F4xZ121 n 484  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4161 d 90 tri/edge 6..16 |M| 30 orbits 25 reps [2, 10, 16, 123, 128]  [1s]
+# done Z4xF121 n 484  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.4968 d 96 tri/edge 10..11 |M| 48 orbits 17 reps [2, 122, 243]  [0s]
+# done F9xF53 n 477  subgroups 22  with 2..26 orbits 11  searched 11  truncated 1  best ratio 1.4915 d 136 tri/edge 14..33 |M| 26 orbits 22 reps [53, 54, 57, 58, 159, 212, 267, 270]  [4s]
+# done F25xF19 n 475  subgroups 40  with 2..26 orbits 22  searched 22  truncated 1  best ratio 1.2466 d 96 tri/edge 10..17 |M| 24 orbits 23 reps [96, 97, 101, 103]  [17s]
+# done F8xF59 n 472  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 232 tri/edge 0..0 |M| 58 orbits 15 reps [60, 119, 237, 414]  [0s]
+# done F16xF29 n 464  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.4950 d 192 tri/edge 48..80 |M| 60 orbits 15 reps [1, 3, 6, 30, 32, 35]  [0s]
+# done F27xF17 n 459  subgroups 10  with 2..26 orbits 5  searched 5  truncated 1  best ratio 1.4676 d 216 tri/edge 81..81 |M| 208 orbits 5 reps [1, 18]  [11s]
+# done F4xF113 n 452  subgroups 16  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.3754 d 112 tri/edge 10..24 |M| 42 orbits 17 reps [1, 6, 118, 119]  [0s]
+# done F64xF7 n 448  subgroups 20  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.5000 d 130 tri/edge 22..44 |M| 42 orbits 15 reps [1, 2, 10, 17, 29]  [0s]
+# done F9xF49 n 441  subgroups 58  with 2..26 orbits 36  searched 36  truncated 1  best ratio 1.4541 d 112 tri/edge 8..34 |M| 32 orbits 25 reps [2, 12, 15, 20, 57, 59, 64]  [14s]
+# done F9xZ49 n 441  subgroups 16  with 2..26 orbits 8  searched 8  truncated 1  best ratio 1.3261 d 78 tri/edge 8..16 |M| 24 orbits 26 reps [12, 55, 151, 156]  [7s]
+# done Z9xF49 n 441  subgroups 30  with 2..26 orbits 16  searched 16  truncated 1  best ratio 1.2895 d 78 tri/edge 11..15 |M| 24 orbits 22 reps [49, 59, 73, 154]  [11s]
+# done F4xF109 n 436  subgroups 28  with 2..26 orbits 16  searched 16  truncated 0  best ratio 1.2366 d 72 tri/edge 6..12 |M| 18 orbits 25 reps [1, 110, 134, 139]  [4s]
+# done F16xF27 n 432  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 9.0000 d 130 tri/edge 0..0 |M| 130 orbits 7 reps [28]  [0s]
+# done F16xZ27 n 432  subgroups 20  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.2766 d 100 tri/edge 1..25 |M| 30 orbits 21 reps [1, 3, 12, 29, 31, 33]  [3s]
+# done Z16xF27 n 432  subgroups 16  with 2..26 orbits 8  searched 8  truncated 1  best ratio 1.4942 d 138 tri/edge 4..55 |M| 26 orbits 24 reps [27, 29, 54, 82, 83, 108, 135, 163, 164]  [7s]
+# done F4xF107 n 428  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 212 tri/edge 0..0 |M| 106 orbits 7 reps [108, 215]  [0s]
+R F25xF17 (n 425) |M|  96 orbits  6  S = union of orbits of [18]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  96 orbits  6  S = union of orbits of [19]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  96 orbits  6  S = union of orbits of [20]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  96 orbits  6  S = union of orbits of [23]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  48 orbits 12  S = union of orbits of [18, 91]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  48 orbits 12  S = union of orbits of [19, 88]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  48 orbits 12  S = union of orbits of [20, 86]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  48 orbits 12  S = union of orbits of [23, 87]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [18, 86, 103]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [18, 87, 105]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [18, 88, 108]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [19, 86, 108]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [19, 87, 104]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [19, 91, 105]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [20, 87, 103]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [20, 88, 105]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [20, 91, 104]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [23, 86, 104]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [23, 88, 103]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [23, 91, 108]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [18, 91, 103]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [19, 88, 104]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [20, 86, 105]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  32 orbits 16  S = union of orbits of [23, 87, 108]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  24 orbits 24  S = union of orbits of [18, 36, 91, 156]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  24 orbits 24  S = union of orbits of [19, 35, 88, 159]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  24 orbits 24  S = union of orbits of [20, 40, 86, 155]  d  96  tri/edge 15..15  ratio 1.0606 
+R F25xF17 (n 425) |M|  24 orbits 24  S = union of orbits of [23, 37, 87, 154]  d  96  tri/edge 15..15  ratio 1.0606 
+# done F25xF17 n 425  subgroups 58  with 2..26 orbits 36  searched 36  truncated 2  best ratio 1.0606 d 96 tri/edge 15..15 |M| 96 orbits 6 reps [23]  [19s]
+# done F8xF53 n 424  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 9.0000 d 208 tri/edge 0..0 |M| 52 orbits 15 reps [54, 107, 213, 372]  [0s]
+# done F9xF47 n 423  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 144 tri/edge 3..49 |M| 46 orbits 13 reps [47, 48, 142, 146, 188, 235]  [1s]
+# done F32xF13 n 416  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 192 tri/edge 64..64 |M| 186 orbits 5 reps [2, 15]  [0s]
+# done F4xF103 n 412  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 9.0000 d 204 tri/edge 0..0 |M| 102 orbits 7 reps [104, 207]  [0s]
+# done F81xF5 n 405  subgroups 28  with 2..26 orbits 17  searched 17  truncated 0  best ratio 1.2231 d 100 tri/edge 3..18 |M| 20 orbits 26 reps [7, 47, 85, 86, 135, 136]  [4s]
+# done F4xF101 n 404  subgroups 12  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.4106 d 80 tri/edge 5..22 |M| 30 orbits 21 reps [5, 8, 104, 106]  [1s]
+# done F16xF25 n 400  subgroups 36  with 2..26 orbits 21  searched 21  truncated 1  best ratio 1.5000 d 90 tri/edge 8..16 |M| 30 orbits 19 reps [26, 51, 59]  [6s]
+# done F16xZ25 n 400  subgroups 32  with 2..26 orbits 19  searched 19  truncated 1  best ratio 1.2858 d 70 tri/edge 8..10 |M| 30 orbits 17 reps [1, 27, 36]  [8s]
+# done Z16xF25 n 400  subgroups 44  with 2..26 orbits 17  searched 17  truncated 1  best ratio 1.5000 d 104 tri/edge 4..28 |M| 24 orbits 26 reps [25, 26, 30, 50, 55, 100, 125, 151]  [9s]
+# done F8xF49 n 392  subgroups 16  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.4489 d 100 tri/edge 8..30 |M| 28 orbits 25 reps [15, 18, 20, 24, 57, 58, 67]  [4s]
+# done F8xZ49 n 392  subgroups 20  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.5000 d 224 tri/edge 56..112 |M| 98 orbits 13 reps [1, 2, 50, 51]  [0s]
+# done Z8xF49 n 392  subgroups 28  with 2..26 orbits 12  searched 12  truncated 0  best ratio 1.5000 d 98 tri/edge 4..20 |M| 32 orbits 18 reps [51, 98, 99, 101]  [2s]
+# done F4xF97 n 388  subgroups 30  with 2..26 orbits 17  searched 17  truncated 0  best ratio 1.2505 d 72 tri/edge 12..12 |M| 24 orbits 17 reps [2, 98, 113]  [2s]
+# done F9xF43 n 387  subgroups 16  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.4204 d 78 tri/edge 6..12 |M| 24 orbits 23 reps [1, 46, 48, 138]  [4s]
+# done F128xF3 n 384  subgroups 2  with 2..26 orbits 1  searched 1  truncated 0  best ratio 1.5000 d 256 tri/edge 128..128 |M| 254 orbits 3 reps [1, 4]  [0s]
+# done F8xF47 n 376  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 184 tri/edge 0..0 |M| 46 orbits 15 reps [48, 95, 189, 330]  [0s]
+# done F3xF125 n 375  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.5000 d 250 tri/edge 125..125 |M| 248 orbits 3 reps [125, 126]  [0s]
+# done F9xF41 n 369  subgroups 44  with 2..26 orbits 27  searched 27  truncated 1  best ratio 1.1439 d 72 tri/edge 10..14 |M| 16 orbits 26 reps [8, 42, 45, 59, 61]  [9s]
+# done F16xF23 n 368  subgroups 8  with 2..26 orbits 4  searched 4  truncated 1  best ratio 1.4885 d 128 tri/edge 1..48 |M| 30 orbits 23 reps [1, 2, 6, 11, 25, 26, 29, 33]  [6s]
+# done F3xF121 n 363  subgroups 16  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.4001 d 84 tri/edge 10..14 |M| 24 orbits 21 reps [5, 123, 126, 132]  [1s]
+# done F19xF19 n 361  subgroups 46  with 2..26 orbits 34  searched 34  truncated 0  best ratio 1.1940 d 78 tri/edge 5..14 |M| 18 orbits 22 reps [20, 38, 40, 43, 86]  [13s]
+# done F4xF89 n 356  subgroups 12  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.2665 d 88 tri/edge 14..16 |M| 22 orbits 19 reps [5, 102, 183, 280]  [1s]
+# done F32xF11 n 352  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 192 tri/edge 32..96 |M| 62 orbits 11 reps [2, 3, 4, 13, 14, 15]  [0s]
+# done F27xF13 n 351  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.4877 d 84 tri/edge 3..28 |M| 26 orbits 19 reps [3, 4, 5, 14, 20, 23]  [3s]
+# done F8xF43 n 344  subgroups 20  with 2..26 orbits 16  searched 16  truncated 0  best ratio 1.1891 d 70 tri/edge 8..13 |M| 14 orbits 25 reps [1, 44, 51, 52, 63]  [18s]
+# done F7xF49 n 343  subgroups 30  with 2..26 orbits 18  searched 18  truncated 0  best ratio 1.2076 d 72 tri/edge 14..14 |M| 24 orbits 17 reps [50, 57, 61]  [5s]
+# done F7xZ49 n 343  subgroups 24  with 2..26 orbits 12  searched 12  truncated 0  best ratio 1.3887 d 72 tri/edge 8..13 |M| 18 orbits 25 reps [1, 2, 6, 55, 61, 62]  [2s]
+# done F2xF169 n 338  subgroups 12  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.2479 d 70 tri/edge 10..15 |M| 14 orbits 25 reps [4, 5, 171, 173, 185]  [3s]
+# done F9xF37 n 333  subgroups 33  with 2..26 orbits 19  searched 19  truncated 1  best ratio 1.3324 d 72 tri/edge 10..14 |M| 24 orbits 20 reps [38, 46, 114]  [5s]
+# done F4xF83 n 332  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 164 tri/edge 0..0 |M| 82 orbits 7 reps [84, 167]  [0s]
+# done F8xF41 n 328  subgroups 12  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.4855 d 68 tri/edge 4..17 |M| 28 orbits 21 reps [4, 6, 8, 43, 53]  [1s]
+# done F25xF13 n 325  subgroups 66  with 2..26 orbits 41  searched 41  truncated 1  best ratio 1.2646 d 72 tri/edge 9..17 |M| 24 orbits 16 reps [14, 16, 19]  [9s]
+# done F4xF81 n 324  subgroups 16  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.3798 d 80 tri/edge 14..20 |M| 30 orbits 17 reps [3, 15, 86, 96]  [1s]
+# done F4xZ81 n 324  subgroups 14  with 2..26 orbits 5  searched 5  truncated 0  best ratio 1.5000 d 90 tri/edge 12..24 |M| 54 orbits 15 reps [3, 83, 84]  [1s]
+# done Z4xF81 n 324  subgroups 10  with 2..26 orbits 5  searched 5  truncated 0  best ratio 1.2461 d 70 tri/edge 8..15 |M| 20 orbits 26 reps [1, 17, 85, 98, 167]  [2s]
+# done F64xF5 n 320  subgroups 12  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.2599 d 74 tri/edge 6..18 |M| 18 orbits 23 reps [1, 6, 16, 32, 51]  [1s]
+# done F4xF79 n 316  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.3560 d 104 tri/edge 24..24 |M| 78 orbits 7 reps [1, 80]  [0s]
+# done F16xF19 n 304  subgroups 20  with 2..26 orbits 13  searched 13  truncated 0  best ratio 1.4303 d 66 tri/edge 10..17 |M| 30 orbits 13 reps [1, 20, 28]  [3s]

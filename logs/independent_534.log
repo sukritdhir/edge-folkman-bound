@@ -1,0 +1,23 @@
+[    2.9 s] 1. Q(277, 6): H = the 6-th powers mod 277, |H| = 46, -1 in H, H sum-free: True.
+[    2.9 s]    1668 classes of nonzero vectors modulo H; i -> class of theta^i (theta = 1 + 3 t, t^2 = 2) is a bijection;
+[    2.9 s]    Q is regular of degree 277, with 231018 edges; every edge lies in exactly 46 triangles.
+[    2.9 s]    information: the base vertex set is {[x]: x1^2 - 2 x2^2 is a cube mod 277}; it is {i: i = 0 mod 3}: True.
+[    3.3 s] 2. base graph G': 556 vertices, 28078 edges, 168468 triangles, degrees 101, triangles on an edge: 16 to 20; no K4 (exhaustive).
+[    3.3 s]    target graph G'' = G' minus 22 vertices: 534 vertices, 25963 edges, 150303 triangles (induced subgraph: no K4).
+[    3.5 s] 3. certificate: pi = the shift i -> i + 12 (mod 1668), a permutation of order 139;
+[    3.5 s]    the vertices of G' fall into the following cycles of pi: 4 of length 139;
+[    3.5 s]    139 images of every line; 168468 triangles with a weight (0.0880517 to 1, 0 of them negative, 0 zero),
+[    3.5 s]    28078 edges with a number D (4.9724 to 11.4205); all images are triangles or edges of G'; none occurs twice.
+[    3.7 s] 4. (ii) exact: sum of D over the 25963 indexed edges of G'' = 2857090805436601/12500000000  <=  3 * sum of w over the triangles of G'' = 114283746501207129/500000000000
+[    3.8 s]    (150303 of the 150303 triangles of G'' have a weight in the certificate; the others count with the weight 0)
+[    3.8 s]    as decimals: 228567.264434928 <= 228567.493002414, ratio 0.999999000.
+[    4.6 s] 5. matrix N = S A S: 28078 rows, 1010808 nonzero off-diagonal entries, diagonal 1, largest absolute row sum 4.5762.
+[    5.6 s]    Cholesky factorisation of N - sigma I, sigma = 0.000000e+00 (dense, 28078 x 28078, 5.9 GB) ...
+[   71.5 s]    estimate of the smallest eigenvalue of N (inverse iteration; a guess, not used in the proof): 1.546539e-03
+[   72.3 s]    Cholesky factorisation of N - sigma I, sigma = 1.391885e-03 (dense, 28078 x 28078, 5.9 GB) ...
+[  118.1 s]    factorisation done; computing the residual E = N - sigma I - L L^T entry by entry ...
+[  175.3 s]    max |E_ij| = 3.331e-16, ||E||_inf (computed) = 6.461e-15, max |l_i|^2 = 0.998608, allowance for rounding = 8.749e-08
+[  175.3 s]    PROVED:  lambda_min(N) >= sigma - ||E||_inf - allowance = 1.391797e-03
+[  175.3 s]    peak memory of this run: 7.0 GB.
+[  175.3 s] INDEPENDENT CHECK PASSED: the graph G'' has 534 vertices and no K4, (ii) holds exactly, and A is positive
+[  175.3 s] definite (floating point with error bound, no symmetry used).  By the lemma, G'' arrows (3,3): F_e(3,3;4) <= 534.

@@ -1,0 +1,42 @@
+certificate folkman_upper_705b.txt   sha256 6d819314f8fc1942fc5ce4a0618fc86d4e60b8ddc831065d5a6eb2dfb82954b1
+0. self-tests: K_6 certified, K_5 not certified; method B on a toy matrix: a positive definite principal
+   submatrix of an indefinite matrix certified, an indefinite principal submatrix not certified: ok
+1. base graph G' = Cay(Z_941, S) minus 236 vertices, |S| = 188 (S = the nonzero 5-th powers modulo the prime 941):
+   705 vertices, 50196 edges, 310247 triangles, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 705 vertices (an induced subgraph, so no K4 either).
+2. certificate: 6601 triangle orbits (310247 triangles) with weights >= 0, 1068 edge orbits (50196 edges) with D > 0,
+   all orbits under v -> 302 v have full length q = 47; every listed triple is a triangle of G';
+   common denominator of the numbers in the file: 1000000.
+3. budget on G'': sum of D_e over its 50196 indexed edges = 470655267420/1000000;  3 * weight of its 310247 listed triangles = 470659943967/1000000;
+   ratio = 0.999990063852  (must be <= 1; exact integer comparison): ok
+4. matrix A = 3M + 2D: size 50196, commutes with the permutation of order 47; 47 orbit blocks of size 1068,
+   40674 nonzero integer coefficients A_j[a,b].
+5. positive definiteness of the 24 blocks B_r, r = 0..23 (B_{q-r} is the complex conjugate of B_r);
+   exact integer residuals, products through BLAS; 4 processes ...
+   r =  0: size 1068, sigma = 705326259914619, ||E|| <= 311620129432, enclosure error <= 49  ->  lambda_min >= 705014639785138  POSITIVE  [15s]
+   r =  1: size 2136, sigma = 706935375209731, ||E|| <= 615796540816, enclosure error <= 147  ->  lambda_min >= 706319578668768  POSITIVE  [37s]
+   r =  2: size 2136, sigma = 705219790609823, ||E|| <= 612353685700, enclosure error <= 147  ->  lambda_min >= 704607436923976  POSITIVE  [34s]
+   r =  3: size 2136, sigma = 707007254216284, ||E|| <= 610449899498, enclosure error <= 147  ->  lambda_min >= 706396804316639  POSITIVE  [29s]
+   r =  4: size 2136, sigma = 706558918425868, ||E|| <= 612447405006, enclosure error <= 147  ->  lambda_min >= 705946471020715  POSITIVE  [36s]
+   r =  5: size 2136, sigma = 707182466828882, ||E|| <= 616199540147, enclosure error <= 147  ->  lambda_min >= 706566267288588  POSITIVE  [41s]
+   r =  6: size 2136, sigma = 706740661560320, ||E|| <= 612559671893, enclosure error <= 147  ->  lambda_min >= 706128101888280  POSITIVE  [33s]
+   r =  7: size 2136, sigma = 706606206373893, ||E|| <= 613485038710, enclosure error <= 147  ->  lambda_min >= 705992721335036  POSITIVE  [38s]
+   r =  8: size 2136, sigma = 706991724116499, ||E|| <= 609341362842, enclosure error <= 147  ->  lambda_min >= 706382382753510  POSITIVE  [40s]
+   r =  9: size 2136, sigma = 706812347438324, ||E|| <= 618908554207, enclosure error <= 147  ->  lambda_min >= 706193438883970  POSITIVE  [39s]
+   r = 10: size 2136, sigma = 705243149531535, ||E|| <= 614164903637, enclosure error <= 147  ->  lambda_min >= 704628984627751  POSITIVE  [39s]
+   r = 11: size 2136, sigma = 707400645969164, ||E|| <= 611413397289, enclosure error <= 147  ->  lambda_min >= 706789232571728  POSITIVE  [41s]
+   r = 12: size 2136, sigma = 706726251133950, ||E|| <= 612817803327, enclosure error <= 147  ->  lambda_min >= 706113433330476  POSITIVE  [39s]
+   r = 13: size 2136, sigma = 707061861921740, ||E|| <= 614667475523, enclosure error <= 147  ->  lambda_min >= 706447194446070  POSITIVE  [41s]
+   r = 14: size 2136, sigma = 706784360768868, ||E|| <= 615026916166, enclosure error <= 147  ->  lambda_min >= 706169333852555  POSITIVE  [40s]
+   r = 15: size 2136, sigma = 706852552772253, ||E|| <= 611952187345, enclosure error <= 147  ->  lambda_min >= 706240600584761  POSITIVE  [40s]
+   r = 16: size 2136, sigma = 708267141591930, ||E|| <= 617923580791, enclosure error <= 147  ->  lambda_min >= 707649218010992  POSITIVE  [40s]
+   r = 17: size 2136, sigma = 706949673627312, ||E|| <= 615702957046, enclosure error <= 147  ->  lambda_min >= 706333970670119  POSITIVE  [41s]
+   r = 18: size 2136, sigma = 706945813002020, ||E|| <= 609585307270, enclosure error <= 147  ->  lambda_min >= 706336227694603  POSITIVE  [40s]
+   r = 19: size 2136, sigma = 706678035669370, ||E|| <= 612511654936, enclosure error <= 147  ->  lambda_min >= 706065524014287  POSITIVE  [36s]
+   r = 20: size 2136, sigma = 706992025850012, ||E|| <= 619444003843, enclosure error <= 147  ->  lambda_min >= 706372581846022  POSITIVE  [38s]
+   r = 21: size 2136, sigma = 706897428690077, ||E|| <= 625539935539, enclosure error <= 147  ->  lambda_min >= 706271888754391  POSITIVE  [26s]
+   r = 22: size 2136, sigma = 706652983831249, ||E|| <= 610867913418, enclosure error <= 147  ->  lambda_min >= 706042115917684  POSITIVE  [25s]
+   r = 23: size 2136, sigma = 707334735549272, ||E|| <= 611583448181, enclosure error <= 147  ->  lambda_min >= 706723152100944  POSITIVE  [21s]
+   all blocks are positive definite.  Rigorous bound: lambda_min(D^-1/2 M D^-1/2) >= -2/3 + 0.000407
+THEOREM CHECKED: the graph G'' on 705 vertices contains no K4 and every 2-colouring of its edges has a
+monochromatic triangle.  Hence F_e(3,3;4) <= 705.   [total time 215s]

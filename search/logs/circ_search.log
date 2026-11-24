@@ -1,0 +1,3 @@
+n 353 s 22 |G| 22 seed 1 moves 400: best ratio 1.0944 d 88 tri/edge 12..17  orbit reps [3, 9, 15, 41]  [0s]
+n 353 s 70 |G| 8 seed 1 moves 1500: best ratio 1.2425 d 72 tri/edge 8..14  orbit reps [1, 4, 7, 8, 13, 14, 24, 48, 57]  [2s]
+n 353 s 70 |G| 8 seed 1 moves 60000: best ratio 1.1858 d 80 tri/edge 9..17  orbit reps [8, 16, 32, 39, 53, 54, 62, 63, 87, 123]  [62s]

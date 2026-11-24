@@ -1,0 +1,4 @@
+# Q(157,6) split classes: n = 948, class sizes [78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78], axis vertices 12
+# Q(157,6) split classes: n = 948, class sizes [78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78], axis vertices 12
+# Q(157,6) split classes: n = 948, class sizes [78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78, 78], axis vertices 12
+# done Q(157,6) split size 5 axis 0: 396 sets, best ratio 1.1497 J [3, 4, 5, 9, 10] (n 390, tri/edge 8..16)  [214s]

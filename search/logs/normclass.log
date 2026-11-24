@@ -1,0 +1,1345 @@
+# Q(157,6): n = 948, 12 classes of 79 vertices (i mod 12)
+# Q(97,6): n = 588, 12 classes of 49 vertices (i mod 12)
+# Q(277,6): n = 1668, 12 classes of 139 vertices (i mod 12)
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]  n 539  edges 24010  tri/edge 11..16  ratio 1.0454 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11]  n 539  edges 23912  tri/edge 10..16  ratio 1.0404 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7]  n 632  edges 33022  tri/edge 8..26  ratio 1.0510 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 10, 11]  n 539  edges 23912  tri/edge 12..16  ratio 1.0394 
+Q(277,6) c 12 J [0, 1, 2, 3, 4]  n 695  edges 37669  tri/edge 4..31  ratio 1.0235 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 8]  n 632  edges 33101  tri/edge 8..25  ratio 1.0517 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11]  n 539  edges 24010  tri/edge 11..16  ratio 1.0376 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 9]  n 632  edges 33417  tri/edge 8..26  ratio 1.0456 
+Q(277,6) c 12 J [0, 1, 2, 3, 5]  n 695  edges 38086  tri/edge 8..31  ratio 1.0174 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 11]  n 539  edges 24010  tri/edge 12..16  ratio 1.0433 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 10]  n 632  edges 33733  tri/edge 9..24  ratio 1.0547 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 8, 9, 10, 11]  n 539  edges 23912  tri/edge 10..16  ratio 1.0424 
+# done Q(97,6) c 12 size 11: 6 sets, best ratio 1.0376 J [0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11] (n 539, tri/edge 11..16)  [10s]
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]  n 490  edges 19600  tri/edge 9..16  ratio 1.0831 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 10]  n 490  edges 19698  tri/edge 9..16  ratio 1.0780 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 8, 11]  n 490  edges 19796  tri/edge 10..16  ratio 1.0806 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 9, 10]  n 490  edges 19992  tri/edge 7..16  ratio 1.0747 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 11]  n 632  edges 33654  tri/edge 11..25  ratio 1.0424 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 9, 11]  n 490  edges 19698  tri/edge 7..16  ratio 1.0792 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 7, 10, 11]  n 490  edges 19992  tri/edge 10..16  ratio 1.0782 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 8, 9, 10]  n 490  edges 19796  tri/edge 8..16  ratio 1.0789 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 8, 9, 11]  n 490  edges 19992  tri/edge 10..16  ratio 1.0763 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 8, 10, 11]  n 490  edges 19894  tri/edge 8..16  ratio 1.0750 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 6, 9, 10, 11]  n 490  edges 19992  tri/edge 10..16  ratio 1.0830 
+Q(277,6) c 12 J [0, 1, 2, 3, 6]  n 695  edges 40310  tri/edge 10..32  ratio 0.9951 ARROWS
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 8, 9, 10]  n 490  edges 19992  tri/edge 8..16  ratio 1.0816 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 8, 9, 11]  n 490  edges 19796  tri/edge 8..16  ratio 1.0789 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 8, 10, 11]  n 490  edges 19796  tri/edge 8..16  ratio 1.0828 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 8]  n 632  edges 33575  tri/edge 9..26  ratio 1.0421 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 9, 10, 11]  n 490  edges 19894  tri/edge 8..16  ratio 1.0726 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 5, 8, 9, 10, 11]  n 490  edges 19600  tri/edge 7..16  ratio 1.0945 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 8, 9, 10]  n 490  edges 19992  tri/edge 8..16  ratio 1.0801 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 8, 9, 11]  n 490  edges 19894  tri/edge 10..16  ratio 1.0930 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 9]  n 632  edges 32627  tri/edge 5..26  ratio 1.0492 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 8, 10, 11]  n 490  edges 19894  tri/edge 10..16  ratio 1.0747 
+Q(277,6) c 12 J [0, 1, 2, 3, 7]  n 695  edges 40588  tri/edge 6..28  ratio 0.9780 ARROWS
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 9, 10, 11]  n 490  edges 19698  tri/edge 7..16  ratio 1.0879 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 6, 8, 9, 10, 11]  n 490  edges 19796  tri/edge 8..16  ratio 1.0752 
+Q(97,6) c 12 J [0, 1, 2, 3, 4, 7, 8, 9, 10, 11]  n 490  edges 19845  tri/edge 7..16  ratio 1.0810 
+Q(97,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 8, 9, 11]  n 490  edges 19796  tri/edge 10..16  ratio 1.0766 
+Q(97,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 8, 10, 11]  n 490  edges 19502  tri/edge 7..16  ratio 1.0878 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 10]  n 632  edges 33654  tri/edge 10..25  ratio 1.0385 
+Q(97,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 9, 10, 11]  n 490  edges 19698  tri/edge 9..16  ratio 1.0788 
+Q(97,6) c 12 J [0, 1, 2, 3, 5, 6, 8, 9, 10, 11]  n 490  edges 19845  tri/edge 9..16  ratio 1.0852 
+Q(97,6) c 12 J [0, 1, 2, 3, 5, 7, 8, 9, 10, 11]  n 490  edges 19796  tri/edge 7..16  ratio 1.0799 
+Q(97,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 8, 10, 11]  n 490  edges 19600  tri/edge 8..16  ratio 1.0916 
+Q(277,6) c 12 J [0, 1, 2, 3, 8]  n 695  edges 40171  tri/edge 9..32  ratio 1.0038 
+Q(97,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 9, 10, 11]  n 490  edges 19845  tri/edge 9..16  ratio 1.0773 
+Q(97,6) c 12 J [0, 1, 2, 4, 5, 6, 8, 9, 10, 11]  n 490  edges 19894  tri/edge 10..16  ratio 1.0767 
+Q(97,6) c 12 J [0, 1, 2, 4, 5, 7, 8, 9, 10, 11]  n 490  edges 19502  tri/edge 8..16  ratio 1.0922 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 7, 11]  n 632  edges 33733  tri/edge 13..24  ratio 1.0435 
+Q(97,6) c 12 J [0, 1, 3, 4, 5, 6, 7, 9, 10, 11]  n 490  edges 19992  tri/edge 10..16  ratio 1.0777 
+Q(97,6) c 12 J [0, 1, 3, 4, 5, 6, 8, 9, 10, 11]  n 490  edges 19698  tri/edge 8..16  ratio 1.0801 
+Q(97,6) c 12 J [0, 1, 3, 4, 5, 7, 8, 9, 10, 11]  n 490  edges 19698  tri/edge 9..16  ratio 1.0808 
+Q(97,6) c 12 J [0, 2, 3, 4, 5, 6, 8, 9, 10, 11]  n 490  edges 19796  tri/edge 10..16  ratio 1.0839 
+Q(97,6) c 12 J [0, 2, 3, 4, 5, 7, 8, 9, 10, 11]  n 490  edges 19894  tri/edge 9..16  ratio 1.0920 
+Q(277,6) c 12 J [0, 1, 2, 3, 9]  n 695  edges 40449  tri/edge 9..30  ratio 1.0105 
+Q(97,6) c 12 J [1, 2, 3, 4, 5, 7, 8, 9, 10, 11]  n 490  edges 19600  tri/edge 6..16  ratio 1.1048 
+# done Q(97,6) c 12 size 10: 36 sets, best ratio 1.0726 J [0, 1, 2, 3, 4, 5, 7, 9, 10, 11] (n 490, tri/edge 8..16)  [20s]
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 8, 9]  n 632  edges 32548  tri/edge 5..26  ratio 1.0513 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 8, 10]  n 632  edges 33733  tri/edge 11..25  ratio 1.0443 
+Q(277,6) c 12 J [0, 1, 2, 3, 10]  n 695  edges 39615  tri/edge 8..30  ratio 1.0080 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 8, 11]  n 632  edges 33496  tri/edge 11..25  ratio 1.0578 
+Q(277,6) c 12 J [0, 1, 2, 3, 11]  n 695  edges 40032  tri/edge 8..32  ratio 0.9986 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 9, 10]  n 632  edges 33338  tri/edge 7..26  ratio 1.0415 
+Q(277,6) c 12 J [0, 1, 2, 4, 5]  n 695  edges 37808  tri/edge 8..33  ratio 1.0590 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 9, 11]  n 632  edges 33733  tri/edge 13..26  ratio 1.0332 
+Q(277,6) c 12 J [0, 1, 2, 4, 6]  n 695  edges 38364  tri/edge 5..29  ratio 1.0187 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 10, 11]  n 632  edges 34128  tri/edge 14..23  ratio 1.0468 
+Q(277,6) c 12 J [0, 1, 2, 4, 7]  n 695  edges 40449  tri/edge 9..31  ratio 0.9904 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 8]  n 632  edges 33575  tri/edge 10..24  ratio 1.0385 
+Q(277,6) c 12 J [0, 1, 2, 4, 8]  n 695  edges 40310  tri/edge 11..31  ratio 0.9809 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 9]  n 632  edges 33022  tri/edge 10..23  ratio 1.0469 
+Q(277,6) c 12 J [0, 1, 2, 4, 9]  n 695  edges 38086  tri/edge 6..35  ratio 1.0337 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 10]  n 632  edges 32785  tri/edge 7..25  ratio 1.0589 
+Q(277,6) c 12 J [0, 1, 2, 4, 10]  n 695  edges 40032  tri/edge 8..30  ratio 1.0159 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 7, 11]  n 632  edges 33575  tri/edge 11..24  ratio 1.0436 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 8, 9]  n 632  edges 33101  tri/edge 10..25  ratio 1.0461 
+Q(277,6) c 12 J [0, 1, 2, 4, 11]  n 695  edges 39337  tri/edge 8..34  ratio 1.0271 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 8, 10]  n 632  edges 33022  tri/edge 11..23  ratio 1.0490 
+Q(277,6) c 12 J [0, 1, 2, 5, 6]  n 695  edges 39059  tri/edge 10..35  ratio 1.0154 
+Q(277,6) c 12 J [0, 1, 2, 5, 7]  n 695  edges 41422  tri/edge 13..31  ratio 0.9985 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 8, 11]  n 632  edges 33496  tri/edge 11..25  ratio 1.0434 
+Q(277,6) c 12 J [0, 1, 2, 5, 8]  n 695  edges 38781  tri/edge 9..31  ratio 0.9965 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 9, 10]  n 632  edges 33022  tri/edge 9..25  ratio 1.0584 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 9, 11]  n 632  edges 34128  tri/edge 13..23  ratio 1.0333 
+Q(277,6) c 12 J [0, 1, 2, 5, 9]  n 695  edges 39337  tri/edge 9..33  ratio 1.0194 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 10, 11]  n 632  edges 33259  tri/edge 11..23  ratio 1.0402 
+Q(277,6) c 12 J [0, 1, 2, 5, 10]  n 695  edges 40171  tri/edge 10..34  ratio 0.9986 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 8, 9]  n 632  edges 32864  tri/edge 8..23  ratio 1.0504 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 8, 10]  n 632  edges 33496  tri/edge 11..23  ratio 1.0625 
+Q(277,6) c 12 J [0, 1, 2, 5, 11]  n 695  edges 38642  tri/edge 6..35  ratio 1.0105 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 8, 11]  n 632  edges 34128  tri/edge 15..25  ratio 1.0503 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 9, 10]  n 632  edges 32232  tri/edge 7..24  ratio 1.0616 
+Q(277,6) c 12 J [0, 1, 2, 6, 7]  n 695  edges 41561  tri/edge 12..26  ratio 0.9825 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 9, 11]  n 632  edges 33496  tri/edge 13..23  ratio 1.0472 
+Q(277,6) c 12 J [0, 1, 2, 6, 8]  n 695  edges 41700  tri/edge 12..28  ratio 0.9751 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 10, 11]  n 632  edges 33338  tri/edge 11..24  ratio 1.0554 
+Q(277,6) c 12 J [0, 1, 2, 6, 9]  n 695  edges 41144  tri/edge 12..28  ratio 0.9816 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 9, 10]  n 632  edges 32311  tri/edge 9..25  ratio 1.0655 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 9, 11]  n 632  edges 33259  tri/edge 11..23  ratio 1.0479 
+Q(277,6) c 12 J [0, 1, 2, 6, 10]  n 695  edges 41144  tri/edge 12..29  ratio 0.9833 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 10, 11]  n 632  edges 33259  tri/edge 11..23  ratio 1.0651 
+Q(277,6) c 12 J [0, 1, 2, 6, 11]  n 695  edges 40171  tri/edge 8..30  ratio 1.0098 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 9, 10, 11]  n 632  edges 33180  tri/edge 13..23  ratio 1.0463 
+Q(277,6) c 12 J [0, 1, 2, 7, 8]  n 695  edges 43229  tri/edge 18..27  ratio 0.9566 ARROWS
+Q(277,6) c 12 J [0, 1, 2, 7, 9]  n 695  edges 41839  tri/edge 13..29  ratio 0.9916 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 8]  n 632  edges 33970  tri/edge 12..24  ratio 1.0284 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 9]  n 632  edges 33575  tri/edge 11..24  ratio 1.0437 
+Q(277,6) c 12 J [0, 1, 2, 7, 10]  n 695  edges 42395  tri/edge 14..29  ratio 0.9887 ARROWS
+Q(277,6) c 12 J [0, 1, 2, 7, 11]  n 695  edges 41422  tri/edge 9..29  ratio 0.9767 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 10]  n 632  edges 33733  tri/edge 10..25  ratio 1.0450 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 7, 11]  n 632  edges 33259  tri/edge 11..24  ratio 1.0409 
+Q(277,6) c 12 J [0, 1, 2, 8, 9]  n 695  edges 40588  tri/edge 10..30  ratio 0.9836 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 8, 9]  n 632  edges 33654  tri/edge 10..25  ratio 1.0357 
+Q(277,6) c 12 J [0, 1, 2, 8, 10]  n 695  edges 41144  tri/edge 12..28  ratio 0.9735 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 8, 10]  n 632  edges 33970  tri/edge 13..23  ratio 1.0466 
+Q(277,6) c 12 J [0, 1, 2, 8, 11]  n 695  edges 41561  tri/edge 12..29  ratio 0.9800 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 8, 11]  n 632  edges 33180  tri/edge 11..24  ratio 1.0394 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 9, 10]  n 632  edges 34128  tri/edge 13..22  ratio 1.0650 
+Q(277,6) c 12 J [0, 1, 2, 9, 10]  n 695  edges 41700  tri/edge 14..29  ratio 1.0002 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 9, 11]  n 632  edges 33970  tri/edge 13..24  ratio 1.0449 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 10, 11]  n 632  edges 33496  tri/edge 11..23  ratio 1.0579 
+Q(277,6) c 12 J [0, 1, 2, 9, 11]  n 695  edges 41283  tri/edge 13..33  ratio 0.9938 ARROWS
+Q(277,6) c 12 J [0, 1, 2, 10, 11]  n 695  edges 42534  tri/edge 12..29  ratio 0.9874 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 8, 9]  n 632  edges 33101  tri/edge 6..24  ratio 1.0500 
+Q(277,6) c 12 J [0, 1, 3, 4, 5]  n 695  edges 38086  tri/edge 10..27  ratio 1.0476 
+Q(277,6) c 12 J [0, 1, 3, 4, 6]  n 695  edges 38781  tri/edge 10..31  ratio 1.0202 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 8, 10]  n 632  edges 34128  tri/edge 13..26  ratio 1.0255 
+Q(277,6) c 12 J [0, 1, 3, 4, 7]  n 695  edges 39198  tri/edge 6..29  ratio 1.0071 
+Q(277,6) c 12 J [0, 1, 3, 4, 8]  n 695  edges 40866  tri/edge 12..32  ratio 1.0043 
+Q(277,6) c 12 J [0, 1, 3, 4, 9]  n 695  edges 38920  tri/edge 9..27  ratio 1.0194 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 8, 11]  n 632  edges 33496  tri/edge 11..24  ratio 1.0457 
+Q(277,6) c 12 J [0, 1, 3, 4, 10]  n 695  edges 38364  tri/edge 8..30  ratio 1.0184 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 9, 10]  n 632  edges 33022  tri/edge 7..25  ratio 1.0548 
+Q(277,6) c 12 J [0, 1, 3, 4, 11]  n 695  edges 40449  tri/edge 10..30  ratio 1.0013 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 9, 11]  n 632  edges 33022  tri/edge 11..23  ratio 1.0556 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 10, 11]  n 632  edges 33259  tri/edge 11..25  ratio 1.0420 
+Q(277,6) c 12 J [0, 1, 3, 5, 6]  n 695  edges 38642  tri/edge 10..31  ratio 1.0097 
+Q(277,6) c 12 J [0, 1, 3, 5, 7]  n 695  edges 39337  tri/edge 10..29  ratio 1.0213 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 9, 10]  n 632  edges 33101  tri/edge 7..24  ratio 1.0493 
+Q(277,6) c 12 J [0, 1, 3, 5, 8]  n 695  edges 38503  tri/edge 8..29  ratio 1.0428 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 9, 11]  n 632  edges 32785  tri/edge 11..24  ratio 1.0438 
+Q(277,6) c 12 J [0, 1, 3, 5, 9]  n 695  edges 39337  tri/edge 10..26  ratio 1.0405 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 10, 11]  n 632  edges 33180  tri/edge 11..23  ratio 1.0422 
+Q(277,6) c 12 J [0, 1, 3, 5, 10]  n 695  edges 37669  tri/edge 10..26  ratio 1.0070 
+Q(277,6) c 12 J [0, 1, 3, 5, 11]  n 695  edges 38920  tri/edge 10..29  ratio 1.0095 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 9, 10, 11]  n 632  edges 33259  tri/edge 12..23  ratio 1.0419 
+Q(277,6) c 12 J [0, 1, 3, 6, 7]  n 695  edges 39615  tri/edge 11..27  ratio 0.9874 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 8, 9]  n 632  edges 33812  tri/edge 14..26  ratio 1.0368 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 8, 10]  n 632  edges 33575  tri/edge 10..24  ratio 1.0392 
+Q(277,6) c 12 J [0, 1, 3, 6, 8]  n 695  edges 41561  tri/edge 13..28  ratio 0.9644 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 8, 11]  n 632  edges 33654  tri/edge 11..24  ratio 1.0304 
+Q(277,6) c 12 J [0, 1, 3, 6, 9]  n 695  edges 41283  tri/edge 13..29  ratio 0.9788 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 9, 10]  n 632  edges 32864  tri/edge 8..24  ratio 1.0562 
+Q(277,6) c 12 J [0, 1, 3, 6, 10]  n 695  edges 38781  tri/edge 9..29  ratio 0.9911 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 9, 11]  n 632  edges 33575  tri/edge 13..23  ratio 1.0369 
+Q(277,6) c 12 J [0, 1, 3, 6, 11]  n 695  edges 40588  tri/edge 11..29  ratio 0.9890 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 10, 11]  n 632  edges 32548  tri/edge 10..22  ratio 1.0381 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 9, 10]  n 632  edges 33101  tri/edge 10..25  ratio 1.0510 
+Q(277,6) c 12 J [0, 1, 3, 7, 8]  n 695  edges 41422  tri/edge 12..28  ratio 0.9748 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 9, 11]  n 632  edges 33496  tri/edge 10..25  ratio 1.0337 
+Q(277,6) c 12 J [0, 1, 3, 7, 9]  n 695  edges 40310  tri/edge 11..27  ratio 1.0469 
+Q(277,6) c 12 J [0, 1, 3, 7, 10]  n 695  edges 38364  tri/edge 10..26  ratio 1.0113 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 10, 11]  n 632  edges 32627  tri/edge 8..24  ratio 1.0415 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 9, 10, 11]  n 632  edges 33101  tri/edge 10..24  ratio 1.0474 
+Q(277,6) c 12 J [0, 1, 3, 7, 11]  n 695  edges 40171  tri/edge 10..31  ratio 0.9973 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 9, 10]  n 632  edges 32548  tri/edge 5..22  ratio 1.0479 
+Q(277,6) c 12 J [0, 1, 3, 8, 9]  n 695  edges 40866  tri/edge 12..30  ratio 0.9845 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 9, 11]  n 632  edges 33101  tri/edge 9..23  ratio 1.0562 
+Q(277,6) c 12 J [0, 1, 3, 8, 10]  n 695  edges 38920  tri/edge 9..31  ratio 1.0085 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 10, 11]  n 632  edges 32943  tri/edge 10..22  ratio 1.0406 
+Q(277,6) c 12 J [0, 1, 3, 8, 11]  n 695  edges 42117  tri/edge 12..30  ratio 0.9809 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 9, 10, 11]  n 632  edges 32153  tri/edge 10..23  ratio 1.0443 
+Q(277,6) c 12 J [0, 1, 3, 9, 10]  n 695  edges 39754  tri/edge 12..27  ratio 1.0057 
+Q(157,6) c 12 J [0, 1, 2, 3, 8, 9, 10, 11]  n 632  edges 32074  tri/edge 10..24  ratio 1.0421 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 8]  n 632  edges 33101  tri/edge 8..23  ratio 1.0418 
+Q(277,6) c 12 J [0, 1, 3, 9, 11]  n 695  edges 42117  tri/edge 15..29  ratio 0.9646 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 9]  n 632  edges 32706  tri/edge 8..23  ratio 1.0427 
+Q(277,6) c 12 J [0, 1, 3, 10, 11]  n 695  edges 40866  tri/edge 10..33  ratio 0.9913 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 10]  n 632  edges 33022  tri/edge 9..25  ratio 1.0624 
+Q(277,6) c 12 J [0, 1, 4, 5, 6]  n 695  edges 37391  tri/edge 6..29  ratio 1.0576 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 7, 11]  n 632  edges 32943  tri/edge 11..23  ratio 1.0455 
+Q(277,6) c 12 J [0, 1, 4, 5, 7]  n 695  edges 39893  tri/edge 9..33  ratio 1.0188 
+Q(277,6) c 12 J [0, 1, 4, 5, 8]  n 695  edges 39337  tri/edge 7..30  ratio 1.0203 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 8, 9]  n 632  edges 32469  tri/edge 7..23  ratio 1.0440 
+Q(277,6) c 12 J [0, 1, 4, 5, 9]  n 695  edges 37669  tri/edge 4..31  ratio 1.0508 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 8, 10]  n 632  edges 32943  tri/edge 9..24  ratio 1.0551 
+Q(277,6) c 12 J [0, 1, 4, 5, 10]  n 695  edges 38781  tri/edge 8..30  ratio 1.0234 
+Q(277,6) c 12 J [0, 1, 4, 5, 11]  n 695  edges 38920  tri/edge 10..30  ratio 1.0208 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 8, 11]  n 632  edges 32548  tri/edge 9..24  ratio 1.0483 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 9, 10]  n 632  edges 33101  tri/edge 9..25  ratio 1.0750 
+Q(277,6) c 12 J [0, 1, 4, 6, 7]  n 695  edges 38503  tri/edge 8..27  ratio 1.0248 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 9, 11]  n 632  edges 33338  tri/edge 12..23  ratio 1.0478 
+Q(277,6) c 12 J [0, 1, 4, 6, 8]  n 695  edges 40727  tri/edge 11..31  ratio 0.9792 ARROWS
+Q(277,6) c 12 J [0, 1, 4, 6, 9]  n 695  edges 37947  tri/edge 6..30  ratio 1.0088 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 10, 11]  n 632  edges 33022  tri/edge 10..24  ratio 1.0587 
+Q(277,6) c 12 J [0, 1, 4, 6, 10]  n 695  edges 38225  tri/edge 8..30  ratio 1.0479 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 8, 9]  n 632  edges 32390  tri/edge 6..24  ratio 1.0452 
+Q(277,6) c 12 J [0, 1, 4, 6, 11]  n 695  edges 38920  tri/edge 8..26  ratio 1.0153 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 8, 10]  n 632  edges 33575  tri/edge 11..24  ratio 1.0402 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 8, 11]  n 632  edges 33338  tri/edge 10..24  ratio 1.0476 
+Q(277,6) c 12 J [0, 1, 4, 7, 8]  n 695  edges 42395  tri/edge 15..30  ratio 0.9722 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 9, 10]  n 632  edges 32469  tri/edge 7..24  ratio 1.0488 
+Q(277,6) c 12 J [0, 1, 4, 7, 9]  n 695  edges 38781  tri/edge 9..29  ratio 1.0260 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 9, 11]  n 632  edges 32864  tri/edge 12..23  ratio 1.0484 
+Q(277,6) c 12 J [0, 1, 4, 7, 10]  n 695  edges 39615  tri/edge 10..29  ratio 1.0212 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 10, 11]  n 632  edges 33259  tri/edge 12..24  ratio 1.0328 
+Q(277,6) c 12 J [0, 1, 4, 7, 11]  n 695  edges 40310  tri/edge 10..27  ratio 0.9844 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 9, 10]  n 632  edges 32232  tri/edge 6..25  ratio 1.0525 
+Q(277,6) c 12 J [0, 1, 4, 8, 9]  n 695  edges 39615  tri/edge 11..31  ratio 0.9927 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 9, 11]  n 632  edges 32311  tri/edge 9..23  ratio 1.0475 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 10, 11]  n 632  edges 32864  tri/edge 11..24  ratio 1.0333 
+Q(277,6) c 12 J [0, 1, 4, 8, 10]  n 695  edges 40449  tri/edge 10..30  ratio 0.9893 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 9, 10, 11]  n 632  edges 32943  tri/edge 10..23  ratio 1.0481 
+Q(277,6) c 12 J [0, 1, 4, 8, 11]  n 695  edges 42534  tri/edge 15..28  ratio 0.9936 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 8, 10]  n 632  edges 33496  tri/edge 10..23  ratio 1.0528 
+Q(277,6) c 12 J [0, 1, 4, 9, 10]  n 695  edges 38781  tri/edge 8..31  ratio 1.0229 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 8, 11]  n 632  edges 33970  tri/edge 14..24  ratio 1.0343 
+Q(277,6) c 12 J [0, 1, 4, 9, 11]  n 695  edges 40032  tri/edge 11..30  ratio 1.0243 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 9, 10]  n 632  edges 32785  tri/edge 9..25  ratio 1.0667 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 9, 11]  n 632  edges 33891  tri/edge 13..21  ratio 1.0307 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 10, 11]  n 632  edges 33022  tri/edge 11..24  ratio 1.0425 
+Q(277,6) c 12 J [0, 1, 4, 10, 11]  n 695  edges 41561  tri/edge 11..28  ratio 0.9788 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 9, 10]  n 632  edges 32706  tri/edge 9..25  ratio 1.0743 
+Q(277,6) c 12 J [0, 1, 5, 6, 7]  n 695  edges 38920  tri/edge 10..29  ratio 1.0416 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 9, 11]  n 632  edges 33496  tri/edge 9..24  ratio 1.0337 
+Q(277,6) c 12 J [0, 1, 5, 6, 8]  n 695  edges 38642  tri/edge 4..28  ratio 1.0311 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 10, 11]  n 632  edges 32785  tri/edge 9..25  ratio 1.0533 
+Q(277,6) c 12 J [0, 1, 5, 6, 9]  n 695  edges 38642  tri/edge 6..30  ratio 1.0263 
+Q(277,6) c 12 J [0, 1, 5, 6, 10]  n 695  edges 37808  tri/edge 7..27  ratio 1.0264 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 9, 10, 11]  n 632  edges 33259  tri/edge 9..24  ratio 1.0567 
+Q(277,6) c 12 J [0, 1, 5, 6, 11]  n 695  edges 37669  tri/edge 7..26  ratio 1.0391 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 9, 10]  n 632  edges 32627  tri/edge 7..26  ratio 1.0541 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 9, 11]  n 632  edges 33575  tri/edge 11..24  ratio 1.0478 
+Q(277,6) c 12 J [0, 1, 5, 7, 8]  n 695  edges 40588  tri/edge 8..31  ratio 1.0074 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 10, 11]  n 632  edges 33575  tri/edge 11..23  ratio 1.0461 
+Q(277,6) c 12 J [0, 1, 5, 7, 9]  n 695  edges 39754  tri/edge 9..31  ratio 0.9931 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 9, 10, 11]  n 632  edges 32785  tri/edge 10..24  ratio 1.0386 
+Q(277,6) c 12 J [0, 1, 5, 7, 10]  n 695  edges 39476  tri/edge 12..29  ratio 1.0149 
+Q(157,6) c 12 J [0, 1, 2, 4, 8, 9, 10, 11]  n 632  edges 32390  tri/edge 7..25  ratio 1.0420 
+Q(277,6) c 12 J [0, 1, 5, 7, 11]  n 695  edges 39337  tri/edge 10..29  ratio 1.0032 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 8, 11]  n 632  edges 33180  tri/edge 12..24  ratio 1.0723 
+Q(277,6) c 12 J [0, 1, 5, 8, 9]  n 695  edges 38086  tri/edge 8..29  ratio 1.0448 
+Q(277,6) c 12 J [0, 1, 5, 8, 10]  n 695  edges 37808  tri/edge 6..31  ratio 1.0323 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 9, 10]  n 632  edges 33417  tri/edge 12..23  ratio 1.0743 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 9, 11]  n 632  edges 33259  tri/edge 13..22  ratio 1.0471 
+Q(277,6) c 12 J [0, 1, 5, 8, 11]  n 695  edges 39059  tri/edge 5..29  ratio 1.0152 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 10, 11]  n 632  edges 32785  tri/edge 11..23  ratio 1.0591 
+Q(277,6) c 12 J [0, 1, 5, 9, 10]  n 695  edges 38920  tri/edge 8..29  ratio 1.0166 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 9, 10]  n 632  edges 33338  tri/edge 11..24  ratio 1.0608 
+Q(277,6) c 12 J [0, 1, 5, 9, 11]  n 695  edges 39337  tri/edge 10..31  ratio 0.9981 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 9, 11]  n 632  edges 32864  tri/edge 9..24  ratio 1.0486 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 10, 11]  n 632  edges 32548  tri/edge 9..23  ratio 1.0657 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 9, 10, 11]  n 632  edges 33180  tri/edge 11..24  ratio 1.0786 
+Q(277,6) c 12 J [0, 1, 5, 10, 11]  n 695  edges 39754  tri/edge 9..30  ratio 0.9877 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 9, 10]  n 632  edges 32943  tri/edge 5..26  ratio 1.0467 
+Q(277,6) c 12 J [0, 1, 6, 8, 9]  n 695  edges 40727  tri/edge 13..28  ratio 0.9807 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 9, 11]  n 632  edges 32627  tri/edge 9..26  ratio 1.0621 
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 10, 11]  n 632  edges 33022  tri/edge 10..24  ratio 1.0501 
+Q(277,6) c 12 J [0, 1, 6, 8, 10]  n 695  edges 39615  tri/edge 9..31  ratio 0.9974 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 9, 10, 11]  n 632  edges 32390  tri/edge 10..23  ratio 1.0623 
+Q(157,6) c 12 J [0, 1, 2, 5, 8, 9, 10, 11]  n 632  edges 31995  tri/edge 8..25  ratio 1.0572 
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 9, 10, 11]  n 632  edges 32864  tri/edge 10..25  ratio 1.0572 
+Q(277,6) c 12 J [0, 1, 6, 8, 11]  n 695  edges 41422  tri/edge 13..27  ratio 0.9734 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 6, 8, 9, 10, 11]  n 632  edges 32627  tri/edge 7..26  ratio 1.0548 
+Q(157,6) c 12 J [0, 1, 2, 7, 8, 9, 10, 11]  n 632  edges 32390  tri/edge 8..24  ratio 1.0464 
+Q(277,6) c 12 J [0, 1, 6, 9, 10]  n 695  edges 39615  tri/edge 10..28  ratio 0.9995 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 7, 9]  n 632  edges 32153  tri/edge 9..26  ratio 1.0515 
+Q(277,6) c 12 J [0, 1, 6, 9, 11]  n 695  edges 40588  tri/edge 12..27  ratio 0.9927 ARROWS
+Q(277,6) c 12 J [0, 1, 6, 10, 11]  n 695  edges 40171  tri/edge 9..27  ratio 1.0022 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 7, 10]  n 632  edges 32469  tri/edge 7..23  ratio 1.0515 
+Q(277,6) c 12 J [0, 1, 7, 8, 9]  n 695  edges 41005  tri/edge 11..28  ratio 0.9765 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 7, 11]  n 632  edges 32548  tri/edge 7..23  ratio 1.0640 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 8, 9]  n 632  edges 32390  tri/edge 10..26  ratio 1.0449 
+Q(277,6) c 12 J [0, 1, 7, 8, 10]  n 695  edges 40449  tri/edge 10..29  ratio 0.9832 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 8, 10]  n 632  edges 32864  tri/edge 11..24  ratio 1.0426 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 8, 11]  n 632  edges 32627  tri/edge 10..24  ratio 1.0622 
+Q(277,6) c 12 J [0, 1, 7, 8, 11]  n 695  edges 42256  tri/edge 15..28  ratio 0.9724 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 9, 10]  n 632  edges 32706  tri/edge 9..26  ratio 1.0547 
+Q(277,6) c 12 J [0, 1, 7, 9, 10]  n 695  edges 39615  tri/edge 11..27  ratio 1.0146 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 9, 11]  n 632  edges 33101  tri/edge 9..26  ratio 1.0469 
+Q(277,6) c 12 J [0, 1, 7, 9, 11]  n 695  edges 40588  tri/edge 11..27  ratio 0.9821 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 10, 11]  n 632  edges 32785  tri/edge 7..24  ratio 1.0483 
+Q(277,6) c 12 J [0, 1, 7, 10, 11]  n 695  edges 40727  tri/edge 11..30  ratio 1.0041 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 8, 9]  n 632  edges 32785  tri/edge 8..26  ratio 1.0631 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 8, 10]  n 632  edges 33970  tri/edge 11..24  ratio 1.0534 
+Q(277,6) c 12 J [0, 1, 8, 9, 10]  n 695  edges 39337  tri/edge 11..29  ratio 1.0000 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 8, 11]  n 632  edges 33891  tri/edge 13..23  ratio 1.0703 
+Q(277,6) c 12 J [0, 1, 8, 9, 11]  n 695  edges 41700  tri/edge 13..27  ratio 0.9793 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 9, 10]  n 632  edges 32548  tri/edge 5..26  ratio 1.0514 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 9, 11]  n 632  edges 33101  tri/edge 10..26  ratio 1.0540 
+Q(277,6) c 12 J [0, 1, 8, 10, 11]  n 695  edges 41839  tri/edge 14..29  ratio 0.9767 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 10, 11]  n 632  edges 33496  tri/edge 10..24  ratio 1.0506 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 9, 10]  n 632  edges 32785  tri/edge 9..26  ratio 1.0456 
+Q(277,6) c 12 J [0, 1, 9, 10, 11]  n 695  edges 42117  tri/edge 16..27  ratio 0.9788 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 9, 11]  n 632  edges 33022  tri/edge 9..26  ratio 1.0544 
+Q(277,6) c 12 J [0, 2, 3, 4, 5]  n 695  edges 39337  tri/edge 8..31  ratio 0.9922 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 10, 11]  n 632  edges 33575  tri/edge 12..23  ratio 1.0506 
+Q(277,6) c 12 J [0, 2, 3, 4, 6]  n 695  edges 39198  tri/edge 9..29  ratio 1.0294 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 9, 10, 11]  n 632  edges 33338  tri/edge 10..26  ratio 1.0380 
+Q(277,6) c 12 J [0, 2, 3, 4, 7]  n 695  edges 39754  tri/edge 6..31  ratio 1.0040 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 9, 10]  n 632  edges 31758  tri/edge 7..23  ratio 1.0733 
+Q(277,6) c 12 J [0, 2, 3, 4, 8]  n 695  edges 39754  tri/edge 11..31  ratio 0.9821 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 9, 11]  n 632  edges 33022  tri/edge 11..23  ratio 1.0512 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 10, 11]  n 632  edges 32153  tri/edge 8..25  ratio 1.0610 
+Q(277,6) c 12 J [0, 2, 3, 4, 9]  n 695  edges 39615  tri/edge 9..35  ratio 0.9931 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 9, 10]  n 632  edges 32153  tri/edge 8..24  ratio 1.0514 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 9, 11]  n 632  edges 33101  tri/edge 6..24  ratio 1.0437 
+Q(277,6) c 12 J [0, 2, 3, 4, 10]  n 695  edges 39337  tri/edge 8..29  ratio 1.0313 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 10, 11]  n 632  edges 32390  tri/edge 8..24  ratio 1.0566 
+Q(277,6) c 12 J [0, 2, 3, 4, 11]  n 695  edges 38920  tri/edge 6..34  ratio 1.0240 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 9, 10, 11]  n 632  edges 32548  tri/edge 7..24  ratio 1.0440 
+Q(277,6) c 12 J [0, 2, 3, 5, 6]  n 695  edges 40449  tri/edge 11..29  ratio 1.0137 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 9, 10]  n 632  edges 32548  tri/edge 7..25  ratio 1.0665 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 9, 11]  n 632  edges 33654  tri/edge 11..23  ratio 1.0736 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 10, 11]  n 632  edges 33654  tri/edge 11..24  ratio 1.0591 
+Q(277,6) c 12 J [0, 2, 3, 5, 7]  n 695  edges 41283  tri/edge 13..29  ratio 0.9752 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 9, 10, 11]  n 632  edges 32548  tri/edge 11..24  ratio 1.0653 
+Q(277,6) c 12 J [0, 2, 3, 5, 8]  n 695  edges 38781  tri/edge 6..31  ratio 1.0034 
+Q(157,6) c 12 J [0, 1, 3, 4, 8, 9, 10, 11]  n 632  edges 32627  tri/edge 8..24  ratio 1.0558 
+Q(277,6) c 12 J [0, 2, 3, 5, 9]  n 695  edges 41422  tri/edge 13..30  ratio 0.9837 ARROWS
+Q(277,6) c 12 J [0, 2, 3, 5, 10]  n 695  edges 40032  tri/edge 10..28  ratio 1.0076 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 7, 9, 11]  n 632  edges 33022  tri/edge 11..22  ratio 1.0632 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 7, 10, 11]  n 632  edges 32548  tri/edge 8..23  ratio 1.0580 
+Q(277,6) c 12 J [0, 2, 3, 5, 11]  n 695  edges 38781  tri/edge 6..32  ratio 1.0119 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 9, 10]  n 632  edges 33417  tri/edge 12..22  ratio 1.0372 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 9, 11]  n 632  edges 33101  tri/edge 10..24  ratio 1.0353 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 10, 11]  n 632  edges 32785  tri/edge 10..22  ratio 1.0383 
+Q(277,6) c 12 J [0, 2, 3, 6, 8]  n 695  edges 41005  tri/edge 11..29  ratio 0.9760 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 9, 10, 11]  n 632  edges 33101  tri/edge 10..24  ratio 1.0462 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 9, 10]  n 632  edges 33496  tri/edge 7..24  ratio 1.0404 
+Q(277,6) c 12 J [0, 2, 3, 6, 9]  n 695  edges 42534  tri/edge 16..28  ratio 0.9639 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 9, 11]  n 632  edges 33338  tri/edge 11..23  ratio 1.0596 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 10, 11]  n 632  edges 33733  tri/edge 11..23  ratio 1.0458 
+Q(277,6) c 12 J [0, 2, 3, 6, 10]  n 695  edges 40310  tri/edge 10..28  ratio 0.9934 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 9, 10, 11]  n 632  edges 32785  tri/edge 11..25  ratio 1.0532 
+Q(277,6) c 12 J [0, 2, 3, 6, 11]  n 695  edges 39615  tri/edge 6..32  ratio 1.0160 
+Q(157,6) c 12 J [0, 1, 3, 5, 8, 9, 10, 11]  n 632  edges 32864  tri/edge 11..24  ratio 1.0389 
+Q(157,6) c 12 J [0, 1, 3, 6, 8, 9, 10, 11]  n 632  edges 32390  tri/edge 8..26  ratio 1.0461 
+Q(277,6) c 12 J [0, 2, 3, 7, 8]  n 695  edges 41005  tri/edge 12..30  ratio 0.9643 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 7, 8, 9, 10, 11]  n 632  edges 32627  tri/edge 10..23  ratio 1.0530 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 7, 10, 11]  n 632  edges 32232  tri/edge 4..26  ratio 1.0644 
+Q(277,6) c 12 J [0, 2, 3, 7, 9]  n 695  edges 41700  tri/edge 11..31  ratio 0.9818 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 9, 10]  n 632  edges 32232  tri/edge 9..26  ratio 1.0533 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 9, 11]  n 632  edges 32311  tri/edge 8..24  ratio 1.0464 
+Q(277,6) c 12 J [0, 2, 3, 7, 10]  n 695  edges 40032  tri/edge 10..28  ratio 0.9903 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 10, 11]  n 632  edges 32153  tri/edge 10..24  ratio 1.0566 
+Q(277,6) c 12 J [0, 2, 3, 7, 11]  n 695  edges 39337  tri/edge 7..31  ratio 1.0049 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 9, 10, 11]  n 632  edges 32469  tri/edge 7..25  ratio 1.0539 
+Q(277,6) c 12 J [0, 2, 3, 8, 9]  n 695  edges 40588  tri/edge 11..32  ratio 1.0020 
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 9, 10]  n 632  edges 32785  tri/edge 9..25  ratio 1.0464 
+Q(277,6) c 12 J [0, 2, 3, 8, 10]  n 695  edges 38920  tri/edge 8..33  ratio 1.0025 
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 9, 11]  n 632  edges 33022  tri/edge 10..24  ratio 1.0613 
+Q(277,6) c 12 J [0, 2, 3, 8, 11]  n 695  edges 39615  tri/edge 8..33  ratio 1.0111 
+Q(277,6) c 12 J [0, 2, 3, 9, 10]  n 695  edges 41561  tri/edge 13..28  ratio 0.9953 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 10, 11]  n 632  edges 33575  tri/edge 10..23  ratio 1.0410 
+Q(277,6) c 12 J [0, 2, 3, 9, 11]  n 695  edges 41422  tri/edge 12..33  ratio 0.9955 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 9, 10, 11]  n 632  edges 32627  tri/edge 6..24  ratio 1.0528 
+Q(277,6) c 12 J [0, 2, 3, 10, 11]  n 695  edges 40449  tri/edge 11..32  ratio 0.9986 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 8, 9, 10, 11]  n 632  edges 32390  tri/edge 8..24  ratio 1.0397 
+Q(277,6) c 12 J [0, 2, 4, 5, 6]  n 695  edges 39198  tri/edge 9..29  ratio 1.0203 
+Q(157,6) c 12 J [0, 1, 4, 6, 8, 9, 10, 11]  n 632  edges 32390  tri/edge 6..26  ratio 1.0468 
+Q(277,6) c 12 J [0, 2, 4, 5, 7]  n 695  edges 41839  tri/edge 13..31  ratio 0.9874 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 7, 8, 9, 10, 11]  n 632  edges 33101  tri/edge 8..25  ratio 1.0560 
+Q(277,6) c 12 J [0, 2, 4, 5, 8]  n 695  edges 39615  tri/edge 9..31  ratio 1.0094 
+Q(157,6) c 12 J [0, 1, 5, 6, 8, 9, 10, 11]  n 632  edges 32469  tri/edge 8..26  ratio 1.0456 
+Q(277,6) c 12 J [0, 2, 4, 5, 9]  n 695  edges 39754  tri/edge 8..35  ratio 1.0008 
+Q(157,6) c 12 J [0, 1, 5, 7, 8, 9, 10, 11]  n 632  edges 32864  tri/edge 8..24  ratio 1.0516 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 8, 9]  n 632  edges 33101  tri/edge 8..25  ratio 1.0396 
+Q(277,6) c 12 J [0, 2, 4, 5, 10]  n 695  edges 41144  tri/edge 11..29  ratio 0.9844 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 8, 10]  n 632  edges 33259  tri/edge 9..25  ratio 1.0513 
+Q(277,6) c 12 J [0, 2, 4, 5, 11]  n 695  edges 38781  tri/edge 6..34  ratio 1.0497 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 8, 11]  n 632  edges 33022  tri/edge 9..25  ratio 1.0628 
+Q(277,6) c 12 J [0, 2, 4, 6, 8]  n 695  edges 40171  tri/edge 11..29  ratio 0.9789 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 9, 10]  n 632  edges 33575  tri/edge 9..23  ratio 1.0432 
+Q(277,6) c 12 J [0, 2, 4, 6, 9]  n 695  edges 39198  tri/edge 8..33  ratio 0.9832 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 9, 11]  n 632  edges 33970  tri/edge 12..24  ratio 1.0337 
+Q(277,6) c 12 J [0, 2, 4, 6, 10]  n 695  edges 39754  tri/edge 7..27  ratio 0.9961 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 10, 11]  n 632  edges 33338  tri/edge 10..24  ratio 1.0377 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 8, 9]  n 632  edges 32390  tri/edge 7..26  ratio 1.0556 
+Q(277,6) c 12 J [0, 2, 4, 6, 11]  n 695  edges 37947  tri/edge 4..32  ratio 1.0594 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 8, 10]  n 632  edges 33259  tri/edge 9..26  ratio 1.0503 
+Q(277,6) c 12 J [0, 2, 4, 7, 8]  n 695  edges 41978  tri/edge 13..30  ratio 0.9779 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 8, 11]  n 632  edges 33180  tri/edge 9..26  ratio 1.0720 
+Q(277,6) c 12 J [0, 2, 4, 7, 9]  n 695  edges 40171  tri/edge 9..33  ratio 0.9972 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 9, 10]  n 632  edges 32311  tri/edge 6..24  ratio 1.0504 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 9, 11]  n 632  edges 32864  tri/edge 10..24  ratio 1.0540 
+Q(277,6) c 12 J [0, 2, 4, 7, 10]  n 695  edges 41283  tri/edge 12..31  ratio 0.9873 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 10, 11]  n 632  edges 32943  tri/edge 8..24  ratio 1.0477 
+Q(277,6) c 12 J [0, 2, 4, 7, 11]  n 695  edges 39476  tri/edge 5..33  ratio 0.9991 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 9, 10]  n 632  edges 33022  tri/edge 9..25  ratio 1.0458 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 9, 11]  n 632  edges 33259  tri/edge 9..25  ratio 1.0451 
+Q(277,6) c 12 J [0, 2, 4, 8, 9]  n 695  edges 39337  tri/edge 9..35  ratio 0.9998 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 10, 11]  n 632  edges 33496  tri/edge 11..25  ratio 1.0545 
+Q(277,6) c 12 J [0, 2, 4, 8, 10]  n 695  edges 40449  tri/edge 13..29  ratio 1.0155 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 9, 10, 11]  n 632  edges 33733  tri/edge 12..24  ratio 1.0251 
+Q(277,6) c 12 J [0, 2, 4, 8, 11]  n 695  edges 40032  tri/edge 9..34  ratio 0.9998 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 9, 10]  n 632  edges 33022  tri/edge 11..24  ratio 1.0812 
+Q(277,6) c 12 J [0, 2, 4, 9, 10]  n 695  edges 40588  tri/edge 10..33  ratio 1.0152 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 9, 11]  n 632  edges 33970  tri/edge 13..24  ratio 1.0374 
+Q(277,6) c 12 J [0, 2, 4, 9, 11]  n 695  edges 39337  tri/edge 7..38  ratio 1.0235 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 10, 11]  n 632  edges 32943  tri/edge 9..24  ratio 1.0567 
+Q(277,6) c 12 J [0, 2, 4, 10, 11]  n 695  edges 41144  tri/edge 10..32  ratio 0.9941 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 9, 10, 11]  n 632  edges 33575  tri/edge 11..23  ratio 1.0378 
+Q(277,6) c 12 J [0, 2, 5, 6, 8]  n 695  edges 39476  tri/edge 9..28  ratio 1.0135 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 9, 10]  n 632  edges 32311  tri/edge 7..24  ratio 1.0614 
+Q(277,6) c 12 J [0, 2, 5, 6, 9]  n 695  edges 41283  tri/edge 11..29  ratio 0.9729 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 9, 11]  n 632  edges 33417  tri/edge 11..23  ratio 1.0575 
+Q(277,6) c 12 J [0, 2, 5, 6, 10]  n 695  edges 40727  tri/edge 12..30  ratio 1.0068 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 10, 11]  n 632  edges 33101  tri/edge 11..24  ratio 1.0618 
+Q(277,6) c 12 J [0, 2, 5, 6, 11]  n 695  edges 38086  tri/edge 5..31  ratio 1.0725 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 9, 10, 11]  n 632  edges 32469  tri/edge 10..24  ratio 1.0471 
+Q(277,6) c 12 J [0, 2, 5, 7, 8]  n 695  edges 41561  tri/edge 14..29  ratio 0.9800 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 8, 9, 10, 11]  n 632  edges 33022  tri/edge 11..23  ratio 1.0420 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 8, 9, 11]  n 632  edges 33654  tri/edge 11..24  ratio 1.0470 
+Q(277,6) c 12 J [0, 2, 5, 7, 9]  n 695  edges 42534  tri/edge 13..29  ratio 0.9640 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 8, 10, 11]  n 632  edges 33022  tri/edge 11..23  ratio 1.0471 
+Q(277,6) c 12 J [0, 2, 5, 7, 10]  n 695  edges 42534  tri/edge 18..26  ratio 0.9728 ARROWS
+Q(277,6) c 12 J [0, 2, 5, 7, 11]  n 695  edges 39893  tri/edge 7..31  ratio 1.0025 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 9, 10, 11]  n 632  edges 33812  tri/edge 12..23  ratio 1.0504 
+Q(277,6) c 12 J [0, 2, 5, 8, 9]  n 695  edges 39198  tri/edge 9..32  ratio 1.0076 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 9, 10]  n 632  edges 32943  tri/edge 5..25  ratio 1.0475 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 9, 11]  n 632  edges 32785  tri/edge 9..24  ratio 1.0627 
+Q(277,6) c 12 J [0, 2, 5, 8, 10]  n 695  edges 39198  tri/edge 8..28  ratio 1.0007 
+Q(277,6) c 12 J [0, 2, 5, 8, 11]  n 695  edges 37947  tri/edge 8..31  ratio 1.0320 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 10, 11]  n 632  edges 32864  tri/edge 7..24  ratio 1.0483 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 9, 10, 11]  n 632  edges 32390  tri/edge 8..25  ratio 1.0458 
+Q(277,6) c 12 J [0, 2, 5, 9, 10]  n 695  edges 42117  tri/edge 14..28  ratio 1.0061 
+Q(157,6) c 12 J [0, 2, 3, 5, 8, 9, 10, 11]  n 632  edges 32943  tri/edge 10..25  ratio 1.0444 
+Q(277,6) c 12 J [0, 2, 5, 9, 11]  n 695  edges 40032  tri/edge 7..33  ratio 1.0132 
+Q(157,6) c 12 J [0, 2, 3, 7, 8, 9, 10, 11]  n 632  edges 32232  tri/edge 8..23  ratio 1.0563 
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 8, 10, 11]  n 632  edges 32548  tri/edge 8..24  ratio 1.0651 
+Q(277,6) c 12 J [0, 2, 5, 10, 11]  n 695  edges 40727  tri/edge 10..31  ratio 0.9920 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 9, 10, 11]  n 632  edges 33338  tri/edge 12..24  ratio 1.0461 
+Q(277,6) c 12 J [0, 2, 6, 9, 10]  n 695  edges 41978  tri/edge 13..27  ratio 0.9924 ARROWS
+Q(277,6) c 12 J [0, 2, 6, 9, 11]  n 695  edges 40449  tri/edge 9..31  ratio 0.9902 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 9, 10]  n 632  edges 32390  tri/edge 7..25  ratio 1.0367 
+Q(277,6) c 12 J [0, 2, 6, 10, 11]  n 695  edges 40310  tri/edge 7..28  ratio 1.0050 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 9, 11]  n 632  edges 32627  tri/edge 8..23  ratio 1.0588 
+Q(277,6) c 12 J [0, 2, 7, 8, 9]  n 695  edges 41422  tri/edge 10..31  ratio 0.9922 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 10, 11]  n 632  edges 32864  tri/edge 9..24  ratio 1.0502 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 9, 10, 11]  n 632  edges 32390  tri/edge 10..24  ratio 1.0393 
+Q(277,6) c 12 J [0, 2, 7, 8, 10]  n 695  edges 41144  tri/edge 13..28  ratio 0.9659 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 8, 9, 10, 11]  n 632  edges 32627  tri/edge 9..26  ratio 1.0339 
+Q(157,6) c 12 J [0, 2, 4, 7, 8, 9, 10, 11]  n 632  edges 32864  tri/edge 9..23  ratio 1.0565 
+Q(277,6) c 12 J [0, 2, 7, 8, 11]  n 695  edges 40449  tri/edge 11..28  ratio 0.9894 ARROWS
+Q(157,6) c 12 J [0, 2, 5, 7, 8, 9, 10, 11]  n 632  edges 32311  tri/edge 7..26  ratio 1.0545 
+Q(277,6) c 12 J [0, 2, 7, 9, 10]  n 695  edges 42117  tri/edge 13..29  ratio 0.9829 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 6, 9, 10, 11]  n 632  edges 33812  tri/edge 10..24  ratio 1.0515 
+Q(277,6) c 12 J [0, 2, 7, 9, 11]  n 695  edges 40588  tri/edge 10..33  ratio 0.9824 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 9, 10]  n 632  edges 33496  tri/edge 9..24  ratio 1.0437 
+Q(277,6) c 12 J [0, 2, 7, 10, 11]  n 695  edges 41005  tri/edge 9..28  ratio 0.9932 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 9, 11]  n 632  edges 33891  tri/edge 11..24  ratio 1.0634 
+Q(277,6) c 12 J [0, 2, 8, 9, 10]  n 695  edges 40171  tri/edge 12..29  ratio 1.0084 
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 10, 11]  n 632  edges 34128  tri/edge 13..24  ratio 1.0508 
+Q(277,6) c 12 J [0, 2, 8, 9, 11]  n 695  edges 40032  tri/edge 7..33  ratio 1.0100 
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 9, 10, 11]  n 632  edges 33338  tri/edge 9..26  ratio 1.0460 
+Q(277,6) c 12 J [0, 2, 8, 10, 11]  n 695  edges 40449  tri/edge 10..27  ratio 0.9984 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 8, 9, 10, 11]  n 632  edges 34049  tri/edge 13..24  ratio 1.0367 
+Q(157,6) c 12 J [0, 3, 4, 7, 8, 9, 10, 11]  n 632  edges 33654  tri/edge 11..24  ratio 1.0621 
+Q(277,6) c 12 J [0, 2, 9, 10, 11]  n 695  edges 42534  tri/edge 15..31  ratio 0.9924 ARROWS
+Q(277,6) c 12 J [0, 3, 4, 5, 6]  n 695  edges 40727  tri/edge 13..26  ratio 0.9933 ARROWS
+Q(157,6) c 12 J [0, 3, 5, 7, 8, 9, 10, 11]  n 632  edges 33733  tri/edge 10..25  ratio 1.0448 
+Q(157,6) c 12 J [0, 4, 5, 7, 8, 9, 10, 11]  n 632  edges 33575  tri/edge 10..24  ratio 1.0447 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 8, 9]  n 632  edges 32153  tri/edge 9..24  ratio 1.0608 
+Q(277,6) c 12 J [0, 3, 4, 5, 7]  n 695  edges 41700  tri/edge 14..26  ratio 0.9787 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 8, 10]  n 632  edges 33496  tri/edge 12..24  ratio 1.0414 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 8, 11]  n 632  edges 33101  tri/edge 10..26  ratio 1.0591 
+Q(277,6) c 12 J [0, 3, 4, 5, 8]  n 695  edges 41283  tri/edge 14..27  ratio 0.9987 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 9, 10]  n 632  edges 33022  tri/edge 7..26  ratio 1.0503 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 9, 11]  n 632  edges 33259  tri/edge 12..24  ratio 1.0407 
+Q(277,6) c 12 J [0, 3, 4, 5, 9]  n 695  edges 41700  tri/edge 14..26  ratio 0.9670 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 10, 11]  n 632  edges 33812  tri/edge 13..24  ratio 1.0319 
+Q(277,6) c 12 J [0, 3, 4, 5, 10]  n 695  edges 40588  tri/edge 11..28  ratio 0.9903 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 8, 9, 10]  n 632  edges 32627  tri/edge 9..24  ratio 1.0668 
+Q(277,6) c 12 J [0, 3, 4, 5, 11]  n 695  edges 41005  tri/edge 10..28  ratio 0.9920 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 8, 9, 11]  n 632  edges 32548  tri/edge 9..24  ratio 1.0484 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 8, 10, 11]  n 632  edges 33259  tri/edge 11..24  ratio 1.0423 
+Q(277,6) c 12 J [0, 3, 4, 6, 9]  n 695  edges 41283  tri/edge 13..27  ratio 0.9609 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 9, 10, 11]  n 632  edges 33970  tri/edge 14..24  ratio 1.0440 
+Q(277,6) c 12 J [0, 3, 4, 6, 10]  n 695  edges 39337  tri/edge 9..28  ratio 1.0242 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 9, 10]  n 632  edges 32232  tri/edge 9..22  ratio 1.0808 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 9, 11]  n 632  edges 33022  tri/edge 7..25  ratio 1.0566 
+Q(277,6) c 12 J [0, 3, 4, 6, 11]  n 695  edges 40310  tri/edge 8..27  ratio 0.9943 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 10, 11]  n 632  edges 33180  tri/edge 9..25  ratio 1.0427 
+Q(277,6) c 12 J [0, 3, 4, 7, 8]  n 695  edges 42117  tri/edge 14..27  ratio 0.9611 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 9, 10, 11]  n 632  edges 33022  tri/edge 10..24  ratio 1.0428 
+Q(277,6) c 12 J [0, 3, 4, 7, 9]  n 695  edges 40588  tri/edge 11..27  ratio 0.9842 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 4, 8, 9, 10, 11]  n 632  edges 32469  tri/edge 9..24  ratio 1.0538 
+Q(277,6) c 12 J [0, 3, 4, 7, 10]  n 695  edges 39198  tri/edge 10..29  ratio 1.0031 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 8, 9, 11]  n 632  edges 32548  tri/edge 10..24  ratio 1.0592 
+Q(277,6) c 12 J [0, 3, 4, 7, 11]  n 695  edges 40171  tri/edge 9..28  ratio 0.9840 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 8, 10, 11]  n 632  edges 33101  tri/edge 11..24  ratio 1.0554 
+Q(277,6) c 12 J [0, 3, 4, 8, 9]  n 695  edges 41561  tri/edge 13..28  ratio 0.9874 ARROWS
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 9, 10, 11]  n 632  edges 33101  tri/edge 11..24  ratio 1.0666 
+Q(157,6) c 12 J [1, 2, 3, 5, 8, 9, 10, 11]  n 632  edges 32548  tri/edge 9..24  ratio 1.0595 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 8, 10, 11]  n 632  edges 33812  tri/edge 14..22  ratio 1.0491 
+Q(277,6) c 12 J [0, 3, 4, 8, 10]  n 695  edges 40171  tri/edge 11..29  ratio 0.9903 ARROWS
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 9, 10, 11]  n 632  edges 33812  tri/edge 14..24  ratio 1.0422 
+Q(157,6) c 12 J [1, 2, 4, 5, 8, 9, 10, 11]  n 632  edges 32943  tri/edge 9..24  ratio 1.0417 
+Q(157,6) c 12 J [1, 3, 4, 5, 7, 9, 10, 11]  n 632  edges 33496  tri/edge 12..24  ratio 1.0416 
+Q(277,6) c 12 J [0, 3, 4, 8, 11]  n 695  edges 42534  tri/edge 15..27  ratio 0.9624 ARROWS
+Q(157,6) c 12 J [1, 3, 4, 5, 8, 9, 10, 11]  n 632  edges 33101  tri/edge 10..24  ratio 1.0412 
+Q(277,6) c 12 J [0, 3, 4, 9, 10]  n 695  edges 40588  tri/edge 11..27  ratio 1.0048 
+Q(157,6) c 12 J [2, 3, 4, 5, 8, 9, 10, 11]  n 632  edges 33180  tri/edge 12..24  ratio 1.0397 
+# done Q(157,6) c 12 size 8: 255 sets, best ratio 1.0251 J [0, 2, 3, 4, 5, 9, 10, 11] (n 632, tri/edge 12..24)  [194s]
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 6]  n 553  edges 25833  tri/edge 6..23  ratio 1.0906 
+Q(277,6) c 12 J [0, 3, 4, 9, 11]  n 695  edges 42117  tri/edge 12..28  ratio 0.9470 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 7]  n 553  edges 25754  tri/edge 8..24  ratio 1.0860 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 8]  n 553  edges 25675  tri/edge 8..25  ratio 1.0929 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 9]  n 553  edges 25438  tri/edge 5..26  ratio 1.0999 
+Q(277,6) c 12 J [0, 3, 4, 10, 11]  n 695  edges 41422  tri/edge 10..28  ratio 0.9686 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 10]  n 553  edges 26465  tri/edge 9..23  ratio 1.0790 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 5, 11]  n 553  edges 26386  tri/edge 11..23  ratio 1.0854 
+Q(277,6) c 12 J [0, 3, 5, 6, 9]  n 695  edges 42534  tri/edge 14..27  ratio 0.9762 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 7]  n 553  edges 25596  tri/edge 8..22  ratio 1.0908 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 8]  n 553  edges 25675  tri/edge 8..22  ratio 1.0771 
+Q(277,6) c 12 J [0, 3, 5, 6, 10]  n 695  edges 39476  tri/edge 10..27  ratio 1.0222 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 9]  n 553  edges 25833  tri/edge 8..23  ratio 1.0836 
+Q(277,6) c 12 J [0, 3, 5, 6, 11]  n 695  edges 39615  tri/edge 10..30  ratio 1.0341 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 10]  n 553  edges 25596  tri/edge 7..21  ratio 1.0939 
+Q(277,6) c 12 J [0, 3, 5, 7, 8]  n 695  edges 40866  tri/edge 12..29  ratio 0.9914 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 6, 11]  n 553  edges 26228  tri/edge 11..23  ratio 1.0759 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 8]  n 553  edges 26149  tri/edge 10..21  ratio 1.0837 
+Q(277,6) c 12 J [0, 3, 5, 7, 9]  n 695  edges 42117  tri/edge 15..27  ratio 0.9654 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 9]  n 553  edges 25043  tri/edge 5..21  ratio 1.0997 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 10]  n 553  edges 25517  tri/edge 7..23  ratio 1.1015 
+Q(277,6) c 12 J [0, 3, 5, 7, 10]  n 695  edges 39615  tri/edge 12..26  ratio 1.0028 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 7, 11]  n 553  edges 26307  tri/edge 12..23  ratio 1.0923 
+Q(277,6) c 12 J [0, 3, 5, 7, 11]  n 695  edges 39754  tri/edge 11..29  ratio 0.9922 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 9]  n 553  edges 24964  tri/edge 5..22  ratio 1.0957 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 10]  n 553  edges 25596  tri/edge 9..21  ratio 1.0937 
+Q(277,6) c 12 J [0, 3, 5, 8, 9]  n 695  edges 40588  tri/edge 11..31  ratio 0.9894 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 8, 11]  n 553  edges 26070  tri/edge 11..21  ratio 1.0980 
+Q(277,6) c 12 J [0, 3, 5, 8, 10]  n 695  edges 38086  tri/edge 6..32  ratio 1.0105 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 9, 10]  n 553  edges 25043  tri/edge 7..23  ratio 1.0901 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 9, 11]  n 553  edges 26149  tri/edge 13..20  ratio 1.0810 
+Q(277,6) c 12 J [0, 3, 5, 8, 11]  n 695  edges 39615  tri/edge 6..29  ratio 1.0012 
+Q(157,6) c 12 J [0, 1, 2, 3, 4, 10, 11]  n 553  edges 25991  tri/edge 11..21  ratio 1.0989 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 7]  n 553  edges 25991  tri/edge 9..24  ratio 1.0792 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 8]  n 553  edges 26070  tri/edge 9..23  ratio 1.0716 
+Q(277,6) c 12 J [0, 3, 5, 9, 10]  n 695  edges 41283  tri/edge 15..26  ratio 0.9767 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 9]  n 553  edges 26386  tri/edge 10..22  ratio 1.0839 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 10]  n 553  edges 26544  tri/edge 11..21  ratio 1.1022 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 6, 11]  n 553  edges 25912  tri/edge 9..23  ratio 1.0783 
+Q(277,6) c 12 J [0, 3, 5, 9, 11]  n 695  edges 41978  tri/edge 14..28  ratio 0.9663 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 8]  n 553  edges 26228  tri/edge 7..24  ratio 1.0740 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 9]  n 553  edges 25280  tri/edge 5..23  ratio 1.0900 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 10]  n 553  edges 26149  tri/edge 8..25  ratio 1.0766 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 7, 11]  n 553  edges 25675  tri/edge 10..23  ratio 1.0959 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 9]  n 553  edges 25201  tri/edge 5..23  ratio 1.0866 
+Q(277,6) c 12 J [0, 3, 5, 10, 11]  n 695  edges 40171  tri/edge 10..30  ratio 1.0096 
+Q(277,6) c 12 J [0, 3, 6, 10, 11]  n 695  edges 39893  tri/edge 9..28  ratio 0.9899 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 10]  n 553  edges 26228  tri/edge 12..23  ratio 1.0683 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 8, 11]  n 553  edges 25438  tri/edge 9..23  ratio 1.0802 
+Q(277,6) c 12 J [0, 3, 7, 8, 9]  n 695  edges 41283  tri/edge 13..30  ratio 0.9814 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 9, 10]  n 553  edges 25833  tri/edge 7..22  ratio 1.0889 
+Q(277,6) c 12 J [0, 3, 7, 8, 10]  n 695  edges 38503  tri/edge 8..31  ratio 1.0045 
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 9, 11]  n 553  edges 25675  tri/edge 11..22  ratio 1.0769 
+Q(277,6) c 12 J [0, 3, 7, 8, 11]  n 695  edges 40588  tri/edge 13..31  ratio 0.9852 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 5, 10, 11]  n 553  edges 25912  tri/edge 10..21  ratio 1.0753 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 8]  n 553  edges 26386  tri/edge 11..22  ratio 1.0648 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 9]  n 553  edges 25833  tri/edge 11..20  ratio 1.0771 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 10]  n 553  edges 25438  tri/edge 6..22  ratio 1.0906 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7, 11]  n 553  edges 25675  tri/edge 11..21  ratio 1.0697 
+Q(277,6) c 12 J [0, 3, 7, 9, 10]  n 695  edges 39754  tri/edge 12..29  ratio 1.0029 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 9]  n 553  edges 25912  tri/edge 10..25  ratio 1.0744 
+Q(277,6) c 12 J [0, 3, 7, 9, 11]  n 695  edges 41005  tri/edge 13..31  ratio 0.9905 ARROWS
+Q(277,6) c 12 J [0, 3, 7, 10, 11]  n 695  edges 38920  tri/edge 6..31  ratio 1.0029 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 10]  n 553  edges 25675  tri/edge 8..21  ratio 1.0866 
+Q(277,6) c 12 J [0, 3, 8, 9, 10]  n 695  edges 39615  tri/edge 12..33  ratio 0.9961 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8, 11]  n 553  edges 25596  tri/edge 7..23  ratio 1.0723 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 9, 10]  n 553  edges 25675  tri/edge 8..21  ratio 1.0887 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 9, 11]  n 553  edges 26228  tri/edge 10..22  ratio 1.0805 
+Q(277,6) c 12 J [0, 3, 8, 9, 11]  n 695  edges 42256  tri/edge 13..30  ratio 0.9802 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 10, 11]  n 553  edges 25201  tri/edge 8..20  ratio 1.0744 
+Q(277,6) c 12 J [0, 3, 8, 10, 11]  n 695  edges 40171  tri/edge 8..31  ratio 0.9815 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 9]  n 553  edges 25359  tri/edge 4..22  ratio 1.0901 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 10]  n 553  edges 25833  tri/edge 10..22  ratio 1.0774 
+Q(277,6) c 12 J [0, 3, 9, 10, 11]  n 695  edges 42534  tri/edge 17..28  ratio 0.9569 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8, 11]  n 553  edges 25912  tri/edge 10..22  ratio 1.0876 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 9, 10]  n 553  edges 24569  tri/edge 5..21  ratio 1.0990 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 9, 11]  n 553  edges 25280  tri/edge 9..20  ratio 1.0796 
+Q(277,6) c 12 J [0, 4, 5, 6, 10]  n 695  edges 39615  tri/edge 8..30  ratio 1.0209 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 10, 11]  n 553  edges 24964  tri/edge 8..21  ratio 1.0907 
+Q(277,6) c 12 J [0, 4, 5, 6, 11]  n 695  edges 38642  tri/edge 8..30  ratio 1.0796 
+Q(157,6) c 12 J [0, 1, 2, 3, 8, 9, 10]  n 553  edges 24648  tri/edge 5..21  ratio 1.0932 
+Q(157,6) c 12 J [0, 1, 2, 3, 8, 9, 11]  n 553  edges 25043  tri/edge 9..23  ratio 1.0860 
+Q(277,6) c 12 J [0, 4, 5, 7, 8]  n 695  edges 42534  tri/edge 11..28  ratio 0.9748 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 3, 8, 10, 11]  n 553  edges 24885  tri/edge 8..22  ratio 1.0900 
+Q(157,6) c 12 J [0, 1, 2, 3, 9, 10, 11]  n 553  edges 24806  tri/edge 10..21  ratio 1.0804 
+Q(277,6) c 12 J [0, 4, 5, 7, 9]  n 695  edges 41283  tri/edge 11..31  ratio 0.9824 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 7]  n 553  edges 25122  tri/edge 6..22  ratio 1.0888 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 8]  n 553  edges 24885  tri/edge 6..21  ratio 1.0989 
+Q(277,6) c 12 J [0, 4, 5, 7, 10]  n 695  edges 41561  tri/edge 12..28  ratio 0.9880 ARROWS
+Q(277,6) c 12 J [0, 4, 5, 7, 11]  n 695  edges 40588  tri/edge 9..32  ratio 0.9922 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 9]  n 553  edges 25201  tri/edge 6..22  ratio 1.0870 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 10]  n 553  edges 25517  tri/edge 7..23  ratio 1.1198 
+Q(277,6) c 12 J [0, 4, 5, 8, 9]  n 695  edges 40032  tri/edge 11..29  ratio 1.0005 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 6, 11]  n 553  edges 25280  tri/edge 9..22  ratio 1.0935 
+Q(277,6) c 12 J [0, 4, 5, 8, 10]  n 695  edges 40310  tri/edge 9..28  ratio 0.9895 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 8]  n 553  edges 25517  tri/edge 6..22  ratio 1.0851 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 9]  n 553  edges 24569  tri/edge 5..21  ratio 1.0950 
+Q(277,6) c 12 J [0, 4, 5, 8, 11]  n 695  edges 40727  tri/edge 8..32  ratio 1.0048 
+Q(277,6) c 12 J [0, 4, 5, 9, 10]  n 695  edges 41005  tri/edge 13..29  ratio 0.9926 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 10]  n 553  edges 25596  tri/edge 9..23  ratio 1.0795 
+Q(277,6) c 12 J [0, 4, 5, 9, 11]  n 695  edges 40588  tri/edge 10..32  ratio 1.0040 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 7, 11]  n 553  edges 25517  tri/edge 10..22  ratio 1.0799 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 9]  n 553  edges 24174  tri/edge 2..21  ratio 1.1064 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 10]  n 553  edges 25359  tri/edge 9..21  ratio 1.0698 
+Q(277,6) c 12 J [0, 4, 5, 10, 11]  n 695  edges 41561  tri/edge 12..28  ratio 0.9731 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 8, 11]  n 553  edges 24964  tri/edge 7..21  ratio 1.0867 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 9, 10]  n 553  edges 24964  tri/edge 6..23  ratio 1.0954 
+Q(277,6) c 12 J [0, 4, 7, 8, 9]  n 695  edges 40866  tri/edge 12..30  ratio 0.9743 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 9, 11]  n 553  edges 25201  tri/edge 10..21  ratio 1.0765 
+Q(157,6) c 12 J [0, 1, 2, 4, 5, 10, 11]  n 553  edges 25596  tri/edge 10..20  ratio 1.0817 
+Q(277,6) c 12 J [0, 4, 7, 8, 10]  n 695  edges 40866  tri/edge 9..27  ratio 0.9897 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 8]  n 553  edges 26149  tri/edge 8..21  ratio 1.0812 
+Q(277,6) c 12 J [0, 4, 7, 8, 11]  n 695  edges 41839  tri/edge 14..30  ratio 0.9761 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 9]  n 553  edges 25596  tri/edge 8..21  ratio 1.0833 
+Q(277,6) c 12 J [0, 4, 7, 9, 10]  n 695  edges 39615  tri/edge 9..29  ratio 1.0120 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 10]  n 553  edges 25359  tri/edge 7..23  ratio 1.0909 
+Q(277,6) c 12 J [0, 4, 7, 9, 11]  n 695  edges 39754  tri/edge 10..29  ratio 0.9860 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 7, 11]  n 553  edges 25991  tri/edge 11..21  ratio 1.0708 
+Q(277,6) c 12 J [0, 4, 7, 10, 11]  n 695  edges 40449  tri/edge 10..28  ratio 0.9811 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 9]  n 553  edges 25359  tri/edge 7..22  ratio 1.0915 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 10]  n 553  edges 25280  tri/edge 8..21  ratio 1.1037 
+Q(277,6) c 12 J [0, 4, 8, 9, 10]  n 695  edges 39754  tri/edge 9..29  ratio 1.0065 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 8, 11]  n 553  edges 25596  tri/edge 9..23  ratio 1.0829 
+Q(277,6) c 12 J [0, 4, 8, 9, 11]  n 695  edges 41283  tri/edge 10..28  ratio 0.9880 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 9, 10]  n 553  edges 25280  tri/edge 8..23  ratio 1.1164 
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 9, 11]  n 553  edges 26228  tri/edge 9..21  ratio 1.0765 
+Q(277,6) c 12 J [0, 4, 8, 10, 11]  n 695  edges 41978  tri/edge 13..29  ratio 0.9704 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 6, 10, 11]  n 553  edges 25359  tri/edge 9..22  ratio 1.0890 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 9]  n 553  edges 25280  tri/edge 6..22  ratio 1.0829 
+Q(277,6) c 12 J [0, 4, 9, 10, 11]  n 695  edges 41839  tri/edge 14..27  ratio 0.9634 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 10]  n 553  edges 25912  tri/edge 9..22  ratio 1.1011 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 8, 11]  n 553  edges 26386  tri/edge 12..22  ratio 1.0819 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 9, 10]  n 553  edges 24648  tri/edge 7..24  ratio 1.1060 
+Q(277,6) c 12 J [0, 5, 7, 8, 9]  n 695  edges 40449  tri/edge 11..30  ratio 0.9990 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 9, 11]  n 553  edges 25754  tri/edge 10..20  ratio 1.0762 
+Q(277,6) c 12 J [0, 5, 7, 8, 10]  n 695  edges 39337  tri/edge 9..28  ratio 1.0136 
+Q(157,6) c 12 J [0, 1, 2, 4, 7, 10, 11]  n 553  edges 25596  tri/edge 10..22  ratio 1.0823 
+Q(277,6) c 12 J [0, 5, 7, 8, 11]  n 695  edges 39476  tri/edge 9..31  ratio 1.0137 
+Q(157,6) c 12 J [0, 1, 2, 4, 8, 9, 10]  n 553  edges 24411  tri/edge 6..25  ratio 1.1012 
+Q(157,6) c 12 J [0, 1, 2, 4, 8, 9, 11]  n 553  edges 25201  tri/edge 7..22  ratio 1.0783 
+Q(277,6) c 12 J [0, 5, 7, 9, 10]  n 695  edges 40866  tri/edge 13..29  ratio 1.0054 
+Q(277,6) c 12 J [0, 5, 7, 9, 11]  n 695  edges 40171  tri/edge 10..29  ratio 1.0022 
+Q(157,6) c 12 J [0, 1, 2, 4, 8, 10, 11]  n 553  edges 25201  tri/edge 7..23  ratio 1.0834 
+Q(157,6) c 12 J [0, 1, 2, 4, 9, 10, 11]  n 553  edges 25122  tri/edge 7..23  ratio 1.0775 
+Q(277,6) c 12 J [0, 5, 7, 10, 11]  n 695  edges 39754  tri/edge 12..28  ratio 0.9970 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 8]  n 553  edges 26070  tri/edge 9..22  ratio 1.0844 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 9]  n 553  edges 25675  tri/edge 11..21  ratio 1.0930 
+Q(277,6) c 12 J [0, 5, 8, 9, 10]  n 695  edges 38503  tri/edge 8..30  ratio 1.0387 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 10]  n 553  edges 25833  tri/edge 10..23  ratio 1.1029 
+Q(277,6) c 12 J [0, 5, 8, 9, 11]  n 695  edges 39198  tri/edge 9..33  ratio 1.0197 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 7, 11]  n 553  edges 25201  tri/edge 9..22  ratio 1.0835 
+Q(277,6) c 12 J [0, 5, 8, 10, 11]  n 695  edges 38781  tri/edge 7..29  ratio 1.0191 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 9]  n 553  edges 25438  tri/edge 7..22  ratio 1.0816 
+Q(277,6) c 12 J [0, 5, 9, 10, 11]  n 695  edges 41422  tri/edge 12..27  ratio 0.9876 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 10]  n 553  edges 25754  tri/edge 11..21  ratio 1.1056 
+Q(277,6) c 12 J [0, 7, 8, 9, 10]  n 695  edges 38920  tri/edge 8..32  ratio 1.0376 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 8, 11]  n 553  edges 24806  tri/edge 7..21  ratio 1.0989 
+Q(157,6) c 12 J [0, 1, 2, 5, 6, 9, 11]  n 553  edges 25596  tri/edge 9..21  ratio 1.0898 
+Q(277,6) c 12 J [0, 7, 8, 9, 11]  n 695  edges 40171  tri/edge 11..32  ratio 0.9894 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 9]  n 553  edges 25043  tri/edge 4..24  ratio 1.0897 
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 10]  n 553  edges 26070  tri/edge 9..24  ratio 1.0751 
+Q(277,6) c 12 J [0, 7, 8, 10, 11]  n 695  edges 39476  tri/edge 11..29  ratio 0.9898 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 8, 11]  n 553  edges 25280  tri/edge 8..24  ratio 1.1104 
+Q(277,6) c 12 J [0, 7, 9, 10, 11]  n 695  edges 40171  tri/edge 14..31  ratio 1.0018 
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 9, 10]  n 553  edges 24964  tri/edge 5..23  ratio 1.1041 
+Q(277,6) c 12 J [0, 8, 9, 10, 11]  n 695  edges 40588  tri/edge 11..29  ratio 0.9980 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 9, 11]  n 553  edges 24806  tri/edge 9..21  ratio 1.1049 
+Q(157,6) c 12 J [0, 1, 2, 5, 7, 10, 11]  n 553  edges 25043  tri/edge 8..23  ratio 1.0948 
+Q(157,6) c 12 J [0, 1, 2, 5, 8, 9, 10]  n 553  edges 24727  tri/edge 5..24  ratio 1.1060 
+Q(277,6) c 12 J [1, 2, 3, 4, 5]  n 695  edges 37669  tri/edge 8..28  ratio 1.0167 
+Q(157,6) c 12 J [0, 1, 2, 5, 8, 9, 11]  n 553  edges 24253  tri/edge 7..21  ratio 1.0913 
+Q(157,6) c 12 J [0, 1, 2, 5, 8, 10, 11]  n 553  edges 24648  tri/edge 6..23  ratio 1.0881 
+Q(277,6) c 12 J [1, 2, 3, 4, 7]  n 695  edges 38642  tri/edge 2..29  ratio 0.9960 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 5, 9, 10, 11]  n 553  edges 24727  tri/edge 8..21  ratio 1.1061 
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 9, 10]  n 553  edges 25438  tri/edge 8..23  ratio 1.1014 
+Q(277,6) c 12 J [1, 2, 3, 4, 8]  n 695  edges 38781  tri/edge 8..33  ratio 0.9986 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 9, 11]  n 553  edges 25991  tri/edge 11..21  ratio 1.0710 
+Q(277,6) c 12 J [1, 2, 3, 4, 9]  n 695  edges 36974  tri/edge 5..25  ratio 1.0291 
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 10, 11]  n 553  edges 24964  tri/edge 8..22  ratio 1.0924 
+Q(277,6) c 12 J [1, 2, 3, 4, 10]  n 695  edges 38503  tri/edge 4..31  ratio 1.0235 
+Q(157,6) c 12 J [0, 1, 2, 6, 8, 9, 10]  n 553  edges 25359  tri/edge 7..24  ratio 1.1015 
+Q(157,6) c 12 J [0, 1, 2, 6, 8, 9, 11]  n 553  edges 25596  tri/edge 7..24  ratio 1.0891 
+Q(277,6) c 12 J [1, 2, 3, 4, 11]  n 695  edges 38364  tri/edge 6..28  ratio 1.0087 
+Q(157,6) c 12 J [0, 1, 2, 6, 8, 10, 11]  n 553  edges 24727  tri/edge 6..22  ratio 1.0940 
+Q(157,6) c 12 J [0, 1, 2, 6, 9, 10, 11]  n 553  edges 25201  tri/edge 7..23  ratio 1.1004 
+Q(277,6) c 12 J [1, 2, 3, 5, 7]  n 695  edges 40171  tri/edge 9..30  ratio 0.9827 ARROWS
+Q(157,6) c 12 J [0, 1, 2, 7, 8, 9, 10]  n 553  edges 24964  tri/edge 3..22  ratio 1.0936 
+Q(157,6) c 12 J [0, 1, 2, 7, 8, 9, 11]  n 553  edges 25359  tri/edge 7..22  ratio 1.0890 
+Q(277,6) c 12 J [1, 2, 3, 5, 8]  n 695  edges 37808  tri/edge 7..28  ratio 1.0128 
+Q(157,6) c 12 J [0, 1, 2, 7, 8, 10, 11]  n 553  edges 25201  tri/edge 8..20  ratio 1.0988 
+Q(157,6) c 12 J [0, 1, 2, 7, 9, 10, 11]  n 553  edges 24411  tri/edge 8..22  ratio 1.0879 
+Q(277,6) c 12 J [1, 2, 3, 5, 9]  n 695  edges 38781  tri/edge 8..26  ratio 1.0098 
+Q(157,6) c 12 J [0, 1, 2, 8, 9, 10, 11]  n 553  edges 24016  tri/edge 5..22  ratio 1.1110 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 7]  n 553  edges 24569  tri/edge 5..23  ratio 1.1001 
+Q(277,6) c 12 J [1, 2, 3, 5, 10]  n 695  edges 39198  tri/edge 8..27  ratio 1.0119 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 8]  n 553  edges 24806  tri/edge 8..23  ratio 1.0995 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 9]  n 553  edges 24806  tri/edge 8..26  ratio 1.0858 
+Q(277,6) c 12 J [1, 2, 3, 5, 11]  n 695  edges 38225  tri/edge 6..28  ratio 1.0098 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 10]  n 553  edges 25122  tri/edge 7..23  ratio 1.0927 
+Q(277,6) c 12 J [1, 2, 3, 7, 8]  n 695  edges 40588  tri/edge 8..32  ratio 0.9885 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 6, 11]  n 553  edges 25043  tri/edge 7..23  ratio 1.1027 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 8]  n 553  edges 25912  tri/edge 9..23  ratio 1.1008 
+Q(277,6) c 12 J [1, 2, 3, 7, 9]  n 695  edges 39615  tri/edge 7..27  ratio 1.0872 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 9]  n 553  edges 24648  tri/edge 3..26  ratio 1.1080 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 10]  n 553  edges 25675  tri/edge 7..23  ratio 1.0891 
+Q(277,6) c 12 J [1, 2, 3, 7, 10]  n 695  edges 39754  tri/edge 6..31  ratio 1.0099 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 7, 11]  n 553  edges 25754  tri/edge 9..23  ratio 1.1041 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 9]  n 553  edges 24727  tri/edge 5..26  ratio 1.1113 
+Q(277,6) c 12 J [1, 2, 3, 7, 11]  n 695  edges 39337  tri/edge 8..34  ratio 1.0033 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 10]  n 553  edges 25912  tri/edge 10..23  ratio 1.0763 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 8, 11]  n 553  edges 25675  tri/edge 9..23  ratio 1.0968 
+Q(277,6) c 12 J [1, 2, 3, 8, 9]  n 695  edges 38642  tri/edge 6..28  ratio 1.0308 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 9, 10]  n 553  edges 25201  tri/edge 5..26  ratio 1.0946 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 9, 11]  n 553  edges 25596  tri/edge 8..26  ratio 1.0856 
+Q(277,6) c 12 J [1, 2, 3, 8, 10]  n 695  edges 38781  tri/edge 7..31  ratio 1.0142 
+Q(157,6) c 12 J [0, 1, 3, 4, 5, 10, 11]  n 553  edges 25991  tri/edge 10..23  ratio 1.0901 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 9]  n 553  edges 24569  tri/edge 6..23  ratio 1.1082 
+Q(277,6) c 12 J [1, 2, 3, 8, 11]  n 695  edges 39754  tri/edge 9..35  ratio 0.9958 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 10]  n 553  edges 24332  tri/edge 5..23  ratio 1.1014 
+Q(277,6) c 12 J [1, 2, 3, 9, 10]  n 695  edges 39754  tri/edge 7..31  ratio 1.0200 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 7, 11]  n 553  edges 25122  tri/edge 7..21  ratio 1.1106 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 9]  n 553  edges 24806  tri/edge 6..22  ratio 1.0991 
+Q(277,6) c 12 J [1, 2, 3, 9, 11]  n 695  edges 39893  tri/edge 10..28  ratio 0.9914 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 10]  n 553  edges 24727  tri/edge 8..20  ratio 1.0993 
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 8, 11]  n 553  edges 25201  tri/edge 6..22  ratio 1.0954 
+Q(277,6) c 12 J [1, 2, 3, 10, 11]  n 695  edges 40727  tri/edge 9..32  ratio 0.9912 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 9, 10]  n 553  edges 24411  tri/edge 7..22  ratio 1.1036 
+Q(277,6) c 12 J [1, 2, 4, 5, 7]  n 695  edges 41283  tri/edge 13..30  ratio 0.9857 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 9, 11]  n 553  edges 25517  tri/edge 5..23  ratio 1.0766 
+Q(277,6) c 12 J [1, 2, 4, 5, 8]  n 695  edges 39198  tri/edge 9..26  ratio 0.9901 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 6, 10, 11]  n 553  edges 24648  tri/edge 7..22  ratio 1.0934 
+Q(277,6) c 12 J [1, 2, 4, 5, 9]  n 695  edges 37669  tri/edge 8..27  ratio 1.0090 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 9]  n 553  edges 25201  tri/edge 6..21  ratio 1.1121 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 10]  n 553  edges 25833  tri/edge 7..23  ratio 1.1114 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 8, 11]  n 553  edges 26465  tri/edge 11..21  ratio 1.1181 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 9, 10]  n 553  edges 24253  tri/edge 5..23  ratio 1.1187 
+Q(277,6) c 12 J [1, 2, 4, 5, 10]  n 695  edges 40866  tri/edge 12..28  ratio 0.9767 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 9, 11]  n 553  edges 25517  tri/edge 10..21  ratio 1.1082 
+Q(277,6) c 12 J [1, 2, 4, 5, 11]  n 695  edges 38781  tri/edge 6..29  ratio 1.0149 
+Q(157,6) c 12 J [0, 1, 3, 4, 7, 10, 11]  n 553  edges 25359  tri/edge 9..23  ratio 1.1135 
+Q(157,6) c 12 J [0, 1, 3, 4, 8, 9, 10]  n 553  edges 24490  tri/edge 7..24  ratio 1.1068 
+Q(157,6) c 12 J [0, 1, 3, 4, 8, 9, 11]  n 553  edges 25438  tri/edge 6..21  ratio 1.0918 
+Q(277,6) c 12 J [1, 2, 4, 7, 8]  n 695  edges 42117  tri/edge 14..29  ratio 0.9743 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 4, 8, 10, 11]  n 553  edges 25438  tri/edge 8..22  ratio 1.1089 
+Q(277,6) c 12 J [1, 2, 4, 7, 9]  n 695  edges 38642  tri/edge 9..29  ratio 1.0088 
+Q(157,6) c 12 J [0, 1, 3, 4, 9, 10, 11]  n 553  edges 25043  tri/edge 7..22  ratio 1.0967 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 7, 9]  n 553  edges 25280  tri/edge 9..22  ratio 1.0842 
+Q(277,6) c 12 J [1, 2, 4, 7, 10]  n 695  edges 41561  tri/edge 12..29  ratio 0.9878 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 7, 10]  n 553  edges 25438  tri/edge 7..21  ratio 1.0947 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 7, 11]  n 553  edges 24964  tri/edge 7..21  ratio 1.1049 
+Q(277,6) c 12 J [1, 2, 4, 7, 11]  n 695  edges 40032  tri/edge 10..31  ratio 0.9827 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 9]  n 553  edges 25517  tri/edge 10..22  ratio 1.0734 
+Q(277,6) c 12 J [1, 2, 4, 8, 9]  n 695  edges 37947  tri/edge 9..28  ratio 1.0148 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 10]  n 553  edges 25833  tri/edge 12..20  ratio 1.0747 
+Q(277,6) c 12 J [1, 2, 4, 8, 10]  n 695  edges 40866  tri/edge 11..28  ratio 1.0058 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 8, 11]  n 553  edges 25043  tri/edge 8..21  ratio 1.0874 
+Q(277,6) c 12 J [1, 2, 4, 8, 11]  n 695  edges 40727  tri/edge 11..28  ratio 0.9837 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 9, 10]  n 553  edges 25675  tri/edge 8..22  ratio 1.0965 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 9, 11]  n 553  edges 25517  tri/edge 8..22  ratio 1.0933 
+Q(277,6) c 12 J [1, 2, 4, 9, 10]  n 695  edges 39337  tri/edge 10..32  ratio 1.0011 
+Q(157,6) c 12 J [0, 1, 3, 5, 6, 10, 11]  n 553  edges 25043  tri/edge 7..22  ratio 1.0914 
+Q(277,6) c 12 J [1, 2, 4, 9, 11]  n 695  edges 38364  tri/edge 10..28  ratio 1.0241 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 9]  n 553  edges 25596  tri/edge 6..22  ratio 1.0889 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 10]  n 553  edges 26623  tri/edge 13..21  ratio 1.0652 
+Q(277,6) c 12 J [1, 2, 4, 10, 11]  n 695  edges 41978  tri/edge 12..30  ratio 0.9781 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8, 11]  n 553  edges 25991  tri/edge 11..21  ratio 1.0929 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 9, 10]  n 553  edges 25201  tri/edge 5..23  ratio 1.0908 
+Q(277,6) c 12 J [1, 2, 5, 7, 8]  n 695  edges 41700  tri/edge 14..32  ratio 0.9702 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 9, 11]  n 553  edges 25201  tri/edge 9..22  ratio 1.0999 
+Q(277,6) c 12 J [1, 2, 5, 7, 9]  n 695  edges 41005  tri/edge 12..33  ratio 1.0022 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 10, 11]  n 553  edges 25438  tri/edge 9..23  ratio 1.0892 
+Q(157,6) c 12 J [0, 1, 3, 5, 8, 9, 10]  n 553  edges 25438  tri/edge 7..22  ratio 1.0777 
+Q(157,6) c 12 J [0, 1, 3, 5, 8, 9, 11]  n 553  edges 25122  tri/edge 7..22  ratio 1.0951 
+Q(277,6) c 12 J [1, 2, 5, 7, 10]  n 695  edges 42812  tri/edge 16..26  ratio 0.9736 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 5, 8, 10, 11]  n 553  edges 25517  tri/edge 9..21  ratio 1.0777 
+Q(157,6) c 12 J [0, 1, 3, 5, 9, 10, 11]  n 553  edges 25280  tri/edge 8..23  ratio 1.0892 
+Q(277,6) c 12 J [1, 2, 5, 7, 11]  n 695  edges 40449  tri/edge 8..32  ratio 0.9868 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 6, 7, 10, 11]  n 553  edges 24253  tri/edge 8..21  ratio 1.0946 
+Q(277,6) c 12 J [1, 2, 5, 8, 9]  n 695  edges 37808  tri/edge 9..26  ratio 1.0022 
+Q(157,6) c 12 J [0, 1, 3, 6, 8, 9, 10]  n 553  edges 24964  tri/edge 8..22  ratio 1.0991 
+Q(157,6) c 12 J [0, 1, 3, 6, 8, 9, 11]  n 553  edges 25359  tri/edge 6..24  ratio 1.0788 
+Q(277,6) c 12 J [1, 2, 5, 8, 10]  n 695  edges 39615  tri/edge 10..30  ratio 0.9876 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 6, 8, 10, 11]  n 553  edges 24490  tri/edge 6..20  ratio 1.0841 
+Q(157,6) c 12 J [0, 1, 3, 6, 9, 10, 11]  n 553  edges 24648  tri/edge 7..23  ratio 1.0822 
+Q(157,6) c 12 J [0, 1, 3, 7, 8, 9, 10]  n 553  edges 25043  tri/edge 5..21  ratio 1.1014 
+Q(277,6) c 12 J [1, 2, 5, 8, 11]  n 695  edges 38642  tri/edge 9..29  ratio 0.9999 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 7, 8, 9, 11]  n 553  edges 25596  tri/edge 9..21  ratio 1.0930 
+Q(157,6) c 12 J [0, 1, 3, 7, 8, 10, 11]  n 553  edges 25438  tri/edge 8..21  ratio 1.0859 
+Q(157,6) c 12 J [0, 1, 3, 7, 9, 10, 11]  n 553  edges 24332  tri/edge 8..21  ratio 1.1056 
+Q(277,6) c 12 J [1, 2, 5, 9, 10]  n 695  edges 40866  tri/edge 12..28  ratio 0.9708 ARROWS
+Q(157,6) c 12 J [0, 1, 3, 8, 9, 10, 11]  n 553  edges 24411  tri/edge 8..20  ratio 1.0899 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 7, 10]  n 553  edges 24569  tri/edge 4..23  ratio 1.1006 
+Q(277,6) c 12 J [1, 2, 5, 9, 11]  n 695  edges 39059  tri/edge 10..30  ratio 1.0054 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 9]  n 553  edges 24174  tri/edge 7..20  ratio 1.0886 
+Q(277,6) c 12 J [1, 2, 5, 10, 11]  n 695  edges 41561  tri/edge 12..32  ratio 0.9939 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 10]  n 553  edges 24648  tri/edge 8..24  ratio 1.1057 
+Q(277,6) c 12 J [1, 2, 7, 9, 10]  n 695  edges 41422  tri/edge 10..30  ratio 0.9936 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 8, 11]  n 553  edges 24253  tri/edge 7..21  ratio 1.1064 
+Q(277,6) c 12 J [1, 2, 7, 9, 11]  n 695  edges 40171  tri/edge 8..32  ratio 0.9902 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 9, 11]  n 553  edges 24727  tri/edge 7..23  ratio 1.0977 
+Q(157,6) c 12 J [0, 1, 4, 5, 6, 10, 11]  n 553  edges 24411  tri/edge 3..23  ratio 1.1111 
+Q(277,6) c 12 J [1, 2, 7, 10, 11]  n 695  edges 42395  tri/edge 13..30  ratio 0.9875 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 9]  n 553  edges 24727  tri/edge 6..22  ratio 1.0936 
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 10]  n 553  edges 25912  tri/edge 9..22  ratio 1.0776 
+Q(277,6) c 12 J [1, 2, 8, 9, 10]  n 695  edges 39615  tri/edge 8..28  ratio 0.9932 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 8, 11]  n 553  edges 25675  tri/edge 9..22  ratio 1.0956 
+Q(277,6) c 12 J [1, 2, 8, 9, 11]  n 695  edges 39754  tri/edge 10..28  ratio 0.9940 ARROWS
+Q(277,6) c 12 J [1, 2, 8, 10, 11]  n 695  edges 41978  tri/edge 12..31  ratio 0.9878 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 9, 10]  n 553  edges 24490  tri/edge 5..23  ratio 1.0969 
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 9, 11]  n 553  edges 24885  tri/edge 6..23  ratio 1.0998 
+Q(157,6) c 12 J [0, 1, 4, 5, 7, 10, 11]  n 553  edges 25280  tri/edge 6..23  ratio 1.0885 
+Q(277,6) c 12 J [1, 2, 9, 10, 11]  n 695  edges 42395  tri/edge 15..30  ratio 0.9712 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 5, 8, 9, 10]  n 553  edges 24411  tri/edge 6..24  ratio 1.0998 
+Q(157,6) c 12 J [0, 1, 4, 5, 8, 9, 11]  n 553  edges 24490  tri/edge 8..22  ratio 1.0948 
+Q(277,6) c 12 J [1, 3, 4, 5, 7]  n 695  edges 40310  tri/edge 10..29  ratio 1.0209 
+Q(157,6) c 12 J [0, 1, 4, 5, 8, 10, 11]  n 553  edges 25043  tri/edge 8..22  ratio 1.0783 
+Q(277,6) c 12 J [1, 3, 4, 5, 8]  n 695  edges 40032  tri/edge 11..29  ratio 1.0134 
+Q(157,6) c 12 J [0, 1, 4, 5, 9, 10, 11]  n 553  edges 24806  tri/edge 4..22  ratio 1.0929 
+Q(277,6) c 12 J [1, 3, 4, 5, 9]  n 695  edges 38781  tri/edge 9..28  ratio 1.0379 
+Q(157,6) c 12 J [0, 1, 4, 6, 8, 9, 10]  n 553  edges 24411  tri/edge 6..24  ratio 1.1108 
+Q(157,6) c 12 J [0, 1, 4, 6, 8, 9, 11]  n 553  edges 25201  tri/edge 4..24  ratio 1.0899 
+Q(277,6) c 12 J [1, 3, 4, 5, 10]  n 695  edges 39476  tri/edge 12..28  ratio 0.9806 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 6, 8, 10, 11]  n 553  edges 24490  tri/edge 6..23  ratio 1.0921 
+Q(277,6) c 12 J [1, 3, 4, 5, 11]  n 695  edges 40171  tri/edge 13..28  ratio 0.9804 ARROWS
+Q(157,6) c 12 J [0, 1, 4, 6, 9, 10, 11]  n 553  edges 24648  tri/edge 5..23  ratio 1.1017 
+Q(277,6) c 12 J [1, 3, 4, 7, 9]  n 695  edges 38225  tri/edge 7..27  ratio 1.1081 
+Q(157,6) c 12 J [0, 1, 4, 7, 8, 9, 10]  n 553  edges 24964  tri/edge 5..25  ratio 1.1103 
+Q(157,6) c 12 J [0, 1, 4, 7, 8, 9, 11]  n 553  edges 25912  tri/edge 8..23  ratio 1.1034 
+Q(277,6) c 12 J [1, 3, 4, 7, 10]  n 695  edges 38642  tri/edge 6..31  ratio 1.0357 
+Q(157,6) c 12 J [0, 1, 4, 7, 8, 10, 11]  n 553  edges 25912  tri/edge 8..23  ratio 1.1065 
+Q(277,6) c 12 J [1, 3, 4, 7, 11]  n 695  edges 39893  tri/edge 8..30  ratio 1.0095 
+Q(157,6) c 12 J [0, 1, 4, 7, 9, 10, 11]  n 553  edges 24806  tri/edge 4..23  ratio 1.0927 
+Q(157,6) c 12 J [0, 1, 4, 8, 9, 10, 11]  n 553  edges 24569  tri/edge 4..24  ratio 1.0987 
+Q(277,6) c 12 J [1, 3, 4, 8, 9]  n 695  edges 39337  tri/edge 7..29  ratio 1.0233 
+Q(157,6) c 12 J [0, 1, 5, 6, 8, 9, 10]  n 553  edges 25201  tri/edge 8..22  ratio 1.1020 
+Q(277,6) c 12 J [1, 3, 4, 8, 10]  n 695  edges 39754  tri/edge 10..29  ratio 1.0162 
+Q(157,6) c 12 J [0, 1, 5, 6, 8, 9, 11]  n 553  edges 24727  tri/edge 8..24  ratio 1.0926 
+Q(157,6) c 12 J [0, 1, 5, 6, 8, 10, 11]  n 553  edges 24411  tri/edge 6..21  ratio 1.1060 
+Q(157,6) c 12 J [0, 1, 5, 6, 9, 10, 11]  n 553  edges 24727  tri/edge 5..23  ratio 1.1128 
+Q(277,6) c 12 J [1, 3, 4, 8, 11]  n 695  edges 42395  tri/edge 14..28  ratio 0.9723 ARROWS
+Q(277,6) c 12 J [1, 3, 4, 9, 10]  n 695  edges 38503  tri/edge 8..28  ratio 1.0587 
+Q(157,6) c 12 J [0, 1, 5, 7, 8, 9, 10]  n 553  edges 25438  tri/edge 5..24  ratio 1.0827 
+Q(157,6) c 12 J [0, 1, 5, 7, 8, 9, 11]  n 553  edges 25122  tri/edge 8..23  ratio 1.0945 
+Q(277,6) c 12 J [1, 3, 4, 9, 11]  n 695  edges 40310  tri/edge 11..28  ratio 1.0127 
+Q(157,6) c 12 J [0, 1, 5, 7, 8, 10, 11]  n 553  edges 25517  tri/edge 8..22  ratio 1.0883 
+Q(277,6) c 12 J [1, 3, 4, 10, 11]  n 695  edges 41422  tri/edge 10..32  ratio 0.9780 ARROWS
+Q(157,6) c 12 J [0, 1, 5, 7, 9, 10, 11]  n 553  edges 24569  tri/edge 4..22  ratio 1.1104 
+Q(157,6) c 12 J [0, 1, 5, 8, 9, 10, 11]  n 553  edges 24332  tri/edge 6..23  ratio 1.0944 
+Q(277,6) c 12 J [1, 3, 5, 7, 9]  n 695  edges 39754  tri/edge 10..29  ratio 1.0714 
+Q(157,6) c 12 J [0, 1, 6, 8, 9, 10, 11]  n 553  edges 24490  tri/edge 4..26  ratio 1.0994 
+Q(277,6) c 12 J [1, 3, 5, 7, 10]  n 695  edges 39059  tri/edge 10..29  ratio 1.0168 
+Q(277,6) c 12 J [1, 3, 5, 7, 11]  n 695  edges 39476  tri/edge 8..31  ratio 1.0013 
+Q(157,6) c 12 J [0, 1, 7, 8, 9, 10, 11]  n 553  edges 24885  tri/edge 6..22  ratio 1.0955 
+Q(277,6) c 12 J [1, 3, 5, 8, 9]  n 695  edges 38364  tri/edge 11..26  ratio 1.0071 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 8]  n 553  edges 25201  tri/edge 6..25  ratio 1.0994 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 9]  n 553  edges 25675  tri/edge 6..23  ratio 1.0756 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 10]  n 553  edges 25675  tri/edge 6..23  ratio 1.0918 
+Q(277,6) c 12 J [1, 3, 5, 8, 10]  n 695  edges 37669  tri/edge 8..31  ratio 1.0040 
+Q(277,6) c 12 J [1, 3, 5, 8, 11]  n 695  edges 39476  tri/edge 8..28  ratio 0.9938 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 6, 11]  n 553  edges 25596  tri/edge 7..23  ratio 1.0778 
+Q(277,6) c 12 J [1, 3, 5, 9, 10]  n 695  edges 39198  tri/edge 12..25  ratio 1.0076 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 8]  n 553  edges 25201  tri/edge 5..26  ratio 1.0908 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 9]  n 553  edges 24411  tri/edge 4..24  ratio 1.0859 
+Q(277,6) c 12 J [1, 3, 5, 9, 11]  n 695  edges 40171  tri/edge 11..27  ratio 1.0102 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 10]  n 553  edges 25122  tri/edge 4..24  ratio 1.0998 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 7, 11]  n 553  edges 25201  tri/edge 8..24  ratio 1.0982 
+Q(277,6) c 12 J [1, 3, 5, 10, 11]  n 695  edges 40171  tri/edge 10..32  ratio 0.9810 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 9]  n 553  edges 24964  tri/edge 5..25  ratio 1.0847 
+Q(277,6) c 12 J [1, 3, 7, 10, 11]  n 695  edges 39476  tri/edge 9..33  ratio 1.0143 
+Q(277,6) c 12 J [1, 3, 8, 9, 10]  n 695  edges 38225  tri/edge 7..29  ratio 1.0086 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 10]  n 553  edges 25833  tri/edge 7..25  ratio 1.0815 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 8, 11]  n 553  edges 25596  tri/edge 7..25  ratio 1.1070 
+Q(277,6) c 12 J [1, 3, 8, 9, 11]  n 695  edges 41144  tri/edge 13..30  ratio 0.9871 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 9, 10]  n 553  edges 25596  tri/edge 6..23  ratio 1.0760 
+Q(277,6) c 12 J [1, 3, 8, 10, 11]  n 695  edges 40866  tri/edge 10..31  ratio 0.9886 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 9, 11]  n 553  edges 25991  tri/edge 9..23  ratio 1.0695 
+Q(157,6) c 12 J [0, 2, 3, 4, 5, 10, 11]  n 553  edges 26070  tri/edge 10..23  ratio 1.0857 
+Q(277,6) c 12 J [1, 3, 9, 10, 11]  n 695  edges 41561  tri/edge 15..31  ratio 0.9900 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 9]  n 553  edges 25675  tri/edge 8..24  ratio 1.1047 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 10]  n 553  edges 25280  tri/edge 9..22  ratio 1.1189 
+Q(277,6) c 12 J [1, 4, 5, 7, 10]  n 695  edges 41561  tri/edge 13..30  ratio 0.9847 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 8, 11]  n 553  edges 25754  tri/edge 9..22  ratio 1.0926 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 9, 10]  n 553  edges 25438  tri/edge 9..20  ratio 1.0904 
+Q(277,6) c 12 J [1, 4, 5, 7, 11]  n 695  edges 40866  tri/edge 10..30  ratio 1.0065 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 9, 11]  n 553  edges 26544  tri/edge 13..21  ratio 1.0578 
+Q(277,6) c 12 J [1, 4, 5, 8, 9]  n 695  edges 38364  tri/edge 8..26  ratio 1.0107 
+Q(157,6) c 12 J [0, 2, 3, 4, 6, 10, 11]  n 553  edges 25359  tri/edge 7..23  ratio 1.0815 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 9]  n 553  edges 24964  tri/edge 6..21  ratio 1.1015 
+Q(277,6) c 12 J [1, 4, 5, 8, 10]  n 695  edges 40449  tri/edge 11..31  ratio 0.9880 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 10]  n 553  edges 25280  tri/edge 9..22  ratio 1.1104 
+Q(277,6) c 12 J [1, 4, 5, 8, 11]  n 695  edges 41144  tri/edge 10..30  ratio 0.9891 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 8, 11]  n 553  edges 25912  tri/edge 9..23  ratio 1.0977 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 9, 10]  n 553  edges 24174  tri/edge 6..20  ratio 1.0991 
+Q(277,6) c 12 J [1, 4, 5, 9, 10]  n 695  edges 39476  tri/edge 8..29  ratio 0.9946 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 9, 11]  n 553  edges 25438  tri/edge 10..21  ratio 1.0922 
+Q(157,6) c 12 J [0, 2, 3, 4, 7, 10, 11]  n 553  edges 24964  tri/edge 8..24  ratio 1.0950 
+Q(277,6) c 12 J [1, 4, 5, 9, 11]  n 695  edges 39337  tri/edge 9..30  ratio 0.9946 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 8, 9, 11]  n 553  edges 25833  tri/edge 9..21  ratio 1.0851 
+Q(157,6) c 12 J [0, 2, 3, 4, 8, 10, 11]  n 553  edges 25517  tri/edge 9..22  ratio 1.1042 
+Q(277,6) c 12 J [1, 4, 5, 10, 11]  n 695  edges 42117  tri/edge 14..28  ratio 0.9665 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 4, 9, 10, 11]  n 553  edges 25596  tri/edge 11..21  ratio 1.0717 
+Q(277,6) c 12 J [1, 4, 8, 9, 10]  n 695  edges 38920  tri/edge 6..29  ratio 0.9974 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 8, 9]  n 553  edges 26070  tri/edge 10..24  ratio 1.0825 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 8, 10]  n 553  edges 26070  tri/edge 9..23  ratio 1.0743 
+Q(277,6) c 12 J [1, 4, 8, 9, 11]  n 695  edges 40727  tri/edge 10..28  ratio 0.9961 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 8, 11]  n 553  edges 25280  tri/edge 9..23  ratio 1.0872 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 9, 10]  n 553  edges 26386  tri/edge 11..21  ratio 1.0864 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 9, 11]  n 553  edges 26228  tri/edge 10..22  ratio 1.0729 
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 10, 11]  n 553  edges 25438  tri/edge 9..21  ratio 1.0995 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 9]  n 553  edges 25043  tri/edge 4..24  ratio 1.0935 
+Q(277,6) c 12 J [1, 4, 8, 10, 11]  n 695  edges 43229  tri/edge 18..29  ratio 0.9576 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 10]  n 553  edges 25754  tri/edge 7..24  ratio 1.0832 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 8, 11]  n 553  edges 25122  tri/edge 5..24  ratio 1.1035 
+Q(277,6) c 12 J [1, 4, 9, 10, 11]  n 695  edges 41422  tri/edge 14..29  ratio 0.9865 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 9, 10]  n 553  edges 24806  tri/edge 4..23  ratio 1.0953 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 9, 11]  n 553  edges 24806  tri/edge 7..22  ratio 1.1072 
+Q(277,6) c 12 J [1, 5, 8, 9, 10]  n 695  edges 37669  tri/edge 8..31  ratio 1.0113 
+Q(157,6) c 12 J [0, 2, 3, 5, 7, 10, 11]  n 553  edges 24727  tri/edge 6..23  ratio 1.1067 
+Q(277,6) c 12 J [1, 5, 8, 9, 11]  n 695  edges 38642  tri/edge 10..31  ratio 1.0107 
+Q(157,6) c 12 J [0, 2, 3, 5, 8, 9, 10]  n 553  edges 25517  tri/edge 5..23  ratio 1.0781 
+Q(277,6) c 12 J [1, 5, 8, 10, 11]  n 695  edges 40032  tri/edge 9..31  ratio 0.9976 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 8, 9, 11]  n 553  edges 25201  tri/edge 7..23  ratio 1.0858 
+Q(157,6) c 12 J [0, 2, 3, 5, 8, 10, 11]  n 553  edges 25280  tri/edge 7..23  ratio 1.0857 
+Q(277,6) c 12 J [1, 5, 9, 10, 11]  n 695  edges 41005  tri/edge 13..28  ratio 0.9922 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 5, 9, 10, 11]  n 553  edges 25517  tri/edge 8..23  ratio 1.0793 
+Q(277,6) c 12 J [1, 8, 9, 10, 11]  n 695  edges 40866  tri/edge 10..31  ratio 0.9920 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 6, 8, 10, 11]  n 553  edges 24885  tri/edge 6..22  ratio 1.0773 
+Q(157,6) c 12 J [0, 2, 3, 6, 9, 10, 11]  n 553  edges 25517  tri/edge 8..22  ratio 1.0880 
+Q(157,6) c 12 J [0, 2, 3, 7, 8, 9, 10]  n 553  edges 24648  tri/edge 3..22  ratio 1.1039 
+Q(157,6) c 12 J [0, 2, 3, 7, 8, 9, 11]  n 553  edges 25201  tri/edge 7..21  ratio 1.1087 
+Q(277,6) c 12 J [2, 3, 4, 5, 8]  n 695  edges 38920  tri/edge 10..27  ratio 1.0044 
+Q(157,6) c 12 J [0, 2, 3, 7, 8, 10, 11]  n 553  edges 24727  tri/edge 7..21  ratio 1.0904 
+Q(277,6) c 12 J [2, 3, 4, 5, 9]  n 695  edges 39476  tri/edge 10..29  ratio 0.9946 ARROWS
+Q(157,6) c 12 J [0, 2, 3, 7, 9, 10, 11]  n 553  edges 24095  tri/edge 7..21  ratio 1.0939 
+Q(157,6) c 12 J [0, 2, 3, 8, 9, 10, 11]  n 553  edges 24648  tri/edge 8..22  ratio 1.0881 
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 8, 10]  n 553  edges 25043  tri/edge 7..23  ratio 1.1126 
+Q(277,6) c 12 J [2, 3, 4, 5, 10]  n 695  edges 40449  tri/edge 11..27  ratio 0.9970 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 8, 11]  n 553  edges 24648  tri/edge 7..23  ratio 1.1000 
+Q(277,6) c 12 J [2, 3, 4, 5, 11]  n 695  edges 38642  tri/edge 6..29  ratio 0.9968 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 9, 10]  n 553  edges 25359  tri/edge 7..22  ratio 1.1053 
+Q(277,6) c 12 J [2, 3, 4, 8, 9]  n 695  edges 37669  tri/edge 6..25  ratio 1.0360 
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 9, 11]  n 553  edges 25596  tri/edge 8..21  ratio 1.0796 
+Q(157,6) c 12 J [0, 2, 4, 5, 6, 10, 11]  n 553  edges 24964  tri/edge 7..22  ratio 1.0971 
+Q(277,6) c 12 J [2, 3, 4, 8, 10]  n 695  edges 38364  tri/edge 9..27  ratio 1.0404 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 9]  n 553  edges 24332  tri/edge 4..22  ratio 1.0986 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 10]  n 553  edges 25201  tri/edge 8..23  ratio 1.0794 
+Q(277,6) c 12 J [2, 3, 4, 8, 11]  n 695  edges 38503  tri/edge 11..26  ratio 0.9958 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 8, 11]  n 553  edges 24964  tri/edge 6..21  ratio 1.1099 
+Q(277,6) c 12 J [2, 3, 4, 9, 10]  n 695  edges 38920  tri/edge 7..31  ratio 1.0426 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 9, 10]  n 553  edges 24253  tri/edge 6..22  ratio 1.0831 
+Q(277,6) c 12 J [2, 3, 4, 9, 11]  n 695  edges 38225  tri/edge 9..26  ratio 1.0057 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 9, 11]  n 553  edges 24648  tri/edge 8..22  ratio 1.0943 
+Q(157,6) c 12 J [0, 2, 4, 5, 7, 10, 11]  n 553  edges 24727  tri/edge 8..22  ratio 1.1040 
+Q(277,6) c 12 J [2, 3, 4, 10, 11]  n 695  edges 39615  tri/edge 10..30  ratio 0.9890 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 5, 8, 9, 10]  n 553  edges 24648  tri/edge 6..22  ratio 1.0897 
+Q(277,6) c 12 J [2, 3, 5, 8, 9]  n 695  edges 38086  tri/edge 8..25  ratio 1.0273 
+Q(277,6) c 12 J [2, 3, 5, 8, 10]  n 695  edges 37669  tri/edge 4..28  ratio 1.0276 
+Q(157,6) c 12 J [0, 2, 4, 5, 8, 9, 11]  n 553  edges 24727  tri/edge 8..21  ratio 1.0981 
+Q(157,6) c 12 J [0, 2, 4, 5, 8, 10, 11]  n 553  edges 24964  tri/edge 7..24  ratio 1.0937 
+Q(277,6) c 12 J [2, 3, 5, 8, 11]  n 695  edges 36974  tri/edge 4..25  ratio 1.0306 
+Q(157,6) c 12 J [0, 2, 4, 5, 9, 10, 11]  n 553  edges 25201  tri/edge 8..22  ratio 1.0798 
+Q(157,6) c 12 J [0, 2, 4, 6, 9, 10, 11]  n 553  edges 25675  tri/edge 9..21  ratio 1.0883 
+Q(277,6) c 12 J [2, 3, 5, 9, 10]  n 695  edges 41005  tri/edge 12..28  ratio 0.9915 ARROWS
+Q(157,6) c 12 J [0, 2, 4, 7, 8, 9, 10]  n 553  edges 24727  tri/edge 5..22  ratio 1.0932 
+Q(277,6) c 12 J [2, 3, 5, 9, 11]  n 695  edges 39476  tri/edge 9..27  ratio 1.0005 
+Q(157,6) c 12 J [0, 2, 4, 7, 8, 9, 11]  n 553  edges 25675  tri/edge 9..20  ratio 1.1032 
+Q(157,6) c 12 J [0, 2, 4, 7, 8, 10, 11]  n 553  edges 25359  tri/edge 7..22  ratio 1.1080 
+Q(277,6) c 12 J [2, 3, 5, 10, 11]  n 695  edges 39754  tri/edge 7..32  ratio 1.0088 
+Q(157,6) c 12 J [0, 2, 4, 7, 9, 10, 11]  n 553  edges 24727  tri/edge 8..22  ratio 1.0888 
+Q(277,6) c 12 J [2, 3, 8, 10, 11]  n 695  edges 38086  tri/edge 6..27  ratio 1.0126 
+Q(157,6) c 12 J [0, 2, 4, 8, 9, 10, 11]  n 553  edges 24964  tri/edge 7..22  ratio 1.0819 
+Q(277,6) c 12 J [2, 3, 9, 10, 11]  n 695  edges 40588  tri/edge 13..29  ratio 0.9913 ARROWS
+Q(157,6) c 12 J [0, 2, 5, 6, 9, 10, 11]  n 553  edges 25438  tri/edge 8..22  ratio 1.1019 
+Q(277,6) c 12 J [2, 4, 5, 8, 10]  n 695  edges 40449  tri/edge 12..26  ratio 1.0132 
+Q(157,6) c 12 J [0, 2, 5, 7, 8, 9, 10]  n 553  edges 24885  tri/edge 3..25  ratio 1.0833 
+Q(277,6) c 12 J [2, 4, 5, 8, 11]  n 695  edges 38642  tri/edge 6..31  ratio 1.0255 
+Q(157,6) c 12 J [0, 2, 5, 7, 8, 9, 11]  n 553  edges 24569  tri/edge 6..23  ratio 1.1034 
+Q(157,6) c 12 J [0, 2, 5, 7, 8, 10, 11]  n 553  edges 24648  tri/edge 5..24  ratio 1.0858 
+Q(157,6) c 12 J [0, 2, 5, 7, 9, 10, 11]  n 553  edges 24174  tri/edge 6..21  ratio 1.1037 
+Q(157,6) c 12 J [0, 2, 5, 8, 9, 10, 11]  n 553  edges 24411  tri/edge 5..25  ratio 1.0966 
+Q(157,6) c 12 J [0, 2, 7, 8, 9, 10, 11]  n 553  edges 24490  tri/edge 5..22  ratio 1.0965 
+Q(277,6) c 12 J [2, 4, 5, 9, 10]  n 695  edges 41283  tri/edge 12..29  ratio 0.9719 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 6, 9, 10]  n 553  edges 25675  tri/edge 9..22  ratio 1.0798 
+Q(157,6) c 12 J [0, 3, 4, 5, 6, 9, 11]  n 553  edges 26070  tri/edge 10..23  ratio 1.0822 
+Q(277,6) c 12 J [2, 4, 5, 9, 11]  n 695  edges 38642  tri/edge 4..30  ratio 1.0030 
+Q(157,6) c 12 J [0, 3, 4, 5, 6, 10, 11]  n 553  edges 25438  tri/edge 6..22  ratio 1.0964 
+Q(277,6) c 12 J [2, 4, 5, 10, 11]  n 695  edges 41700  tri/edge 12..32  ratio 0.9803 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 9]  n 553  edges 25438  tri/edge 7..22  ratio 1.1017 
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 10]  n 553  edges 26307  tri/edge 11..22  ratio 1.0944 
+Q(277,6) c 12 J [2, 4, 9, 10, 11]  n 695  edges 40449  tri/edge 12..30  ratio 0.9886 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 8, 11]  n 553  edges 26228  tri/edge 9..21  ratio 1.1048 
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 9, 10]  n 553  edges 25043  tri/edge 4..24  ratio 1.0864 
+Q(277,6) c 12 J [2, 5, 9, 10, 11]  n 695  edges 41422  tri/edge 12..29  ratio 0.9873 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 9, 11]  n 553  edges 25596  tri/edge 9..24  ratio 1.0955 
+Q(277,6) c 12 J [3, 4, 5, 9, 10]  n 695  edges 41561  tri/edge 15..26  ratio 0.9799 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 7, 10, 11]  n 553  edges 25675  tri/edge 7..24  ratio 1.0885 
+Q(277,6) c 12 J [3, 4, 5, 9, 11]  n 695  edges 41700  tri/edge 13..28  ratio 0.9966 ARROWS
+Q(157,6) c 12 J [0, 3, 4, 5, 8, 9, 10]  n 553  edges 25912  tri/edge 9..22  ratio 1.0732 
+Q(157,6) c 12 J [0, 3, 4, 5, 8, 9, 11]  n 553  edges 26149  tri/edge 11..22  ratio 1.0850 
+Q(157,6) c 12 J [0, 3, 4, 5, 8, 10, 11]  n 553  edges 26386  tri/edge 11..22  ratio 1.0863 
+Q(277,6) c 12 J [3, 4, 5, 10, 11]  n 695  edges 42256  tri/edge 14..28  ratio 0.9660 ARROWS
+# done Q(277,6) c 12 size 5: 396 sets, best ratio 0.9470 J [0, 3, 4, 9, 11] (n 695, tri/edge 12..28)  [321s]
+Q(157,6) c 12 J [0, 3, 4, 5, 9, 10, 11]  n 553  edges 26307  tri/edge 10..24  ratio 1.0757 
+Q(277,6) c 12 J [0, 1, 2, 3]  n 556  edges 25020  tri/edge 4..26  ratio 1.0894 
+Q(157,6) c 12 J [0, 3, 4, 7, 8, 9, 10]  n 553  edges 25359  tri/edge 7..23  ratio 1.0992 
+Q(277,6) c 12 J [0, 1, 2, 5]  n 556  edges 24464  tri/edge 6..31  ratio 1.1046 
+Q(157,6) c 12 J [0, 3, 4, 7, 8, 9, 11]  n 553  edges 26465  tri/edge 11..21  ratio 1.1074 
+Q(277,6) c 12 J [0, 1, 2, 6]  n 556  edges 26271  tri/edge 8..26  ratio 1.0581 
+Q(157,6) c 12 J [0, 3, 4, 7, 8, 10, 11]  n 553  edges 26149  tri/edge 9..23  ratio 1.1132 
+Q(157,6) c 12 J [0, 3, 4, 7, 9, 10, 11]  n 553  edges 25201  tri/edge 9..23  ratio 1.1046 
+Q(277,6) c 12 J [0, 1, 2, 7]  n 556  edges 27800  tri/edge 12..23  ratio 1.0528 
+Q(157,6) c 12 J [0, 3, 4, 8, 9, 10, 11]  n 553  edges 25912  tri/edge 9..22  ratio 1.0778 
+Q(277,6) c 12 J [0, 1, 2, 8]  n 556  edges 26827  tri/edge 9..24  ratio 1.0345 
+Q(277,6) c 12 J [0, 1, 2, 9]  n 556  edges 26271  tri/edge 9..28  ratio 1.0768 
+Q(157,6) c 12 J [0, 3, 5, 7, 8, 9, 10]  n 553  edges 26149  tri/edge 5..23  ratio 1.0787 
+Q(277,6) c 12 J [0, 1, 2, 10]  n 556  edges 27105  tri/edge 8..25  ratio 1.0804 
+Q(157,6) c 12 J [0, 3, 5, 7, 8, 9, 11]  n 553  edges 25991  tri/edge 9..21  ratio 1.1039 
+Q(157,6) c 12 J [0, 3, 5, 7, 8, 10, 11]  n 553  edges 26070  tri/edge 8..23  ratio 1.0896 
+Q(277,6) c 12 J [0, 1, 2, 11]  n 556  edges 26410  tri/edge 6..27  ratio 1.0822 
+Q(157,6) c 12 J [0, 3, 5, 7, 9, 10, 11]  n 553  edges 25280  tri/edge 7..25  ratio 1.0808 
+Q(277,6) c 12 J [0, 1, 3, 6]  n 556  edges 25576  tri/edge 9..27  ratio 1.0473 
+Q(157,6) c 12 J [0, 3, 5, 8, 9, 10, 11]  n 553  edges 25991  tri/edge 9..23  ratio 1.0888 
+Q(277,6) c 12 J [0, 1, 3, 7]  n 556  edges 25437  tri/edge 6..22  ratio 1.0769 
+Q(157,6) c 12 J [0, 3, 7, 8, 9, 10, 11]  n 553  edges 25438  tri/edge 8..22  ratio 1.0881 
+Q(277,6) c 12 J [0, 1, 3, 8]  n 556  edges 26271  tri/edge 8..26  ratio 1.0786 
+Q(277,6) c 12 J [0, 1, 3, 9]  n 556  edges 25993  tri/edge 8..22  ratio 1.1034 
+Q(157,6) c 12 J [0, 4, 5, 7, 8, 9, 10]  n 553  edges 25438  tri/edge 7..23  ratio 1.0838 
+Q(157,6) c 12 J [0, 4, 5, 7, 8, 9, 11]  n 553  edges 25675  tri/edge 8..22  ratio 1.1004 
+Q(277,6) c 12 J [0, 1, 3, 10]  n 556  edges 24325  tri/edge 7..24  ratio 1.0821 
+Q(157,6) c 12 J [0, 4, 5, 7, 8, 10, 11]  n 553  edges 25912  tri/edge 9..22  ratio 1.0988 
+Q(277,6) c 12 J [0, 1, 3, 11]  n 556  edges 26410  tri/edge 8..27  ratio 1.0619 
+Q(157,6) c 12 J [0, 4, 5, 7, 9, 10, 11]  n 553  edges 25122  tri/edge 6..24  ratio 1.0893 
+Q(157,6) c 12 J [0, 4, 5, 8, 9, 10, 11]  n 553  edges 25517  tri/edge 8..24  ratio 1.0729 
+Q(277,6) c 12 J [0, 1, 4, 7]  n 556  edges 25576  tri/edge 7..25  ratio 1.0822 
+Q(157,6) c 12 J [0, 4, 7, 8, 9, 10, 11]  n 553  edges 25912  tri/edge 8..22  ratio 1.1034 
+Q(277,6) c 12 J [0, 1, 4, 8]  n 556  edges 26688  tri/edge 9..26  ratio 1.0717 
+Q(157,6) c 12 J [0, 5, 7, 8, 9, 10, 11]  n 553  edges 25517  tri/edge 7..24  ratio 1.0940 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 8]  n 553  edges 25122  tri/edge 8..24  ratio 1.1040 
+Q(277,6) c 12 J [0, 1, 4, 10]  n 556  edges 25020  tri/edge 7..26  ratio 1.1049 
+Q(277,6) c 12 J [0, 1, 4, 11]  n 556  edges 25993  tri/edge 7..23  ratio 1.0881 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 9]  n 553  edges 24806  tri/edge 5..22  ratio 1.0885 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 10]  n 553  edges 25991  tri/edge 10..24  ratio 1.0759 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 7, 11]  n 553  edges 25754  tri/edge 10..24  ratio 1.0858 
+Q(277,6) c 12 J [0, 1, 5, 10]  n 556  edges 24047  tri/edge 6..24  ratio 1.1005 
+Q(277,6) c 12 J [0, 1, 5, 11]  n 556  edges 24186  tri/edge 5..23  ratio 1.0924 
+Q(277,6) c 12 J [0, 1, 6, 8]  n 556  edges 26688  tri/edge 9..23  ratio 1.0461 
+Q(277,6) c 12 J [0, 1, 6, 9]  n 556  edges 25576  tri/edge 6..24  ratio 1.0723 
+Q(277,6) c 12 J [0, 1, 6, 10]  n 556  edges 24742  tri/edge 6..23  ratio 1.1053 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 8, 10]  n 553  edges 25596  tri/edge 10..22  ratio 1.0756 
+Q(277,6) c 12 J [0, 1, 6, 11]  n 556  edges 25437  tri/edge 8..21  ratio 1.0885 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 8, 11]  n 553  edges 25043  tri/edge 7..24  ratio 1.0935 
+Q(277,6) c 12 J [0, 1, 7, 8]  n 556  edges 27800  tri/edge 12..22  ratio 1.0239 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 9, 10]  n 553  edges 25833  tri/edge 7..24  ratio 1.0949 
+Q(277,6) c 12 J [0, 1, 7, 9]  n 556  edges 25854  tri/edge 9..23  ratio 1.1023 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 9, 11]  n 553  edges 25912  tri/edge 10..23  ratio 1.0766 
+Q(277,6) c 12 J [0, 1, 7, 10]  n 556  edges 25576  tri/edge 8..22  ratio 1.1077 
+Q(277,6) c 12 J [0, 1, 7, 11]  n 556  edges 26271  tri/edge 9..24  ratio 1.0638 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 10, 11]  n 553  edges 26465  tri/edge 12..22  ratio 1.0633 
+Q(277,6) c 12 J [0, 1, 8, 9]  n 556  edges 25854  tri/edge 9..25  ratio 1.0593 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 9]  n 553  edges 24569  tri/edge 5..22  ratio 1.1018 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 10]  n 553  edges 25359  tri/edge 7..22  ratio 1.1075 
+Q(277,6) c 12 J [0, 1, 8, 10]  n 556  edges 25576  tri/edge 8..27  ratio 1.0776 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 8, 11]  n 553  edges 25675  tri/edge 5..25  ratio 1.0937 
+Q(277,6) c 12 J [0, 1, 8, 11]  n 556  edges 27661  tri/edge 12..23  ratio 1.0371 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 9, 10]  n 553  edges 24727  tri/edge 7..22  ratio 1.1087 
+Q(277,6) c 12 J [0, 1, 9, 10]  n 556  edges 25576  tri/edge 8..25  ratio 1.1055 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 9, 11]  n 553  edges 25675  tri/edge 7..23  ratio 1.0790 
+Q(277,6) c 12 J [0, 1, 9, 11]  n 556  edges 26827  tri/edge 11..25  ratio 1.0573 
+Q(157,6) c 12 J [1, 2, 3, 4, 7, 10, 11]  n 553  edges 25675  tri/edge 9..23  ratio 1.0821 
+Q(277,6) c 12 J [0, 1, 10, 11]  n 556  edges 27244  tri/edge 11..23  ratio 1.0523 
+Q(277,6) c 12 J [0, 2, 3, 4]  n 556  edges 24464  tri/edge 4..29  ratio 1.0927 
+Q(277,6) c 12 J [0, 2, 3, 5]  n 556  edges 25159  tri/edge 6..26  ratio 1.0891 
+Q(157,6) c 12 J [1, 2, 3, 4, 8, 9, 11]  n 553  edges 24964  tri/edge 5..22  ratio 1.0869 
+Q(277,6) c 12 J [0, 2, 3, 6]  n 556  edges 26271  tri/edge 10..26  ratio 1.0802 
+Q(157,6) c 12 J [1, 2, 3, 4, 8, 10, 11]  n 553  edges 25122  tri/edge 7..22  ratio 1.0790 
+Q(277,6) c 12 J [0, 2, 3, 7]  n 556  edges 26271  tri/edge 6..25  ratio 1.0487 
+Q(157,6) c 12 J [1, 2, 3, 4, 9, 10, 11]  n 553  edges 25675  tri/edge 9..22  ratio 1.0736 
+Q(277,6) c 12 J [0, 2, 3, 8]  n 556  edges 25437  tri/edge 6..28  ratio 1.0638 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 8, 9]  n 553  edges 24806  tri/edge 6..22  ratio 1.1063 
+Q(277,6) c 12 J [0, 2, 3, 9]  n 556  edges 26966  tri/edge 9..28  ratio 1.0567 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 8, 10]  n 553  edges 25991  tri/edge 11..24  ratio 1.0786 
+Q(277,6) c 12 J [0, 2, 3, 10]  n 556  edges 25576  tri/edge 8..26  ratio 1.0933 
+Q(277,6) c 12 J [0, 2, 3, 11]  n 556  edges 25159  tri/edge 4..30  ratio 1.1105 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 8, 11]  n 553  edges 25043  tri/edge 9..24  ratio 1.0978 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 9, 10]  n 553  edges 25517  tri/edge 7..23  ratio 1.1098 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 9, 11]  n 553  edges 25201  tri/edge 8..22  ratio 1.0891 
+Q(277,6) c 12 J [0, 2, 4, 6]  n 556  edges 24603  tri/edge 3..27  ratio 1.0974 
+Q(157,6) c 12 J [1, 2, 3, 5, 7, 10, 11]  n 553  edges 25596  tri/edge 9..23  ratio 1.1011 
+Q(277,6) c 12 J [0, 2, 4, 7]  n 556  edges 26410  tri/edge 8..29  ratio 1.0707 
+Q(157,6) c 12 J [1, 2, 3, 5, 8, 9, 10]  n 553  edges 25122  tri/edge 7..23  ratio 1.1093 
+Q(277,6) c 12 J [0, 2, 4, 8]  n 556  edges 25854  tri/edge 9..29  ratio 1.0529 
+Q(157,6) c 12 J [1, 2, 3, 5, 8, 9, 11]  n 553  edges 24490  tri/edge 7..20  ratio 1.1035 
+Q(277,6) c 12 J [0, 2, 4, 9]  n 556  edges 24881  tri/edge 4..33  ratio 1.0764 
+Q(157,6) c 12 J [1, 2, 3, 5, 8, 10, 11]  n 553  edges 25043  tri/edge 8..21  ratio 1.1096 
+Q(277,6) c 12 J [0, 2, 4, 10]  n 556  edges 26271  tri/edge 6..27  ratio 1.0711 
+Q(157,6) c 12 J [1, 2, 3, 5, 9, 10, 11]  n 553  edges 25754  tri/edge 11..21  ratio 1.0942 
+Q(157,6) c 12 J [1, 2, 3, 7, 8, 10, 11]  n 553  edges 24806  tri/edge 6..22  ratio 1.0949 
+Q(277,6) c 12 J [0, 2, 5, 6]  n 556  edges 25576  tri/edge 8..27  ratio 1.0813 
+Q(277,6) c 12 J [0, 2, 5, 7]  n 556  edges 27661  tri/edge 13..25  ratio 1.0352 
+Q(157,6) c 12 J [1, 2, 3, 7, 9, 10, 11]  n 553  edges 24648  tri/edge 8..21  ratio 1.1048 
+Q(277,6) c 12 J [0, 2, 5, 8]  n 556  edges 24603  tri/edge 6..26  ratio 1.0837 
+Q(157,6) c 12 J [1, 2, 3, 8, 9, 10, 11]  n 553  edges 24095  tri/edge 7..22  ratio 1.1011 
+Q(277,6) c 12 J [0, 2, 5, 9]  n 556  edges 26410  tri/edge 7..28  ratio 1.0652 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 8, 10]  n 553  edges 26149  tri/edge 11..22  ratio 1.0869 
+Q(277,6) c 12 J [0, 2, 5, 10]  n 556  edges 26688  tri/edge 10..26  ratio 1.0540 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 8, 11]  n 553  edges 25596  tri/edge 9..22  ratio 1.0920 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 9, 10]  n 553  edges 25675  tri/edge 7..24  ratio 1.0863 
+Q(277,6) c 12 J [0, 2, 6, 8]  n 556  edges 26410  tri/edge 10..22  ratio 1.0632 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 9, 11]  n 553  edges 25754  tri/edge 9..22  ratio 1.0958 
+Q(277,6) c 12 J [0, 2, 6, 9]  n 556  edges 27105  tri/edge 9..26  ratio 1.0272 
+Q(157,6) c 12 J [1, 2, 4, 5, 7, 10, 11]  n 553  edges 26307  tri/edge 12..22  ratio 1.0826 
+Q(157,6) c 12 J [1, 2, 4, 5, 8, 9, 10]  n 553  edges 24964  tri/edge 6..23  ratio 1.0994 
+Q(157,6) c 12 J [1, 2, 4, 5, 8, 9, 11]  n 553  edges 24727  tri/edge 5..22  ratio 1.1028 
+Q(277,6) c 12 J [0, 2, 6, 10]  n 556  edges 26549  tri/edge 9..24  ratio 1.0465 
+Q(277,6) c 12 J [0, 2, 6, 11]  n 556  edges 24742  tri/edge 2..25  ratio 1.1178 
+Q(157,6) c 12 J [1, 2, 4, 5, 8, 10, 11]  n 553  edges 25438  tri/edge 7..22  ratio 1.0681 
+Q(277,6) c 12 J [0, 2, 7, 8]  n 556  edges 27661  tri/edge 11..24  ratio 1.0339 
+Q(277,6) c 12 J [0, 2, 7, 9]  n 556  edges 27522  tri/edge 9..27  ratio 1.0276 
+Q(157,6) c 12 J [1, 2, 4, 5, 9, 10, 11]  n 553  edges 26149  tri/edge 12..22  ratio 1.0733 
+Q(277,6) c 12 J [0, 2, 7, 10]  n 556  edges 27522  tri/edge 11..24  ratio 1.0393 
+Q(157,6) c 12 J [1, 2, 4, 7, 9, 10, 11]  n 553  edges 25991  tri/edge 11..22  ratio 1.0801 
+Q(277,6) c 12 J [0, 2, 7, 11]  n 556  edges 25715  tri/edge 3..25  ratio 1.0707 
+Q(157,6) c 12 J [1, 2, 4, 8, 9, 10, 11]  n 553  edges 25122  tri/edge 7..22  ratio 1.0840 
+Q(277,6) c 12 J [0, 2, 8, 9]  n 556  edges 25854  tri/edge 7..28  ratio 1.0763 
+Q(157,6) c 12 J [1, 2, 5, 7, 9, 10, 11]  n 553  edges 25596  tri/edge 10..22  ratio 1.1079 
+Q(277,6) c 12 J [0, 2, 8, 10]  n 556  edges 25854  tri/edge 8..25  ratio 1.0624 
+Q(277,6) c 12 J [0, 2, 8, 11]  n 556  edges 25437  tri/edge 7..27  ratio 1.0859 
+Q(157,6) c 12 J [1, 3, 4, 5, 7, 9, 10]  n 553  edges 25201  tri/edge 5..24  ratio 1.0891 
+Q(277,6) c 12 J [0, 2, 9, 10]  n 556  edges 27661  tri/edge 11..26  ratio 1.0797 
+Q(277,6) c 12 J [0, 2, 9, 11]  n 556  edges 26410  tri/edge 5..31  ratio 1.0954 
+Q(157,6) c 12 J [1, 3, 4, 5, 7, 9, 11]  n 553  edges 25438  tri/edge 9..23  ratio 1.0877 
+Q(277,6) c 12 J [0, 2, 10, 11]  n 556  edges 27105  tri/edge 7..25  ratio 1.0769 
+Q(157,6) c 12 J [1, 3, 4, 5, 7, 10, 11]  n 553  edges 25991  tri/edge 11..22  ratio 1.0809 
+Q(277,6) c 12 J [0, 3, 4, 5]  n 556  edges 26271  tri/edge 10..22  ratio 1.0825 
+Q(157,6) c 12 J [1, 3, 4, 5, 8, 9, 10]  n 553  edges 24964  tri/edge 9..22  ratio 1.0889 
+Q(277,6) c 12 J [0, 3, 4, 6]  n 556  edges 25854  tri/edge 9..22  ratio 1.0990 
+Q(157,6) c 12 J [1, 3, 4, 5, 8, 9, 11]  n 553  edges 24885  tri/edge 6..23  ratio 1.0890 
+Q(277,6) c 12 J [0, 3, 4, 7]  n 556  edges 25993  tri/edge 6..23  ratio 1.0499 
+Q(157,6) c 12 J [1, 3, 4, 5, 8, 10, 11]  n 553  edges 25596  tri/edge 10..22  ratio 1.0829 
+Q(277,6) c 12 J [0, 3, 4, 8]  n 556  edges 27244  tri/edge 11..24  ratio 1.0303 
+Q(157,6) c 12 J [1, 3, 4, 5, 9, 10, 11]  n 553  edges 25991  tri/edge 9..22  ratio 1.0701 
+Q(277,6) c 12 J [0, 3, 4, 9]  n 556  edges 26549  tri/edge 9..23  ratio 1.0402 
+Q(157,6) c 12 J [1, 3, 4, 8, 9, 10, 11]  n 553  edges 24806  tri/edge 6..24  ratio 1.0808 
+Q(277,6) c 12 J [0, 3, 4, 10]  n 556  edges 25437  tri/edge 7..24  ratio 1.1087 
+Q(157,6) c 12 J [1, 3, 5, 8, 9, 10, 11]  n 553  edges 25043  tri/edge 9..22  ratio 1.0889 
+Q(157,6) c 12 J [1, 4, 5, 8, 9, 10, 11]  n 553  edges 25280  tri/edge 8..22  ratio 1.0812 
+Q(157,6) c 12 J [2, 3, 4, 5, 8, 9, 10]  n 553  edges 25043  tri/edge 9..22  ratio 1.1067 
+Q(277,6) c 12 J [0, 3, 4, 11]  n 556  edges 26688  tri/edge 6..24  ratio 1.0535 
+Q(277,6) c 12 J [0, 3, 5, 6]  n 556  edges 25993  tri/edge 8..22  ratio 1.0982 
+Q(157,6) c 12 J [2, 3, 4, 5, 8, 9, 11]  n 553  edges 24964  tri/edge 7..23  ratio 1.0885 
+Q(277,6) c 12 J [0, 3, 5, 7]  n 556  edges 26410  tri/edge 10..23  ratio 1.0704 
+Q(277,6) c 12 J [0, 3, 5, 8]  n 556  edges 25159  tri/edge 4..27  ratio 1.1004 
+Q(157,6) c 12 J [2, 3, 4, 5, 8, 10, 11]  n 553  edges 25359  tri/edge 9..24  ratio 1.0786 
+Q(157,6) c 12 J [2, 3, 4, 5, 9, 10, 11]  n 553  edges 26228  tri/edge 12..22  ratio 1.0682 
+# done Q(157,6) c 12 size 7: 396 sets, best ratio 1.0578 J [0, 2, 3, 4, 6, 9, 11] (n 553, tri/edge 13..21)  [158s]
+Q(277,6) c 12 J [0, 3, 5, 9]  n 556  edges 27244  tri/edge 12..22  ratio 1.0335 
+Q(277,6) c 12 J [0, 3, 5, 10]  n 556  edges 25020  tri/edge 8..22  ratio 1.0983 
+Q(277,6) c 12 J [0, 3, 5, 11]  n 556  edges 25437  tri/edge 8..24  ratio 1.0984 
+Q(277,6) c 12 J [0, 3, 6, 9]  n 556  edges 28078  tri/edge 16..20  ratio 1.0170 
+Q(277,6) c 12 J [0, 3, 6, 10]  n 556  edges 25020  tri/edge 6..24  ratio 1.0762 
+Q(277,6) c 12 J [0, 3, 6, 11]  n 556  edges 25993  tri/edge 6..25  ratio 1.0738 
+Q(277,6) c 12 J [0, 3, 7, 8]  n 556  edges 26688  tri/edge 10..26  ratio 1.0418 
+Q(277,6) c 12 J [0, 3, 7, 9]  n 556  edges 26827  tri/edge 11..25  ratio 1.0558 
+Q(277,6) c 12 J [0, 3, 7, 10]  n 556  edges 24325  tri/edge 6..24  ratio 1.0919 
+Q(277,6) c 12 J [0, 3, 7, 11]  n 556  edges 25298  tri/edge 6..27  ratio 1.0867 
+Q(277,6) c 12 J [0, 3, 8, 9]  n 556  edges 26966  tri/edge 11..28  ratio 1.0490 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 7]  n 474  edges 19355  tri/edge 9..20  ratio 1.1177 
+Q(277,6) c 12 J [0, 3, 8, 10]  n 556  edges 24464  tri/edge 6..29  ratio 1.0840 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 8]  n 474  edges 19434  tri/edge 9..21  ratio 1.1096 
+Q(277,6) c 12 J [0, 3, 8, 11]  n 556  edges 26827  tri/edge 6..26  ratio 1.0463 
+Q(157,6) c 12 J [0, 1, 2, 3, 6, 9]  n 474  edges 19592  tri/edge 10..19  ratio 1.1174 
+Q(277,6) c 12 J [0, 3, 9, 10]  n 556  edges 26549  tri/edge 11..22  ratio 1.0553 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 8]  n 474  edges 19592  tri/edge 9..20  ratio 1.1146 
+Q(277,6) c 12 J [0, 3, 9, 11]  n 556  edges 28078  tri/edge 12..24  ratio 1.0232 
+Q(277,6) c 12 J [0, 3, 10, 11]  n 556  edges 26271  tri/edge 7..25  ratio 1.0599 
+Q(157,6) c 12 J [0, 1, 2, 3, 7, 11]  n 474  edges 19039  tri/edge 8..19  ratio 1.1191 
+Q(277,6) c 12 J [0, 4, 5, 7]  n 556  edges 27244  tri/edge 9..25  ratio 1.0389 
+Q(157,6) c 12 J [0, 1, 2, 3, 8, 11]  n 474  edges 18802  tri/edge 7..21  ratio 1.1173 
+Q(277,6) c 12 J [0, 4, 5, 8]  n 556  edges 26271  tri/edge 5..24  ratio 1.0750 
+Q(277,6) c 12 J [0, 4, 5, 9]  n 556  edges 25854  tri/edge 8..25  ratio 1.0690 
+Q(157,6) c 12 J [0, 1, 2, 3, 9, 11]  n 474  edges 18881  tri/edge 9..17  ratio 1.1171 
+Q(277,6) c 12 J [0, 4, 5, 10]  n 556  edges 26410  tri/edge 8..24  ratio 1.0741 
+Q(277,6) c 12 J [0, 4, 5, 11]  n 556  edges 25715  tri/edge 6..28  ratio 1.1186 
+Q(277,6) c 12 J [0, 4, 7, 8]  n 556  edges 27939  tri/edge 11..23  ratio 1.0288 
+Q(277,6) c 12 J [0, 4, 7, 9]  n 556  edges 25576  tri/edge 7..25  ratio 1.0565 
+Q(277,6) c 12 J [0, 4, 7, 10]  n 556  edges 25854  tri/edge 7..24  ratio 1.0711 
+Q(277,6) c 12 J [0, 4, 7, 11]  n 556  edges 25715  tri/edge 5..23  ratio 1.0544 
+Q(277,6) c 12 J [0, 4, 8, 9]  n 556  edges 25993  tri/edge 8..25  ratio 1.0601 
+Q(277,6) c 12 J [0, 4, 8, 10]  n 556  edges 26271  tri/edge 7..24  ratio 1.0458 
+Q(277,6) c 12 J [0, 4, 8, 11]  n 556  edges 27522  tri/edge 11..22  ratio 1.0651 
+Q(277,6) c 12 J [0, 4, 9, 10]  n 556  edges 25854  tri/edge 7..25  ratio 1.0927 
+Q(277,6) c 12 J [0, 4, 9, 11]  n 556  edges 26271  tri/edge 8..26  ratio 1.0836 
+Q(277,6) c 12 J [0, 4, 10, 11]  n 556  edges 27244  tri/edge 10..24  ratio 1.0370 
+Q(277,6) c 12 J [0, 5, 7, 8]  n 556  edges 26410  tri/edge 6..24  ratio 1.0705 
+Q(157,6) c 12 J [0, 1, 2, 4, 9, 11]  n 474  edges 19039  tri/edge 7..19  ratio 1.1173 
+Q(277,6) c 12 J [0, 5, 7, 9]  n 556  edges 26827  tri/edge 10..25  ratio 1.0594 
+Q(277,6) c 12 J [0, 5, 7, 10]  n 556  edges 25993  tri/edge 8..21  ratio 1.0970 
+Q(277,6) c 12 J [0, 5, 7, 11]  n 556  edges 25020  tri/edge 7..23  ratio 1.0874 
+Q(277,6) c 12 J [0, 5, 9, 10]  n 556  edges 26271  tri/edge 8..23  ratio 1.0862 
+Q(277,6) c 12 J [0, 5, 9, 11]  n 556  edges 25854  tri/edge 8..24  ratio 1.0855 
+Q(277,6) c 12 J [0, 5, 10, 11]  n 556  edges 25715  tri/edge 7..26  ratio 1.0617 
+Q(277,6) c 12 J [0, 7, 8, 9]  n 556  edges 26271  tri/edge 9..28  ratio 1.0517 
+Q(277,6) c 12 J [0, 7, 8, 10]  n 556  edges 25159  tri/edge 5..23  ratio 1.0867 
+Q(277,6) c 12 J [0, 7, 8, 11]  n 556  edges 26132  tri/edge 9..27  ratio 1.0525 
+Q(277,6) c 12 J [0, 7, 9, 10]  n 556  edges 25576  tri/edge 8..27  ratio 1.1163 
+Q(277,6) c 12 J [0, 7, 9, 11]  n 556  edges 25715  tri/edge 8..27  ratio 1.0563 
+Q(277,6) c 12 J [0, 7, 10, 11]  n 556  edges 25298  tri/edge 6..25  ratio 1.0908 
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 9]  n 474  edges 19355  tri/edge 10..19  ratio 1.1185 
+Q(277,6) c 12 J [0, 8, 9, 11]  n 556  edges 26410  tri/edge 8..27  ratio 1.0774 
+Q(277,6) c 12 J [0, 8, 10, 11]  n 556  edges 25993  tri/edge 8..25  ratio 1.0536 
+Q(157,6) c 12 J [0, 1, 2, 6, 7, 11]  n 474  edges 19039  tri/edge 9..19  ratio 1.1186 
+Q(277,6) c 12 J [0, 9, 10, 11]  n 556  edges 27522  tri/edge 14..22  ratio 1.0446 
+Q(277,6) c 12 J [1, 2, 3, 5]  n 556  edges 23769  tri/edge 5..23  ratio 1.1141 
+Q(277,6) c 12 J [1, 2, 3, 7]  n 556  edges 25437  tri/edge 2..26  ratio 1.0716 
+Q(277,6) c 12 J [1, 2, 3, 8]  n 556  edges 24742  tri/edge 4..27  ratio 1.0919 
+Q(277,6) c 12 J [1, 2, 3, 10]  n 556  edges 25020  tri/edge 4..25  ratio 1.0814 
+Q(277,6) c 12 J [1, 2, 3, 11]  n 556  edges 24881  tri/edge 6..28  ratio 1.0885 
+Q(277,6) c 12 J [1, 2, 4, 5]  n 556  edges 24325  tri/edge 6..25  ratio 1.1060 
+Q(277,6) c 12 J [1, 2, 4, 7]  n 556  edges 26132  tri/edge 8..27  ratio 1.0630 
+Q(277,6) c 12 J [1, 2, 4, 8]  n 556  edges 25715  tri/edge 7..26  ratio 1.0666 
+Q(277,6) c 12 J [1, 2, 4, 9]  n 556  edges 23074  tri/edge 4..21  ratio 1.1137 
+Q(277,6) c 12 J [1, 2, 4, 10]  n 556  edges 26271  tri/edge 8..26  ratio 1.0589 
+Q(277,6) c 12 J [1, 2, 4, 11]  n 556  edges 25020  tri/edge 6..24  ratio 1.1037 
+Q(277,6) c 12 J [1, 2, 5, 7]  n 556  edges 27383  tri/edge 11..26  ratio 1.0450 
+Q(277,6) c 12 J [1, 2, 5, 8]  n 556  edges 24464  tri/edge 6..24  ratio 1.0718 
+Q(277,6) c 12 J [1, 2, 5, 9]  n 556  edges 24603  tri/edge 6..25  ratio 1.0972 
+Q(277,6) c 12 J [1, 2, 5, 10]  n 556  edges 26688  tri/edge 10..26  ratio 1.0468 
+Q(277,6) c 12 J [1, 2, 5, 11]  n 556  edges 24603  tri/edge 4..27  ratio 1.1144 
+Q(277,6) c 12 J [1, 2, 7, 8]  n 556  edges 28078  tri/edge 12..24  ratio 1.0600 
+Q(277,6) c 12 J [1, 2, 7, 9]  n 556  edges 26271  tri/edge 6..25  ratio 1.0754 
+Q(277,6) c 12 J [1, 2, 7, 10]  n 556  edges 28078  tri/edge 13..26  ratio 1.0332 
+Q(277,6) c 12 J [1, 2, 7, 11]  n 556  edges 26549  tri/edge 6..27  ratio 1.0630 
+Q(277,6) c 12 J [1, 2, 8, 9]  n 556  edges 24742  tri/edge 6..24  ratio 1.0709 
+Q(277,6) c 12 J [1, 2, 8, 10]  n 556  edges 26549  tri/edge 8..26  ratio 1.0583 
+Q(277,6) c 12 J [1, 2, 8, 11]  n 556  edges 26410  tri/edge 9..27  ratio 1.0611 
+Q(277,6) c 12 J [1, 2, 9, 10]  n 556  edges 26688  tri/edge 10..26  ratio 1.0708 
+Q(277,6) c 12 J [1, 2, 9, 11]  n 556  edges 25715  tri/edge 8..26  ratio 1.0722 
+Q(277,6) c 12 J [1, 2, 10, 11]  n 556  edges 28217  tri/edge 11..25  ratio 1.0461 
+Q(277,6) c 12 J [1, 3, 4, 5]  n 556  edges 24603  tri/edge 8..22  ratio 1.1105 
+Q(157,6) c 12 J [0, 1, 3, 5, 7, 8]  n 474  edges 19671  tri/edge 7..19  ratio 1.1168 
+Q(277,6) c 12 J [1, 3, 4, 8]  n 556  edges 26271  tri/edge 8..27  ratio 1.0756 
+Q(277,6) c 12 J [1, 3, 4, 10]  n 556  edges 24603  tri/edge 4..26  ratio 1.0905 
+Q(157,6) c 12 J [0, 1, 3, 5, 8, 10]  n 474  edges 19513  tri/edge 10..19  ratio 1.1162 
+Q(277,6) c 12 J [1, 3, 4, 11]  n 556  edges 26132  tri/edge 6..26  ratio 1.0840 
+Q(277,6) c 12 J [1, 3, 5, 7]  n 556  edges 25298  tri/edge 6..27  ratio 1.0892 
+Q(277,6) c 12 J [1, 3, 5, 10]  n 556  edges 24186  tri/edge 6..22  ratio 1.0803 
+Q(277,6) c 12 J [1, 3, 5, 11]  n 556  edges 24881  tri/edge 6..25  ratio 1.0741 
+Q(277,6) c 12 J [1, 3, 7, 11]  n 556  edges 25298  tri/edge 7..27  ratio 1.0798 
+Q(157,6) c 12 J [0, 1, 3, 6, 8, 11]  n 474  edges 18407  tri/edge 6..19  ratio 1.1196 
+Q(277,6) c 12 J [1, 3, 8, 10]  n 556  edges 24325  tri/edge 5..27  ratio 1.0892 
+Q(277,6) c 12 J [1, 3, 8, 11]  n 556  edges 26966  tri/edge 8..27  ratio 1.0517 
+Q(277,6) c 12 J [1, 3, 9, 10]  n 556  edges 24742  tri/edge 6..23  ratio 1.1122 
+Q(277,6) c 12 J [1, 3, 9, 11]  n 556  edges 26549  tri/edge 11..25  ratio 1.0782 
+Q(277,6) c 12 J [1, 3, 10, 11]  n 556  edges 26549  tri/edge 8..29  ratio 1.0487 
+Q(277,6) c 12 J [1, 4, 5, 7]  n 556  edges 26688  tri/edge 9..28  ratio 1.0800 
+Q(277,6) c 12 J [1, 4, 5, 8]  n 556  edges 25854  tri/edge 7..24  ratio 1.0906 
+Q(277,6) c 12 J [1, 4, 5, 10]  n 556  edges 26132  tri/edge 8..23  ratio 1.0522 
+Q(277,6) c 12 J [1, 4, 5, 11]  n 556  edges 25715  tri/edge 10..26  ratio 1.0843 
+Q(277,6) c 12 J [1, 4, 7, 10]  n 556  edges 26132  tri/edge 8..25  ratio 1.1109 
+Q(277,6) c 12 J [1, 4, 7, 11]  n 556  edges 26271  tri/edge 8..24  ratio 1.0900 
+Q(277,6) c 12 J [1, 4, 8, 9]  n 556  edges 24603  tri/edge 6..25  ratio 1.1181 
+Q(277,6) c 12 J [1, 4, 8, 10]  n 556  edges 26688  tri/edge 8..27  ratio 1.0380 
+Q(277,6) c 12 J [1, 4, 8, 11]  n 556  edges 28217  tri/edge 15..22  ratio 1.0533 
+Q(277,6) c 12 J [1, 4, 9, 10]  n 556  edges 24603  tri/edge 6..25  ratio 1.1038 
+Q(277,6) c 12 J [1, 4, 10, 11]  n 556  edges 28078  tri/edge 10..23  ratio 1.0254 
+Q(277,6) c 12 J [1, 5, 7, 11]  n 556  edges 25576  tri/edge 6..25  ratio 1.0932 
+Q(277,6) c 12 J [1, 5, 8, 10]  n 556  edges 24325  tri/edge 5..29  ratio 1.0864 
+Q(277,6) c 12 J [1, 5, 8, 11]  n 556  edges 25020  tri/edge 5..27  ratio 1.0992 
+Q(277,6) c 12 J [1, 5, 9, 10]  n 556  edges 25020  tri/edge 7..23  ratio 1.0940 
+Q(277,6) c 12 J [1, 5, 9, 11]  n 556  edges 24881  tri/edge 7..25  ratio 1.0887 
+Q(277,6) c 12 J [1, 5, 10, 11]  n 556  edges 26549  tri/edge 8..28  ratio 1.0676 
+Q(277,6) c 12 J [1, 8, 9, 10]  n 556  edges 24325  tri/edge 2..27  ratio 1.0914 
+Q(277,6) c 12 J [1, 8, 9, 11]  n 556  edges 26132  tri/edge 8..25  ratio 1.0533 
+Q(277,6) c 12 J [1, 8, 10, 11]  n 556  edges 27522  tri/edge 10..27  ratio 1.0492 
+Q(277,6) c 12 J [1, 9, 10, 11]  n 556  edges 27383  tri/edge 10..23  ratio 1.0592 
+Q(277,6) c 12 J [2, 3, 4, 5]  n 556  edges 24742  tri/edge 6..25  ratio 1.1175 
+Q(277,6) c 12 J [2, 3, 4, 8]  n 556  edges 24047  tri/edge 7..23  ratio 1.0919 
+Q(277,6) c 12 J [2, 3, 4, 9]  n 556  edges 23491  tri/edge 5..21  ratio 1.1055 
+Q(277,6) c 12 J [2, 3, 4, 10]  n 556  edges 24464  tri/edge 4..25  ratio 1.1102 
+Q(277,6) c 12 J [2, 3, 4, 11]  n 556  edges 23491  tri/edge 6..22  ratio 1.1078 
+Q(277,6) c 12 J [2, 3, 5, 8]  n 556  edges 23352  tri/edge 2..19  ratio 1.1144 
+Q(277,6) c 12 J [2, 3, 5, 9]  n 556  edges 25576  tri/edge 8..24  ratio 1.0773 
+Q(277,6) c 12 J [2, 3, 5, 10]  n 556  edges 25437  tri/edge 4..22  ratio 1.0955 
+Q(277,6) c 12 J [2, 3, 5, 11]  n 556  edges 23630  tri/edge 4..22  ratio 1.0996 
+Q(277,6) c 12 J [2, 3, 8, 11]  n 556  edges 23352  tri/edge 4..20  ratio 1.1174 
+Q(277,6) c 12 J [2, 3, 9, 10]  n 556  edges 25437  tri/edge 5..25  ratio 1.0933 
+Q(277,6) c 12 J [2, 3, 9, 11]  n 556  edges 24742  tri/edge 7..21  ratio 1.0828 
+Q(277,6) c 12 J [2, 3, 10, 11]  n 556  edges 25020  tri/edge 5..25  ratio 1.0882 
+Q(277,6) c 12 J [2, 4, 5, 8]  n 556  edges 25020  tri/edge 6..23  ratio 1.1128 
+Q(277,6) c 12 J [2, 4, 5, 9]  n 556  edges 24742  tri/edge 4..25  ratio 1.0764 
+Q(277,6) c 12 J [2, 4, 5, 10]  n 556  edges 27383  tri/edge 12..24  ratio 1.0395 
+Q(277,6) c 12 J [2, 4, 8, 11]  n 556  edges 24603  tri/edge 4..24  ratio 1.1024 
+Q(277,6) c 12 J [2, 4, 9, 10]  n 556  edges 25298  tri/edge 8..26  ratio 1.0766 
+Q(277,6) c 12 J [2, 4, 10, 11]  n 556  edges 26549  tri/edge 9..26  ratio 1.0880 
+Q(277,6) c 12 J [2, 5, 9, 10]  n 556  edges 27105  tri/edge 12..23  ratio 1.0556 
+Q(277,6) c 12 J [2, 5, 9, 11]  n 556  edges 24464  tri/edge 2..22  ratio 1.1004 
+Q(277,6) c 12 J [2, 5, 10, 11]  n 556  edges 26410  tri/edge 8..28  ratio 1.0746 
+Q(277,6) c 12 J [2, 9, 10, 11]  n 556  edges 26688  tri/edge 10..25  ratio 1.0773 
+Q(277,6) c 12 J [3, 4, 5, 9]  n 556  edges 26688  tri/edge 11..23  ratio 1.0508 
+Q(277,6) c 12 J [3, 4, 5, 10]  n 556  edges 26827  tri/edge 10..24  ratio 1.0299 
+Q(277,6) c 12 J [3, 4, 5, 11]  n 556  edges 26688  tri/edge 10..24  ratio 1.0513 
+Q(277,6) c 12 J [3, 4, 9, 11]  n 556  edges 26271  tri/edge 11..22  ratio 1.0491 
+Q(277,6) c 12 J [3, 4, 10, 11]  n 556  edges 26827  tri/edge 10..24  ratio 1.0433 
+Q(277,6) c 12 J [3, 5, 9, 11]  n 556  edges 26410  tri/edge 10..22  ratio 1.0933 
+Q(157,6) c 12 J [0, 2, 3, 4, 9, 11]  n 474  edges 19513  tri/edge 9..18  ratio 1.1163 
+Q(277,6) c 12 J [3, 5, 10, 11]  n 556  edges 25854  tri/edge 7..28  ratio 1.0820 
+Q(277,6) c 12 J [4, 5, 10, 11]  n 556  edges 28078  tri/edge 12..24  ratio 1.0295 
+# done Q(277,6) c 12 size 4: 255 sets, best ratio 1.0170 J [0, 3, 6, 9] (n 556, tri/edge 16..20)  [84s]
+Q(157,6) c 12 J [0, 2, 3, 5, 6, 9]  n 474  edges 19592  tri/edge 10..21  ratio 1.1069 
+Q(157,6) c 12 J [0, 2, 3, 5, 8, 10]  n 474  edges 19276  tri/edge 7..23  ratio 1.1145 
+Q(157,6) c 12 J [0, 2, 3, 6, 9, 11]  n 474  edges 19592  tri/edge 10..18  ratio 1.1007 
+Q(157,6) c 12 J [0, 2, 4, 6, 9, 11]  n 474  edges 19592  tri/edge 9..19  ratio 1.1135 
+Q(157,6) c 12 J [0, 3, 4, 5, 9, 10]  n 474  edges 19118  tri/edge 4..22  ratio 1.1182 
+Q(157,6) c 12 J [0, 3, 4, 9, 10, 11]  n 474  edges 19118  tri/edge 9..20  ratio 1.1169 
+Q(157,6) c 12 J [0, 3, 5, 8, 9, 10]  n 474  edges 19513  tri/edge 5..21  ratio 1.1073 
+Q(157,6) c 12 J [0, 4, 5, 7, 8, 10]  n 474  edges 19197  tri/edge 8..21  ratio 1.1145 
+Q(157,6) c 12 J [1, 2, 3, 4, 5, 10]  n 474  edges 19750  tri/edge 9..22  ratio 1.1160 
+Q(157,6) c 12 J [1, 2, 3, 4, 9, 11]  n 474  edges 19276  tri/edge 5..20  ratio 1.1177 
+Q(157,6) c 12 J [1, 2, 3, 4, 10, 11]  n 474  edges 19276  tri/edge 7..20  ratio 1.1193 
+Q(157,6) c 12 J [1, 2, 4, 5, 10, 11]  n 474  edges 19592  tri/edge 9..20  ratio 1.1166 
+Q(157,6) c 12 J [1, 2, 4, 7, 9, 11]  n 474  edges 19592  tri/edge 10..20  ratio 1.1192 
+Q(157,6) c 12 J [1, 2, 4, 7, 10, 11]  n 474  edges 19592  tri/edge 9..20  ratio 1.1154 
+Q(157,6) c 12 J [1, 2, 4, 8, 10, 11]  n 474  edges 18723  tri/edge 6..20  ratio 1.1192 
+Q(157,6) c 12 J [1, 3, 4, 5, 7, 10]  n 474  edges 19118  tri/edge 8..22  ratio 1.1134 
+Q(157,6) c 12 J [1, 3, 4, 5, 8, 10]  n 474  edges 18881  tri/edge 9..20  ratio 1.1154 
+Q(157,6) c 12 J [1, 3, 4, 5, 9, 11]  n 474  edges 18881  tri/edge 7..22  ratio 1.1168 
+Q(157,6) c 12 J [1, 3, 4, 5, 10, 11]  n 474  edges 19434  tri/edge 9..20  ratio 1.1182 
+Q(157,6) c 12 J [1, 3, 4, 9, 10, 11]  n 474  edges 18644  tri/edge 4..22  ratio 1.1156 
+Q(157,6) c 12 J [1, 4, 5, 8, 10, 11]  n 474  edges 18723  tri/edge 6..20  ratio 1.1153 
+Q(157,6) c 12 J [2, 3, 4, 5, 9, 10]  n 474  edges 19039  tri/edge 6..22  ratio 1.1173 
+Q(157,6) c 12 J [2, 3, 4, 5, 10, 11]  n 474  edges 19355  tri/edge 8..22  ratio 1.1191 
+Q(157,6) c 12 J [2, 3, 4, 9, 10, 11]  n 474  edges 19039  tri/edge 9..20  ratio 1.1198 
+Q(157,6) c 12 J [2, 4, 5, 9, 10, 11]  n 474  edges 19355  tri/edge 10..20  ratio 1.1166 
+Q(157,6) c 12 J [3, 4, 5, 9, 10, 11]  n 474  edges 19908  tri/edge 10..20  ratio 1.1023 
+# done Q(157,6) c 12 size 6: 472 sets, best ratio 1.1007 J [0, 2, 3, 6, 9, 11] (n 474, tri/edge 10..18)  [118s]

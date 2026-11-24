@@ -1,0 +1,26 @@
+verify_q2.py: certificate n1_q101_5_uniform.txt
+sha256 31305035665d69b9760a63cb901deb0faf43b5e785b549da9faf87c51e270a94
+0. self-test of the positive-definiteness check (K_6 accepted, K_5 not accepted): ok
+1. graph Q: p = 101, GF(p^2) = GF(p)[t]/(t^2 - 2), theta = 2 + 1 t, e0 = 5, |V0| = 20, classes [0], |S| = 20;
+   n = 510 vertices; the adjacency matrix is symmetric; the vectors theta^i are pairwise inequivalent modulo V0 and represent all nonzero vectors.
+   base graph G' = Q minus 0 vertices: 510 vertices, 25755 edges, 171700 triangles, degrees 101, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 510 vertices (an induced subgraph, so no K4 either).
+2. symmetry: pi: i -> i + 30 (mod 510) is an automorphism of Q that maps G' to itself; its order is q = 17.
+   certificate: 10100 triangle orbits (171700 triangles) with rational weights (0 orbits have a negative weight) (uniform: all triangles of G', weight 1), 1515 edge orbits (25755 edges) with D > 0,
+   all orbits under pi have full length q; every listed triple is a triangle of G';
+   common denominator of the numbers in the file: 1.
+3. budget on G'': sum of D_e over its 25755 indexed edges = 515100/1;  3 * weight of its 171700 listed triangles = 515100/1;
+   ratio = 1.000000000000  (must be <= 1; exact integer comparison): ok
+4. matrix A = 3M + 2D: size 25755, commutes with the permutation of order 17; 17 orbit blocks of size 1515,
+   62115 nonzero integer coefficients A_j[a,b].
+5. positive definiteness of A, block by block (r = 0..8; the blocks r and q-r are complex conjugates):
+   block   0: size 1515, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [0.2s]
+   block   1: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.3s]
+   block   2: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.2s]
+   block   3: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.2s]
+   block   4: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.0s]
+   block   5: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [0.9s]
+   block   6: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [0.9s]
+   block   7: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.0s]
+   block   8: size 3030, float lambda_min -1.287448e-02, proved lower bound None / 2^60  NO PROOF  [1.0s]
+NO PROOF: some block could not be certified.

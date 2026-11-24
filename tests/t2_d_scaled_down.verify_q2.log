@@ -1,0 +1,52 @@
+verify_q2.py: certificate t2_d_scaled_down.txt
+sha256 945c852a9a0eb9c687af0be7ddb43710f469b742f77de974ac5ea219377f4916
+0. self-test of the positive-definiteness check (K_6 accepted, K_5 not accepted): ok
+1. graph Q: p = 277, GF(p^2) = GF(p)[t]/(t^2 - 2), theta = 1 + 3 t, e0 = 6, |V0| = 46, classes [0], |S| = 46;
+   n = 1668 vertices; the adjacency matrix is symmetric; the vectors theta^i are pairwise inequivalent modulo V0 and represent all nonzero vectors.
+   base graph G' = Q minus 1185 vertices: 483 vertices, 21666 edges, 118933 triangles, degrees 85..94, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 483 vertices (an induced subgraph, so no K4 either).
+2. symmetry: pi: the map induced by (x0, x1) -> (144 x0 + 0 x1, 0 x0 + 252 x1) is an automorphism of Q that maps G' to itself; its order is q = 69.
+   certificate: 1723 triangle orbits (118887 triangles) with rational weights (2 orbits have a negative weight), 314 edge orbits (21666 edges) with D > 0,
+   all orbits under pi have full length q; every listed triple is a triangle of G';
+   common denominator of the numbers in the file: 1000000000000.
+3. budget on G'': sum of D_e over its 21666 indexed edges = 120649008717149985/1000000000000;  3 * weight of its 118887 listed triangles = 121012165863881919/1000000000000;
+   ratio = 0.996999003000  (must be <= 1; exact integer comparison): ok
+4. matrix A = 3M + 2D: size 21666, commutes with the permutation of order 69; 69 orbit blocks of size 314,
+   10652 nonzero integer coefficients A_j[a,b].
+5. positive definiteness of A, block by block (r = 0..34; the blocks r and q-r are complex conjugates):
+   block   0: size  314, float lambda_min -1.252727e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   1: size  628, float lambda_min -1.217994e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   2: size  628, float lambda_min -1.104113e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   3: size  628, float lambda_min -1.231844e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   4: size  628, float lambda_min -1.217559e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   5: size  628, float lambda_min -1.241678e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   6: size  628, float lambda_min -1.227015e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   7: size  628, float lambda_min -1.229888e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   8: size  628, float lambda_min -1.204321e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block   9: size  628, float lambda_min -1.253977e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  10: size  628, float lambda_min -1.232962e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  11: size  628, float lambda_min -1.181751e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  12: size  628, float lambda_min -1.220678e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  13: size  628, float lambda_min -1.231836e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  14: size  628, float lambda_min -1.229461e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  15: size  628, float lambda_min -1.235717e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  16: size  628, float lambda_min -1.225063e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  17: size  628, float lambda_min -1.224372e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  18: size  628, float lambda_min -1.233299e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  19: size  628, float lambda_min -1.241404e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  20: size  628, float lambda_min -1.231205e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  21: size  628, float lambda_min -1.218787e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  22: size  628, float lambda_min -1.227858e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  23: size  628, float lambda_min -1.228778e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  24: size  628, float lambda_min -1.235545e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  25: size  628, float lambda_min -1.219318e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  26: size  628, float lambda_min -1.230086e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  27: size  628, float lambda_min -1.233865e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  28: size  628, float lambda_min -1.194752e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  29: size  628, float lambda_min -1.212541e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  30: size  628, float lambda_min -1.210890e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  31: size  628, float lambda_min -1.236665e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  32: size  628, float lambda_min -1.219089e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  33: size  628, float lambda_min -1.251956e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+   block  34: size  628, float lambda_min -1.219825e-03, proved lower bound None / 2^60  NO PROOF  [0.0s]
+NO PROOF: some block could not be certified.

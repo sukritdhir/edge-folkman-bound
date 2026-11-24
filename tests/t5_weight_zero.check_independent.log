@@ -1,0 +1,13 @@
+[    3.5 s] 1. Q(277, 6): H = the 6-th powers mod 277, |H| = 46, -1 in H, H sum-free: True.
+[    3.5 s]    1668 classes of nonzero vectors modulo H; i -> class of theta^i (theta = 1 + 3 t, t^2 = 2) is a bijection;
+[    3.5 s]    Q is regular of degree 277, with 231018 edges; every edge lies in exactly 46 triangles.
+[    3.7 s] 2. base graph G': 483 vertices, 21666 edges, 118933 triangles, degrees [85, 87, 91, 92, 94], triangles on an edge: 11 to 22; no K4 (exhaustive).
+[    3.7 s]    target graph G'' = G' minus 0 vertices: 483 vertices, 21666 edges, 118933 triangles (induced subgraph: no K4).
+[    3.9 s] 3. certificate: pi = the map of the classes induced by (x1, x2) -> (144 x1 + 0 x2, 0 x1 + 252 x2), a permutation of order 69;
+[    3.9 s]    the vertices of G' fall into the following cycles of pi: 7 of length 69;
+[    3.9 s]    69 images of every line; 118887 triangles with a weight (-0.0408133 to 0.712629, 138 of them negative, 69 zero),
+[    3.9 s]    21666 edges with a number D (3.38257 to 8); all images are triangles or edges of G'; none occurs twice.
+[    4.1 s] 4. (ii) exact: sum of D over the 21666 indexed edges of G'' = 6050602242585783/50000000000  >  3 * sum of w over the triangles of G'' = 15119027855212887/125000000000
+[    4.1 s]    (118887 of the 118933 triangles of G'' have a weight in the certificate; the others count with the weight 0)
+[    4.1 s]    as decimals: 121012.044851716 > 120952.222841703, ratio 1.000494592.
+CHECK FAILED: the inequality (ii) fails

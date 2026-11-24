@@ -1,0 +1,213 @@
+# done F4xF233 n 932  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.2833 d 232 tri/edge 36..36 |M| 174 orbits 9 reps [3, 236]  [0s]
+# done F49xF19 n 931  subgroups 50  with 2..26 orbits 23  searched 23  truncated 0  best ratio 1.1095 d 144 tri/edge 21..21 |M| 144 orbits 9 reps [23]  [47s]
+# done F32xF29 n 928  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.4950 d 384 tri/edge 96..160 |M| 124 orbits 15 reps [2, 4, 8, 31, 33, 37]  [1s]
+# done F9xF103 n 927  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.5000 d 312 tri/edge 3..105 |M| 102 orbits 13 reps [103, 106, 309, 412, 516, 518]  [10s]
+# done F25xF37 n 925  subgroups 110  with 2..26 orbits 50  searched 50  truncated 1  best ratio 1.2071 d 144 tri/edge 12..12 |M| 72 orbits 15 reps [39, 186]  [52s]
+# done F4xF229 n 916  subgroups 24  with 2..26 orbits 11  searched 11  truncated 0  best ratio 9.0000 d 456 tri/edge 0..0 |M| 228 orbits 7 reps [230, 459]  [0s]
+# done F9xF101 n 909  subgroups 33  with 2..26 orbits 15  searched 15  truncated 1  best ratio 1.4618 d 180 tri/edge 5..52 |M| 80 orbits 21 reps [5, 8, 104, 106]  [13s]
+# done F4xF227 n 908  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 452 tri/edge 0..0 |M| 226 orbits 7 reps [228, 455]  [0s]
+# done F8xF113 n 904  subgroups 40  with 2..26 orbits 19  searched 19  truncated 0  best ratio 1.1049 d 168 tri/edge 14..18 |M| 56 orbits 17 reps [114, 123, 127]  [2s]
+# done F128xF7 n 896  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 512 tri/edge 128..256 |M| 254 orbits 7 reps [1, 3, 8, 10]  [0s]
+# done F4xF223 n 892  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 9.0000 d 444 tri/edge 0..0 |M| 222 orbits 7 reps [224, 447]  [0s]
+# done F81xF11 n 891  subgroups 40  with 2..26 orbits 21  searched 21  truncated 0  best ratio 1.1718 d 120 tri/edge 9..14 |M| 40 orbits 25 reps [104, 188, 189]  [18s]
+# done F125xF7 n 875  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.5000 d 500 tri/edge 125..250 |M| 248 orbits 7 reps [2, 3, 9, 10]  [4s]
+# done F9xF97 n 873  subgroups 72  with 2..26 orbits 35  searched 35  truncated 1  best ratio 1.2000 d 120 tri/edge 10..18 |M| 48 orbits 21 reps [5, 107, 112]  [29s]
+# done F8xF109 n 872  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.5000 d 180 tri/edge 14..23 |M| 84 orbits 19 reps [9, 114, 120]  [1s]
+# done F3xF289 n 867  subgroups 18  with 2..26 orbits 8  searched 8  truncated 0  best ratio 1.2209 d 144 tri/edge 15..17 |M| 48 orbits 25 reps [3, 26, 312, 316]  [7s]
+# done F32xF27 n 864  subgroups 4  with 2..26 orbits 1  searched 1  truncated 0  best none  [0s]
+# done F32xZ27 n 864  subgroups 6  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 204 tri/edge 9..90 |M| 558 orbits 7 reps [1, 30]  [1s]
+# done Z32xF27 n 864  subgroups 22  with 2..26 orbits 7  searched 7  truncated 2  best ratio 1.5000 d 216 tri/edge 28..54 |M| 104 orbits 21 reps [54, 56, 83, 164, 216, 324]  [35s]
+# done F8xF107 n 856  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 424 tri/edge 0..0 |M| 106 orbits 15 reps [108, 215, 429, 750]  [0s]
+# done F16xF53 n 848  subgroups 16  with 2..26 orbits 6  searched 6  truncated 0  best ratio 9.0000 d 260 tri/edge 0..0 |M| 260 orbits 7 reps [54]  [0s]
+# done F7xF121 n 847  subgroups 48  with 2..26 orbits 22  searched 22  truncated 0  best ratio 1.2033 d 120 tri/edge 14..14 |M| 60 orbits 17 reps [132, 134]  [15s]
+# done F5xF169 n 845  subgroups 44  with 2..26 orbits 21  searched 21  truncated 0  best ratio 1.1199 d 114 tri/edge 12..28 |M| 56 orbits 20 reps [192, 338, 339]  [7s]
+# done F4xF211 n 844  subgroups 24  with 2..26 orbits 11  searched 11  truncated 0  best ratio 1.4523 d 120 tri/edge 12..14 |M| 90 orbits 15 reps [4, 219]  [1s]
+# done F29xF29 n 841  subgroups 80  with 2..26 orbits 38  searched 38  truncated 0  best ratio 1.2333 d 112 tri/edge 10..14 |M| 56 orbits 17 reps [35, 40]  [13s]
+# done F27xF31 n 837  subgroups 16  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.4457 d 140 tri/edge 22..29 |M| 130 orbits 10 reps [3, 32]  [1s]
+# done F49xF17 n 833  subgroups 104  with 2..26 orbits 52  searched 52  truncated 1  best ratio 1.1143 d 144 tri/edge 23..23 |M| 48 orbits 26 reps [18, 139, 173]  [61s]
+# done F64xF13 n 832  subgroups 40  with 2..26 orbits 18  searched 18  truncated 0  best ratio 1.5000 d 384 tri/edge 128..128 |M| 378 orbits 5 reps [2, 15]  [6s]
+# done F8xF103 n 824  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 9.0000 d 408 tri/edge 0..0 |M| 102 orbits 15 reps [104, 207, 413, 722]  [0s]
+# done F8xF101 n 808  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.4569 d 160 tri/edge 5..46 |M| 70 orbits 21 reps [9, 26, 109, 110]  [3s]
+# done F9xF89 n 801  subgroups 44  with 2..26 orbits 22  searched 22  truncated 1  best ratio 1.0820 d 136 tri/edge 15..23 |M| 44 orbits 20 reps [90, 267, 270, 300]  [19s]
+# done F32xF25 n 800  subgroups 12  with 2..26 orbits 6  searched 6  truncated 1  best ratio 1.5000 d 258 tri/edge 4..64 |M| 62 orbits 25 reps [1, 5, 6, 13, 14, 26, 33, 35, 37]  [22s]
+# done F32xZ25 n 800  subgroups 8  with 2..26 orbits 4  searched 4  truncated 1  best ratio 1.4961 d 256 tri/edge 4..95 |M| 62 orbits 25 reps [1, 2, 9, 10, 26, 30, 32, 36]  [23s]
+# done Z32xF25 n 800  subgroups 74  with 2..26 orbits 17  searched 17  truncated 4  best ratio 1.5000 d 208 tri/edge 8..54 |M| 96 orbits 25 reps [25, 26, 50, 51, 125, 151, 200, 300, 350]  [47s]
+# done F4xF199 n 796  subgroups 20  with 2..26 orbits 10  searched 10  truncated 0  best ratio 1.2184 d 216 tri/edge 44..52 |M| 54 orbits 23 reps [9, 18, 35, 208, 217, 234]  [1s]
+# done F4xF197 n 788  subgroups 12  with 2..26 orbits 5  searched 5  truncated 0  best ratio 1.3460 d 112 tri/edge 24..24 |M| 84 orbits 15 reps [13, 210]  [0s]
+# done F16xF49 n 784  subgroups 48  with 2..26 orbits 22  searched 22  truncated 0  best ratio 1.4599 d 256 tri/edge 48..96 |M| 60 orbits 25 reps [7, 8, 18, 24, 56, 57, 67, 73]  [15s]
+# done F16xZ49 n 784  subgroups 24  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.3512 d 210 tri/edge 56..56 |M| 210 orbits 9 reps [50]  [1s]
+# done Z16xF49 n 784  subgroups 58  with 2..26 orbits 17  searched 17  truncated 1  best ratio 1.5000 d 130 tri/edge 10..32 |M| 64 orbits 25 reps [56, 107, 116, 196]  [29s]
+# done F27xF29 n 783  subgroups 12  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.4950 d 324 tri/edge 81..135 |M| 104 orbits 15 reps [3, 6, 11, 32, 35, 40]  [1s]
+# done F8xF97 n 776  subgroups 20  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.4111 d 192 tri/edge 17..53 |M| 84 orbits 17 reps [1, 3, 98, 101]  [5s]
+# done F25xF31 n 775  subgroups 48  with 2..26 orbits 22  searched 22  truncated 1  best ratio 1.2353 d 120 tri/edge 17..17 |M| 120 orbits 9 reps [156]  [33s]
+# done F4xF193 n 772  subgroups 36  with 2..26 orbits 17  searched 17  truncated 0  best ratio 1.4259 d 192 tri/edge 32..32 |M| 72 orbits 17 reps [1, 10, 194, 203]  [2s]
+# done F256xF3 n 768  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.5000 d 512 tri/edge 256..256 |M| 510 orbits 3 reps [1, 4]  [1s]
+# done F4xF191 n 764  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 114 tri/edge 8..8 |M| 38 orbits 23 reps [192, 386, 577]  [0s]
+# done F16xF47 n 752  subgroups 8  with 2..26 orbits 3  searched 3  truncated 0  best ratio 9.0000 d 230 tri/edge 0..0 |M| 230 orbits 7 reps [48]  [0s]
+# done F9xF83 n 747  subgroups 8  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 252 tri/edge 3..85 |M| 82 orbits 13 reps [84, 85, 249, 332, 415, 416]  [2s]
+# done F32xF23 n 736  subgroups 4  with 2..26 orbits 2  searched 2  truncated 1  best ratio 1.4942 d 256 tri/edge 1..96 |M| 62 orbits 23 reps [1, 2, 4, 11, 26, 27, 29, 34]  [26s]
+# done F3xF243 n 729  subgroups 6  with 2..26 orbits 3  searched 3  truncated 0  best ratio 1.1885 d 132 tri/edge 19..21 |M| 44 orbits 23 reps [9, 12, 255, 256]  [2s]
+# done F3xZ243 n 729  subgroups 10  with 2..26 orbits 2  searched 2  truncated 0  best ratio 1.5000 d 108 tri/edge 27..27 |M| 324 orbits 11 reps [3, 243, 252, 270, 324]  [1s]
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [82]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [84]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [90]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [98]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [82]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [84]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [90]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M| 160 orbits  6  S = union of orbits of [98]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 82, 246]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 82, 260]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 84, 244]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 84, 252]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 90, 246]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 90, 260]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 98, 244]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [81, 98, 252]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [82, 243, 246]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [82, 243, 260]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [84, 243, 244]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [84, 243, 252]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [90, 243, 246]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [90, 243, 260]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [98, 243, 244]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  80 orbits 12  S = union of orbits of [98, 243, 252]  d 164  tri/edge 21..27  ratio 0.9647 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 84, 93, 98, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 85, 90, 111, 114]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 85, 97, 109, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 86, 91, 109, 114]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 90, 94, 97, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 91, 94, 110, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 85, 90, 109, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 86, 92, 93, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 86, 94, 98, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 91, 92, 111, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 111, 115, 120, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 86, 93, 110, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 92, 94, 114, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 94, 97, 117, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [86, 92, 97, 98, 111]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [86, 110, 111, 117, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 91, 94, 114, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 91, 97, 109, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 92, 93, 98, 110]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [91, 93, 97, 115, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [92, 109, 110, 125, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [93, 114, 120, 125, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [98, 109, 114, 115, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [98, 110, 111, 120, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 84, 93, 98, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 85, 90, 111, 114]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 85, 97, 109, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 86, 91, 109, 114]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 90, 94, 97, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [82, 91, 94, 110, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 85, 90, 109, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 86, 92, 93, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 86, 94, 98, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 91, 92, 111, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [84, 111, 115, 120, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 86, 93, 110, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 92, 94, 114, 115]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [85, 94, 97, 117, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [86, 92, 97, 98, 111]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [86, 110, 111, 117, 125]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 91, 94, 114, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 91, 97, 109, 120]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [90, 92, 93, 98, 110]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [91, 93, 97, 115, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [92, 109, 110, 125, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [93, 114, 120, 125, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [98, 109, 114, 115, 117]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+R F9xF81 (n 729) |M|  32 orbits 26  S = union of orbits of [98, 110, 111, 120, 127]  d 160  tri/edge 25..25  ratio 0.9641 ARROWS
+# done F9xF81 n 729  subgroups 58  with 2..26 orbits 31  searched 31  truncated 1  best ratio 0.9641 d 160 tri/edge 25..25 |M| 160 orbits 6 reps [98]  [18s]
+# done F81xZ9 n 729  subgroups 20  with 2..26 orbits 8  searched 8  truncated 1  best ratio 1.1688 d 210 tri/edge 39..51 |M| 60 orbits 26 reps [28, 81, 84, 136, 154]  [18s]
+# done F9xZ81 n 729  subgroups 16  with 2..26 orbits 4  searched 4  truncated 1  best ratio 1.5000 d 324 tri/edge 81..81 |M| 216 orbits 14 reps [81, 82, 84, 90, 108]  [4s]
+# done Z9xZ81 n 729  subgroups 28  with 2..26 orbits 5  searched 5  truncated 1  best ratio 1.5000 d 186 tri/edge 33..51 |M| 108 orbits 20 reps [84, 85, 87, 243, 270]  [13s]
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 30, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 38, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 40, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 31, 36]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 32, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 39, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 41, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 36, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 37, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 38, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 38, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 39, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [40, 41, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 30, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 38, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 40, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 31, 36]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 32, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 39, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 41, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 36, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 37, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 38, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 38, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 39, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [40, 41, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 30, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 38, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 40, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 31, 36]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 32, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 39, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 41, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 36, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 37, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 38, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 38, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [37, 39, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [40, 41, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 31, 37]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 32, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 36, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 37, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 38, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 39, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 32, 38]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 42, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 40, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 37, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 43, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [38, 41, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [39, 42, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 31, 37]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 32, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 36, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 37, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 38, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 39, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 32, 38]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 42, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 40, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 37, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 43, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [38, 41, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [39, 42, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 31, 37]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 32, 39]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [28, 36, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 37, 42]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 38, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [30, 39, 41]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 32, 38]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [31, 42, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [32, 40, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 37, 40]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [36, 43, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [38, 41, 43]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+R F27xF27 (n 729) |M|  52 orbits 15  S = union of orbits of [39, 42, 44]  d 156  tri/edge 19..19  ratio 0.9665 ARROWS
+# done F27xF27 n 729  subgroups 32  with 2..26 orbits 14  searched 14  truncated 0  best ratio 0.9665 d 156 tri/edge 19..19 |M| 52 orbits 15 reps [32, 40, 44]  [1s]
+# done F27xZ27 n 729  subgroups 12  with 2..26 orbits 4  searched 4  truncated 1  best ratio 1.5000 d 252 tri/edge 9..87 |M| 78 orbits 22 reps [1, 2, 4, 30, 31, 33, 39, 42, 48, 51]  [3s]
+# done Z27xZ27 n 729  subgroups 46  with 2..26 orbits 4  searched 4  truncated 0  best ratio 1.5000 d 186 tri/edge 33..51 |M| 108 orbits 23 reps [3, 29, 82, 83]  [9s]
+# done F25xF29 n 725  subgroups 44  with 2..26 orbits 21  searched 21  truncated 1  best ratio 1.3666 d 132 tri/edge 12..24 |M| 42 orbits 22 reps [37, 58, 60, 62]  [21s]
+# done F4xF181 n 724  subgroups 40  with 2..26 orbits 21  searched 21  truncated 0  best ratio 1.1812 d 108 tri/edge 14..16 |M| 36 orbits 21 reps [1, 186, 213]  [5s]
+# done F2xF361 n 722  subgroups 18  with 2..26 orbits 9  searched 9  truncated 0  best ratio 1.2361 d 120 tri/edge 9..14 |M| 30 orbits 25 reps [20, 28, 383, 390]  [1s]
+# done F4xF179 n 716  subgroups 4  with 2..26 orbits 2  searched 2  truncated 0  best ratio 9.0000 d 356 tri/edge 0..0 |M| 178 orbits 7 reps [180, 359]  [0s]
+# done F8xF89 n 712  subgroups 12  with 2..26 orbits 6  searched 6  truncated 0  best ratio 1.2985 d 176 tri/edge 26..31 |M| 154 orbits 9 reps [5, 102]  [3s]
+# done F9xF79 n 711  subgroups 16  with 2..26 orbits 7  searched 7  truncated 0  best ratio 1.3560 d 234 tri/edge 54..54 |M| 208 orbits 7 reps [1, 80]  [6s]

@@ -1,0 +1,101 @@
+# done p 43 e0 3 n 132  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 43 e0 7 n 308  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 53 e0 2 n 108  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(53; index 13, classes [0, 4])  n 702  d 106  tri/edge 16..16  ratio 1.10445  [1s]
+# done p 53 e0 13 n 702  K4-free unions (up to scaling, no blow-ups) 2  tested 1  best ratio 1.10445 classes [0, 4] d 106 tri/edge 16..16
+# done p 61 e0 2 n 124  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 61 e0 3 n 186  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 61 e0 5 n 310  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 61 e0 6 n 372  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.18077 classes [0] d 61 tri/edge 10..10
+# done p 61 e0 10 n 620  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(61; index 15, classes [0, 6])  n 930  d 122  tri/edge 16..16  ratio 1.12684  [1s]
+# done p 61 e0 15 n 930  K4-free unions (up to scaling, no blow-ups) 2  tested 1  best ratio 1.12684 classes [0, 6] d 122 tri/edge 16..16
+# done p 67 e0 3 n 204  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 67 e0 11 n 748  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(71; index 5, classes [0])  n 360  d 71  tri/edge 14..14  ratio 1.08266  [0s]
+# done p 71 e0 5 n 360  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.08266 classes [0] d 71 tri/edge 14..14
+Q(71; index 7, classes [0])  n 504  d 71  tri/edge 10..10  ratio 1.07594  [0s]
+# done p 71 e0 7 n 504  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.07594 classes [0] d 71 tri/edge 10..10
+# done p 73 e0 2 n 148  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 73 e0 3 n 222  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 73 e0 4 n 296  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 73 e0 6 n 444  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 73 e0 9 n 666  K4-free unions (up to scaling, no blow-ups) 1  tested 0  best none
+# done p 73 e0 12 n 888  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 79 e0 3 n 240  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 79 e0 13 n 1040  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 89 e0 2 n 180  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 89 e0 4 n 360  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 89 e0 11 n 990  K4-free unions (up to scaling, no blow-ups) 1  tested 0  best none
+# done p 97 e0 2 n 196  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 97 e0 3 n 294  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 97 e0 4 n 392  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(97; index 6, classes [0])  n 588  d 97  tri/edge 16..16  ratio 0.99172 ARROWS [1s]
+# done p 97 e0 6 n 588  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 0.99172 classes [0] d 97 tri/edge 16..16
+# done p 97 e0 8 n 784  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 97 e0 12 n 1176  K4-free unions (up to scaling, no blow-ups) 1  tested 0  best none
+# done p 101 e0 2 n 204  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(101; index 5, classes [0])  n 510  d 101  tri/edge 20..20  ratio 1.01287  [1s]
+# done p 101 e0 5 n 510  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.01287 classes [0] d 101 tri/edge 20..20
+Q(101; index 10, classes [0])  n 1020  d 101  tri/edge 10..10  ratio 1.14790  [1s]
+# done p 101 e0 10 n 1020  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.14790 classes [0] d 101 tri/edge 10..10
+# done p 103 e0 3 n 312  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 109 e0 2 n 220  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 109 e0 3 n 330  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 109 e0 6 n 660  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 109 e0 9 n 990  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 113 e0 2 n 228  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 113 e0 4 n 456  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(113; index 7, classes [0])  n 798  d 113  tri/edge 16..16  ratio 1.07360  [1s]
+# done p 113 e0 7 n 798  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.07360 classes [0] d 113 tri/edge 16..16
+Q(113; index 8, classes [0])  n 912  d 113  tri/edge 14..14  ratio 1.10375  [1s]
+# done p 113 e0 8 n 912  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 1.10375 classes [0] d 113 tri/edge 14..14
+# done p 127 e0 3 n 384  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 127 e0 7 n 896  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 127 e0 9 n 1152  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 131 e0 5 n 660  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 137 e0 2 n 276  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 137 e0 4 n 552  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 139 e0 3 n 420  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 149 e0 2 n 300  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 151 e0 3 n 456  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 151 e0 5 n 760  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 157 e0 2 n 316  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 157 e0 3 n 474  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+Q(157; index 6, classes [0])  n 948  d 157  tri/edge 26..26  ratio 0.90890 ARROWS [2s]
+# done p 157 e0 6 n 948  K4-free unions (up to scaling, no blow-ups) 1  tested 1  best ratio 0.90890 classes [0] d 157 tri/edge 26..26
+# done p 163 e0 3 n 492  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 173 e0 2 n 348  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 181 e0 2 n 364  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 181 e0 3 n 546  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 181 e0 5 n 910  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 181 e0 6 n 1092  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 191 e0 5 n 960  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 193 e0 2 n 388  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 193 e0 3 n 582  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 193 e0 4 n 776  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 193 e0 6 n 1164  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 197 e0 2 n 396  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 199 e0 3 n 600  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 211 e0 3 n 636  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 211 e0 5 n 1060  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 223 e0 3 n 672  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 229 e0 2 n 460  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 229 e0 3 n 690  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 233 e0 2 n 468  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 233 e0 4 n 936  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 241 e0 2 n 484  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 241 e0 3 n 726  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 241 e0 4 n 968  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 241 e0 5 n 1210  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 251 e0 5 n 1260  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 257 e0 2 n 516  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 257 e0 4 n 1032  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 269 e0 2 n 540  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 271 e0 3 n 816  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 277 e0 2 n 556  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 277 e0 3 n 834  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 281 e0 2 n 564  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 281 e0 4 n 1128  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 283 e0 3 n 852  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none
+# done p 293 e0 2 n 588  K4-free unions (up to scaling, no blow-ups) 0  tested 0  best none

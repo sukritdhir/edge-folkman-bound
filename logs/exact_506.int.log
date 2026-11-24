@@ -1,0 +1,32 @@
+verify_q2.py: certificate folkman_upper_506_q277s.txt
+sha256 6b036d7343b2dab3958118c72c30908ce13fdcedb8921aa556e83846505f1374
+0. self-test of the positive-definiteness check (K_6 accepted, K_5 not accepted): ok
+1. graph Q: p = 277, GF(p^2) = GF(p)[t]/(t^2 - 2), theta = 1 + 3 t, e0 = 6, |V0| = 46, classes [0], |S| = 46;
+   n = 1668 vertices; the adjacency matrix is symmetric; the vectors theta^i are pairwise inequivalent modulo V0 and represent all nonzero vectors.
+   base graph G' = Q minus 1162 vertices: 506 vertices, 23391 edges, 129674 triangles, degrees 85..98, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 506 vertices (an induced subgraph, so no K4 either).
+2. symmetry: pi: the map induced by (x0, x1) -> (201 x0 + 0 x1, 0 x0 + 164 x1) is an automorphism of Q that maps G' to itself; its order is q = 23.
+   certificate: 5638 triangle orbits (129674 triangles) with rational weights (2 orbits have a negative weight), 1017 edge orbits (23391 edges) with D > 0,
+   all orbits under pi have full length q; every listed triple is a triangle of G';
+   common denominator of the numbers in the file: 1000000000000.
+3. budget on G'': sum of D_e over its 23391 indexed edges = 139371197479861001/1000000000000;  3 * weight of its 129674 listed triangles = 139371336851197614/1000000000000;
+   ratio = 0.999999000000  (must be <= 1; exact integer comparison): ok
+4. matrix A = 3M + 2D: size 23391, commutes with the permutation of order 23; 23 orbit blocks of size 1017,
+   34845 nonzero integer coefficients A_j[a,b].
+5. positive definiteness of A, block by block (r = 0..11; the blocks r and q-r are complex conjugates):
+   block   0: size 1017, float lambda_min 6.639123e-03, proved lower bound 6888654999159066 / 2^60  ok  [2.2s]
+   block   1: size 2034, float lambda_min 6.493637e-03, proved lower bound 6737388299369992 / 2^60  ok  [15.0s]
+   block   2: size 2034, float lambda_min 7.061609e-03, proved lower bound 7326727085306332 / 2^60  ok  [12.5s]
+   block   3: size 2034, float lambda_min 6.679398e-03, proved lower bound 6930138054215439 / 2^60  ok  [12.4s]
+   block   4: size 2034, float lambda_min 6.667135e-03, proved lower bound 6917409859324654 / 2^60  ok  [12.9s]
+   block   5: size 2034, float lambda_min 6.756076e-03, proved lower bound 7009709097114686 / 2^60  ok  [15.1s]
+   block   6: size 2034, float lambda_min 6.690331e-03, proved lower bound 6941487430036956 / 2^60  ok  [18.1s]
+   block   7: size 2034, float lambda_min 7.018381e-03, proved lower bound 7281878627177283 / 2^60  ok  [13.7s]
+   block   8: size 2034, float lambda_min 6.873044e-03, proved lower bound 7131079741380909 / 2^60  ok  [15.0s]
+   block   9: size 2034, float lambda_min 6.881908e-03, proved lower bound 7140265253663083 / 2^60  ok  [13.3s]
+   block  10: size 2034, float lambda_min 6.643199e-03, proved lower bound 6892576685248968 / 2^60  ok  [13.3s]
+   block  11: size 2034, float lambda_min 6.739034e-03, proved lower bound 6992018185315975 / 2^60  ok  [16.9s]
+   all 12 blocks are positive definite (smallest proved bound 5.843753e-03 in units where the diagonal is about 1).
+6. conditions (i) and (ii) of the Lemma hold, and G'' has no K4.
+THEOREM CHECKED: the graph G'' on 506 vertices is K4-free and every 2-colouring of its edges contains a
+monochromatic triangle.  Hence F_e(3,3;4) <= 506.   [161 s]

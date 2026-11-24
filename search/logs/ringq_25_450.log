@@ -1,0 +1,298 @@
+# done F5xF5 |R| 25 units 16 J2 576  subgroups 8  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+Q(Z25, K) |R| 25  |K| 10 (index 2)  n 60  degree 25  tri/edge 10..10  ratio 1.5000 
+# done Z25 |R| 25 units 20 J2 600  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 10 n 60  [0s]
+Q(F5xF7, K) |R| 35  |K| 12 (index 2)  n 96  degree 35  tri/edge 12..12  ratio 1.5000 
+# done F5xF7 |R| 35 units 24 J2 1152  subgroups 6  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 12 n 96  [0s]
+Q(F5xF8, K) |R| 40  |K| 14 (index 2)  n 108  degree 40  tri/edge 14..14  ratio 1.5000 
+# done F5xF8 |R| 40 units 28 J2 1512  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 14 n 108  [0s]
+Q(F5xF9, K) |R| 45  |K| 16 (index 2)  n 120  degree 45  tri/edge 16..16  ratio 1.5000 
+# done F5xF9 |R| 45 units 32 J2 1920  subgroups 11  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 16 n 120  [0s]
+Q(F7xF7, K) |R| 49  |K| 12 (index 3)  n 192  degree 49  tri/edge 12..12  ratio 1.5000 
+Q(F7xF7, K) |R| 49  |K| 12 (index 3)  n 192  degree 49  tri/edge 12..12  ratio 1.5000 
+# done F7xF7 |R| 49 units 36 J2 2304  subgroups 12  sum-free with |K| >= 10: 2  evaluated 2  best ratio 1.5000 |K| 12 n 192  [0s]
+Q(Z49, K) |R| 49  |K| 14 (index 3)  n 168  degree 49  tri/edge 14..14  ratio 1.5000 
+# done Z49 |R| 49 units 42 J2 2352  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 14 n 168  [0s]
+Q(F5xF11, K) |R| 55  |K| 20 (index 2)  n 144  degree 55  tri/edge 20..20  ratio 1.5000 
+Q(F5xF11, K) |R| 55  |K| 10 (index 4)  n 288  degree 55  tri/edge 10..10  ratio 1.5000 
+# done F5xF11 |R| 55 units 40 J2 2880  subgroups 6  sum-free with |K| >= 10: 2  evaluated 2  best ratio 1.5000 |K| 10 n 288  [0s]
+Q(F7xF8, K) |R| 56  |K| 14 (index 3)  n 216  degree 56  tri/edge 14..14  ratio 1.5000 
+# done F7xF8 |R| 56 units 42 J2 3024  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 14 n 216  [0s]
+Q(F7xF9, K) |R| 63  |K| 16 (index 3)  n 240  degree 63  tri/edge 16..16  ratio 1.5000 
+# done F7xF9 |R| 63 units 48 J2 3840  subgroups 8  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 16 n 240  [0s]
+# done F8xF8 |R| 64 units 49 J2 3969  subgroups 10  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+Q(F5xF13, K) |R| 65  |K| 24 (index 2)  n 168  degree 65  tri/edge 24..24  ratio 1.5000 
+Q(F5xF13, K) |R| 65  |K| 16 (index 3)  n 252  degree 65  tri/edge 16..16  ratio 1.4642 
+Q(F5xF13, K) |R| 65  |K| 12 (index 4)  n 336  degree 65  tri/edge 12..12  ratio 1.5000 
+Q(F5xF13, K) |R| 65  |K| 12 (index 4)  n 336  degree 65  tri/edge 12..12  ratio 1.0734 
+# done F5xF13 |R| 65 units 48 J2 4032  subgroups 16  sum-free with |K| >= 10: 4  evaluated 4  best ratio 1.0734 |K| 12 n 336  [0s]
+# done F8xF9 |R| 72 units 56 J2 5040  subgroups 6  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+Q(F7xF11, K) |R| 77  |K| 20 (index 3)  n 288  degree 77  tri/edge 20..20  ratio 1.5000 
+Q(F7xF11, K) |R| 77  |K| 12 (index 5)  n 480  degree 77  tri/edge 12..12  ratio 1.5000 
+Q(F7xF11, K) |R| 77  |K| 10 (index 6)  n 576  degree 77  tri/edge 10..10  ratio 1.5000 
+# done F7xF11 |R| 77 units 60 J2 5760  subgroups 8  sum-free with |K| >= 10: 3  evaluated 3  best ratio 1.5000 |K| 20 n 288  [0s]
+Q(F5xF16, K) |R| 80  |K| 30 (index 2)  n 204  degree 80  tri/edge 30..30  ratio 1.5000 
+Q(F5xF16, K) |R| 80  |K| 20 (index 3)  n 306  degree 80  tri/edge 20..20  ratio 1.2651 
+Q(F5xF16, K) |R| 80  |K| 10 (index 6)  n 612  degree 80  tri/edge 10..10  ratio 1.5000 
+# done F5xF16 |R| 80 units 60 J2 6120  subgroups 8  sum-free with |K| >= 10: 3  evaluated 3  best ratio 1.2651 |K| 20 n 306  [0s]
+# done F9xF9 |R| 81 units 64 J2 6400  subgroups 22  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+Q(F5xF17, K) |R| 85  |K| 32 (index 2)  n 216  degree 85  tri/edge 32..32  ratio 1.5000 
+Q(F5xF17, K) |R| 85  |K| 16 (index 4)  n 432  degree 85  tri/edge 16..16  ratio 1.5000 
+Q(F5xF17, K) |R| 85  |K| 16 (index 4)  n 432  degree 85  tri/edge 16..16  ratio 1.5000 
+# done F5xF17 |R| 85 units 64 J2 6912  subgroups 14  sum-free with |K| >= 10: 3  evaluated 3  best ratio 1.5000 |K| 16 n 432  [0s]
+Q(F8xF11, K) |R| 88  |K| 14 (index 5)  n 540  degree 88  tri/edge 14..14  ratio 1.5000 
+Q(F8xF11, K) |R| 88  |K| 10 (index 7)  n 756  degree 88  tri/edge 10..10  ratio 1.5000 
+# done F8xF11 |R| 88 units 70 J2 7560  subgroups 4  sum-free with |K| >= 10: 2  evaluated 2  best ratio 1.5000 |K| 10 n 756  [0s]
+Q(F7xF13, K) |R| 91  |K| 24 (index 3)  n 336  degree 91  tri/edge 24..24  ratio 1.4642 
+Q(F7xF13, K) |R| 91  |K| 24 (index 3)  n 336  degree 91  tri/edge 24..24  ratio 1.5000 
+Q(F7xF13, K) |R| 91  |K| 12 (index 6)  n 672  degree 91  tri/edge 12..12  ratio 1.5000 
+Q(F7xF13, K) |R| 91  |K| 12 (index 6)  n 672  degree 91  tri/edge 12..12  ratio 1.5000 
+# done F7xF13 |R| 91 units 72 J2 8064  subgroups 18  sum-free with |K| >= 10: 4  evaluated 4  best ratio 1.4642 |K| 24 n 336  [1s]
+Q(F5xF19, K) |R| 95  |K| 36 (index 2)  n 240  degree 95  tri/edge 36..36  ratio 1.5000 
+Q(F5xF19, K) |R| 95  |K| 18 (index 4)  n 480  degree 95  tri/edge 18..18  ratio 1.5000 
+Q(F5xF19, K) |R| 95  |K| 12 (index 6)  n 720  degree 95  tri/edge 12..12  ratio 1.5000 
+# done F5xF19 |R| 95 units 72 J2 8640  subgroups 9  sum-free with |K| >= 10: 3  evaluated 3  best ratio 1.5000 |K| 36 n 240  [1s]
+Q(F9xF11, K) |R| 99  |K| 16 (index 5)  n 600  degree 99  tri/edge 16..16  ratio 1.5000 
+# done F9xF11 |R| 99 units 80 J2 9600  subgroups 8  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 16 n 600  [0s]
+Q(F8xF13, K) |R| 104  |K| 28 (index 3)  n 378  degree 104  tri/edge 28..28  ratio 1.4642 
+Q(F8xF13, K) |R| 104  |K| 14 (index 6)  n 756  degree 104  tri/edge 14..14  ratio 1.5000 
+Q(F8xF13, K) |R| 104  |K| 12 (index 7)  n 882  degree 104  tri/edge 12..12  ratio 1.5000 
+# done F8xF13 |R| 104 units 84 J2 10584  subgroups 8  sum-free with |K| >= 10: 3  evaluated 3  best ratio 1.4642 |K| 28 n 378  [1s]
+Q(F7xF16, K) |R| 112  |K| 30 (index 3)  n 408  degree 112  tri/edge 30..30  ratio 1.5000 
+Q(F7xF16, K) |R| 112  |K| 30 (index 3)  n 408  degree 112  tri/edge 30..30  ratio 1.2651 
+# done F7xF16 |R| 112 units 90 J2 12240  subgroups 12  sum-free with |K| >= 10: 3  evaluated 2  best ratio 1.2651 |K| 30 n 408  [1s]
+Q(F5xF23, K) |R| 115  |K| 44 (index 2)  n 288  degree 115  tri/edge 44..44  ratio 1.5000 
+Q(F5xF23, K) |R| 115  |K| 22 (index 4)  n 576  degree 115  tri/edge 22..22  ratio 1.5000 
+# done F5xF23 |R| 115 units 88 J2 12672  subgroups 6  sum-free with |K| >= 10: 2  evaluated 2  best ratio 1.5000 |K| 44 n 288  [1s]
+Q(F9xF13, K) |R| 117  |K| 32 (index 3)  n 420  degree 117  tri/edge 32..32  ratio 1.4642 
+Q(F9xF13, K) |R| 117  |K| 16 (index 6)  n 840  degree 117  tri/edge 16..16  ratio 1.5000 
+Q(F9xF13, K) |R| 117  |K| 16 (index 6)  n 840  degree 117  tri/edge 16..16  ratio 1.4642 
+Q(F9xF13, K) |R| 117  |K| 16 (index 6)  n 840  degree 117  tri/edge 16..16  ratio 1.5000 
+# done F9xF13 |R| 117 units 96 J2 13440  subgroups 22  sum-free with |K| >= 10: 4  evaluated 4  best ratio 1.4642 |K| 16 n 840  [2s]
+Q(F7xF17, K) |R| 119  |K| 32 (index 3)  n 432  degree 119  tri/edge 32..32  ratio 1.5000 
+Q(F7xF17, K) |R| 119  |K| 24 (index 4)  n 576  degree 119  tri/edge 24..24  ratio 1.5000 
+Q(F7xF17, K) |R| 119  |K| 16 (index 6)  n 864  degree 119  tri/edge 16..16  ratio 1.5000 
+# done F7xF17 |R| 119 units 96 J2 13824  subgroups 10  sum-free with |K| >= 10: 4  evaluated 3  best ratio 1.5000 |K| 24 n 576  [1s]
+Q(F11xF11, K) |R| 121  |K| 20 (index 5)  n 720  degree 121  tri/edge 20..20  ratio 0.9581 ARROWS
+Q(F11xF11, K) |R| 121  |K| 20 (index 5)  n 720  degree 121  tri/edge 20..20  ratio 1.5000 
+Q(F11xF11, K) |R| 121  |K| 20 (index 5)  n 720  degree 121  tri/edge 20..20  ratio 0.9581 ARROWS
+Q(F11xF11, K) |R| 121  |K| 20 (index 5)  n 720  degree 121  tri/edge 20..20  ratio 1.5000 
+# done F11xF11 |R| 121 units 100 J2 14400  subgroups 16  sum-free with |K| >= 10: 9  evaluated 4  best ratio 0.9581 |K| 20 n 720  [2s]
+Q(Z121, K) |R| 121  |K| 22 (index 5)  n 660  degree 121  tri/edge 22..22  ratio 1.5000 
+# done Z121 |R| 121 units 110 J2 14520  subgroups 4  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.5000 |K| 22 n 660  [0s]
+Q(F5xF5xF5, K) |R| 125  |K| 32 (index 2)  n 432  degree 125  tri/edge 32..32  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 32 (index 2)  n 432  degree 125  tri/edge 32..32  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 32 (index 2)  n 432  degree 125  tri/edge 32..32  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.1730 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.1730 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.5000 
+Q(F5xF5xF5, K) |R| 125  |K| 16 (index 4)  n 864  degree 125  tri/edge 16..16  ratio 1.1730 
+# done F5xF5xF5 |R| 125 units 64 J2 13824  subgroups 54  sum-free with |K| >= 10: 15  evaluated 15  best ratio 1.1730 |K| 16 n 864  [6s]
+Q(F5xF25, K) |R| 125  |K| 48 (index 2)  n 312  degree 125  tri/edge 48..48  ratio 1.5000 
+Q(F5xF25, K) |R| 125  |K| 24 (index 4)  n 624  degree 125  tri/edge 24..24  ratio 1.5000 
+# done F5xF25 |R| 125 units 96 J2 14976  subgroups 22  sum-free with |K| >= 10: 6  evaluated 2  best ratio 1.5000 |K| 48 n 312  [1s]
+Q(F5xZ25, K) |R| 125  |K| 40 (index 2)  n 360  degree 125  tri/edge 40..40  ratio 1.5000 
+Q(F5xZ25, K) |R| 125  |K| 40 (index 2)  n 360  degree 125  tri/edge 40..40  ratio 1.5000 
+Q(F5xZ25, K) |R| 125  |K| 20 (index 4)  n 720  degree 125  tri/edge 20..20  ratio 1.5000 
+Q(F5xZ25, K) |R| 125  |K| 20 (index 4)  n 720  degree 125  tri/edge 20..20  ratio 1.5000 
+Q(F5xZ25, K) |R| 125  |K| 16 (index 5)  n 900  degree 125  tri/edge 16..16  ratio 1.4941 
+# done F5xZ25 |R| 125 units 80 J2 14400  subgroups 16  sum-free with |K| >= 10: 6  evaluated 5  best ratio 1.4941 |K| 16 n 900  [2s]
+Q(F8xF16, K) |R| 128  |K| 35 (index 3)  n 459  degree 128  tri/edge 35..35  ratio 1.2651 
+# done F8xF16 |R| 128 units 105 J2 16065  subgroups 8  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.2651 |K| 35 n 459  [0s]
+Q(F7xF19, K) |R| 133  |K| 36 (index 3)  n 480  degree 133  tri/edge 36..36  ratio 1.5000 
+# done F7xF19 |R| 133 units 108 J2 17280  subgroups 20  sum-free with |K| >= 10: 6  evaluated 1  best ratio 1.5000 |K| 36 n 480  [0s]
+Q(F5xF27, K) |R| 135  |K| 52 (index 2)  n 336  degree 135  tri/edge 52..52  ratio 1.5000 
+Q(F5xF27, K) |R| 135  |K| 26 (index 4)  n 672  degree 135  tri/edge 26..26  ratio 1.5000 
+# done F5xF27 |R| 135 units 104 J2 17472  subgroups 6  sum-free with |K| >= 10: 2  evaluated 2  best ratio 1.5000 |K| 26 n 672  [1s]
+Q(F8xF17, K) |R| 136  |K| 28 (index 4)  n 648  degree 136  tri/edge 28..28  ratio 1.5000 
+# done F8xF17 |R| 136 units 112 J2 18144  subgroups 8  sum-free with |K| >= 10: 3  evaluated 1  best ratio 1.5000 |K| 28 n 648  [0s]
+Q(F11xF13, K) |R| 143  |K| 40 (index 3)  n 504  degree 143  tri/edge 40..40  ratio 1.4642 
+Q(F11xF13, K) |R| 143  |K| 24 (index 5)  n 840  degree 143  tri/edge 24..24  ratio 1.5000 
+# done F11xF13 |R| 143 units 120 J2 20160  subgroups 12  sum-free with |K| >= 10: 5  evaluated 2  best ratio 1.4642 |K| 40 n 504  [1s]
+Q(F9xF16, K) |R| 144  |K| 40 (index 3)  n 510  degree 144  tri/edge 40..40  ratio 1.2651 
+# done F9xF16 |R| 144 units 120 J2 20400  subgroups 12  sum-free with |K| >= 10: 3  evaluated 1  best ratio 1.2651 |K| 40 n 510  [0s]
+Q(F5xF29, K) |R| 145  |K| 56 (index 2)  n 360  degree 145  tri/edge 56..56  ratio 1.5000 
+Q(F5xF29, K) |R| 145  |K| 28 (index 4)  n 720  degree 145  tri/edge 28..28  ratio 1.5000 
+# done F5xF29 |R| 145 units 112 J2 20160  subgroups 16  sum-free with |K| >= 10: 4  evaluated 2  best ratio 1.5000 |K| 56 n 360  [1s]
+# done F8xF19 |R| 152 units 126 J2 22680  subgroups 6  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+Q(F9xF17, K) |R| 153  |K| 32 (index 4)  n 720  degree 153  tri/edge 32..32  ratio 1.5000 
+# done F9xF17 |R| 153 units 128 J2 23040  subgroups 29  sum-free with |K| >= 10: 7  evaluated 1  best ratio 1.5000 |K| 32 n 720  [1s]
+Q(F5xF31, K) |R| 155  |K| 60 (index 2)  n 384  degree 155  tri/edge 60..60  ratio 1.5000 
+Q(F5xF31, K) |R| 155  |K| 30 (index 4)  n 768  degree 155  tri/edge 30..30  ratio 1.5000 
+# done F5xF31 |R| 155 units 120 J2 23040  subgroups 12  sum-free with |K| >= 10: 5  evaluated 2  best ratio 1.5000 |K| 30 n 768  [1s]
+Q(F5xF32, K) |R| 160  |K| 62 (index 2)  n 396  degree 160  tri/edge 62..62  ratio 1.5000 
+# done F5xF32 |R| 160 units 124 J2 24552  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 62 n 396  [1s]
+Q(F7xF23, K) |R| 161  |K| 44 (index 3)  n 576  degree 161  tri/edge 44..44  ratio 1.5000 
+# done F7xF23 |R| 161 units 132 J2 25344  subgroups 8  sum-free with |K| >= 10: 3  evaluated 1  best ratio 1.5000 |K| 44 n 576  [1s]
+Q(F13xF13, K) |R| 169  |K| 48 (index 3)  n 588  degree 169  tri/edge 48..48  ratio 1.4642 
+Q(F13xF13, K) |R| 169  |K| 48 (index 3)  n 588  degree 169  tri/edge 48..48  ratio 1.4642 
+# done F13xF13 |R| 169 units 144 J2 28224  subgroups 48  sum-free with |K| >= 10: 15  evaluated 2  best ratio 1.4642 |K| 48 n 588  [1s]
+Q(Z169, K) |R| 169  |K| 52 (index 3)  n 546  degree 169  tri/edge 52..52  ratio 1.4642 
+# done Z169 |R| 169 units 156 J2 28392  subgroups 8  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.4642 |K| 52 n 546  [1s]
+# done F9xF19 |R| 171 units 144 J2 28800  subgroups 12  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+Q(F5xF5xF7, K) |R| 175  |K| 48 (index 2)  n 576  degree 175  tri/edge 48..48  ratio 1.5000 
+Q(F5xF5xF7, K) |R| 175  |K| 48 (index 2)  n 576  degree 175  tri/edge 48..48  ratio 1.5000 
+Q(F5xF5xF7, K) |R| 175  |K| 32 (index 3)  n 864  degree 175  tri/edge 32..32  ratio 1.5000 
+# done F5xF5xF7 |R| 175 units 96 J2 27648  subgroups 30  sum-free with |K| >= 10: 15  evaluated 3  best ratio 1.5000 |K| 32 n 864  [3s]
+Q(F7xF25, K) |R| 175  |K| 48 (index 3)  n 624  degree 175  tri/edge 48..48  ratio 1.5000 
+# done F7xF25 |R| 175 units 144 J2 29952  subgroups 24  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 48 n 624  [1s]
+Q(F7xZ25, K) |R| 175  |K| 60 (index 2)  n 480  degree 175  tri/edge 60..60  ratio 1.5000 
+Q(F7xZ25, K) |R| 175  |K| 40 (index 3)  n 720  degree 175  tri/edge 40..40  ratio 1.5000 
+# done F7xZ25 |R| 175 units 120 J2 28800  subgroups 12  sum-free with |K| >= 10: 7  evaluated 2  best ratio 1.5000 |K| 40 n 720  [2s]
+Q(F11xF16, K) |R| 176  |K| 50 (index 3)  n 612  degree 176  tri/edge 50..50  ratio 1.2651 
+# done F11xF16 |R| 176 units 150 J2 30600  subgroups 16  sum-free with |K| >= 10: 8  evaluated 1  best ratio 1.2651 |K| 50 n 612  [1s]
+# done F8xF23 |R| 184 units 154 J2 33264  subgroups 4  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+Q(F5xF37, K) |R| 185  |K| 72 (index 2)  n 456  degree 185  tri/edge 72..72  ratio 1.5000 
+# done F5xF37 |R| 185 units 144 J2 32832  subgroups 24  sum-free with |K| >= 10: 9  evaluated 1  best ratio 1.5000 |K| 72 n 456  [1s]
+Q(F11xF17, K) |R| 187  |K| 40 (index 4)  n 864  degree 187  tri/edge 40..40  ratio 1.5000 
+# done F11xF17 |R| 187 units 160 J2 34560  subgroups 10  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 40 n 864  [1s]
+Q(F7xF27, K) |R| 189  |K| 52 (index 3)  n 672  degree 189  tri/edge 52..52  ratio 1.5000 
+# done F7xF27 |R| 189 units 156 J2 34944  subgroups 8  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.5000 |K| 52 n 672  [2s]
+Q(F5xF5xF8, K) |R| 200  |K| 56 (index 2)  n 648  degree 200  tri/edge 56..56  ratio 1.5000 
+Q(F5xF5xF8, K) |R| 200  |K| 56 (index 2)  n 648  degree 200  tri/edge 56..56  ratio 1.5000 
+# done F5xF5xF8 |R| 200 units 112 J2 36288  subgroups 16  sum-free with |K| >= 10: 6  evaluated 2  best ratio 1.5000 |K| 56 n 648  [3s]
+# done F8xF25 |R| 200 units 168 J2 39312  subgroups 12  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+Q(F8xZ25, K) |R| 200  |K| 70 (index 2)  n 540  degree 200  tri/edge 70..70  ratio 1.5000 
+# done F8xZ25 |R| 200 units 140 J2 37800  subgroups 8  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 70 n 540  [1s]
+Q(F7xF29, K) |R| 203  |K| 56 (index 3)  n 720  degree 203  tri/edge 56..56  ratio 1.5000 
+# done F7xF29 |R| 203 units 168 J2 40320  subgroups 12  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 56 n 720  [2s]
+Q(F5xF41, K) |R| 205  |K| 80 (index 2)  n 504  degree 205  tri/edge 80..80  ratio 1.5000 
+# done F5xF41 |R| 205 units 160 J2 40320  subgroups 22  sum-free with |K| >= 10: 10  evaluated 1  best ratio 1.5000 |K| 80 n 504  [1s]
+# done F9xF23 |R| 207 units 176 J2 42240  subgroups 8  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+Q(F13xF16, K) |R| 208  |K| 60 (index 3)  n 714  degree 208  tri/edge 60..60  ratio 1.2651 
+Q(F13xF16, K) |R| 208  |K| 60 (index 3)  n 714  degree 208  tri/edge 60..60  ratio 1.4642 
+# done F13xF16 |R| 208 units 180 J2 42840  subgroups 24  sum-free with |K| >= 10: 8  evaluated 2  best ratio 1.2651 |K| 60 n 714  [3s]
+# done F11xF19 |R| 209 units 180 J2 43200  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+Q(F5xF43, K) |R| 215  |K| 84 (index 2)  n 528  degree 215  tri/edge 84..84  ratio 1.5000 
+# done F5xF43 |R| 215 units 168 J2 44352  subgroups 12  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 84 n 528  [2s]
+# done F8xF27 |R| 216 units 182 J2 45864  subgroups 4  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+Q(F7xF31, K) |R| 217  |K| 60 (index 3)  n 768  degree 217  tri/edge 60..60  ratio 1.5000 
+# done F7xF31 |R| 217 units 180 J2 46080  subgroups 24  sum-free with |K| >= 10: 6  evaluated 1  best ratio 1.5000 |K| 60 n 768  [3s]
+Q(F13xF17, K) |R| 221  |K| 64 (index 3)  n 756  degree 221  tri/edge 64..64  ratio 1.4642 
+# done F13xF17 |R| 221 units 192 J2 48384  subgroups 28  sum-free with |K| >= 10: 14  evaluated 1  best ratio 1.4642 |K| 64 n 756  [2s]
+Q(F7xF32, K) |R| 224  |K| 62 (index 3)  n 792  degree 224  tri/edge 62..62  ratio 1.5000 
+# done F7xF32 |R| 224 units 186 J2 49104  subgroups 4  sum-free with |K| >= 10: 1  evaluated 1  best ratio 1.5000 |K| 62 n 792  [3s]
+Q(F5xF5xF9, K) |R| 225  |K| 64 (index 2)  n 720  degree 225  tri/edge 64..64  ratio 1.5000 
+Q(F5xF5xF9, K) |R| 225  |K| 64 (index 2)  n 720  degree 225  tri/edge 64..64  ratio 1.5000 
+# done F5xF5xF9 |R| 225 units 128 J2 46080  subgroups 81  sum-free with |K| >= 10: 35  evaluated 2  best ratio 1.5000 |K| 64 n 720  [6s]
+# done F9xF25 |R| 225 units 192 J2 49920  subgroups 44  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+Q(F9xZ25, K) |R| 225  |K| 80 (index 2)  n 600  degree 225  tri/edge 80..80  ratio 1.5000 
+# done F9xZ25 |R| 225 units 160 J2 48000  subgroups 22  sum-free with |K| >= 10: 11  evaluated 1  best ratio 1.5000 |K| 80 n 600  [2s]
+# done F8xF29 |R| 232 units 196 J2 52920  subgroups 20  sum-free with |K| >= 10: 13  evaluated 0  best none  [0s]
+Q(F5xF47, K) |R| 235  |K| 92 (index 2)  n 576  degree 235  tri/edge 92..92  ratio 1.5000 
+# done F5xF47 |R| 235 units 184 J2 52992  subgroups 6  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.5000 |K| 92 n 576  [3s]
+# done F9xF27 |R| 243 units 208 J2 58240  subgroups 8  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+Q(F5xF7xF7, K) |R| 245  |K| 72 (index 2)  n 768  degree 245  tri/edge 72..72  ratio 1.5000 
+# done F5xF7xF7 |R| 245 units 144 J2 55296  subgroups 48  sum-free with |K| >= 10: 30  evaluated 1  best ratio 1.5000 |K| 72 n 768  [3s]
+Q(F5xF49, K) |R| 245  |K| 96 (index 2)  n 600  degree 245  tri/edge 96..96  ratio 1.5000 
+# done F5xF49 |R| 245 units 192 J2 57600  subgroups 28  sum-free with |K| >= 10: 12  evaluated 1  best ratio 1.5000 |K| 96 n 600  [3s]
+Q(F5xZ49, K) |R| 245  |K| 84 (index 2)  n 672  degree 245  tri/edge 84..84  ratio 1.5000 
+# done F5xZ49 |R| 245 units 168 J2 56448  subgroups 12  sum-free with |K| >= 10: 6  evaluated 1  best ratio 1.5000 |K| 84 n 672  [3s]
+Q(F13xF19, K) |R| 247  |K| 72 (index 3)  n 840  degree 247  tri/edge 72..72  ratio 1.4642 
+# done F13xF19 |R| 247 units 216 J2 60480  subgroups 30  sum-free with |K| >= 10: 9  evaluated 1  best ratio 1.4642 |K| 72 n 840  [3s]
+# done F8xF31 |R| 248 units 210 J2 60480  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F11xF23 |R| 253 units 220 J2 63360  subgroups 8  sum-free with |K| >= 10: 4  evaluated 0  best none  [0s]
+# done F8xF32 |R| 256 units 217 J2 64449  subgroups 4  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+Q(F16xF16, K) |R| 256  |K| 75 (index 3)  n 867  degree 256  tri/edge 75..75  ratio 1.2651 
+Q(F16xF16, K) |R| 256  |K| 75 (index 3)  n 867  degree 256  tri/edge 75..75  ratio 1.2651 
+# done F16xF16 |R| 256 units 225 J2 65025  subgroups 48  sum-free with |K| >= 10: 15  evaluated 2  best ratio 1.2651 |K| 75 n 867  [8s]
+# done F7xF37 |R| 259 units 216 J2 65664  subgroups 30  sum-free with |K| >= 10: 10  evaluated 0  best none  [0s]
+# done F9xF29 |R| 261 units 224 J2 67200  subgroups 22  sum-free with |K| >= 10: 7  evaluated 0  best none  [0s]
+Q(F5xF53, K) |R| 265  |K| 104 (index 2)  n 648  degree 265  tri/edge 104..104  ratio 1.5000 
+# done F5xF53 |R| 265 units 208 J2 67392  subgroups 16  sum-free with |K| >= 10: 4  evaluated 1  best ratio 1.5000 |K| 104 n 648  [4s]
+# done F16xF17 |R| 272 units 240 J2 73440  subgroups 16  sum-free with |K| >= 10: 8  evaluated 0  best none  [0s]
+Q(F5xF5xF11, K) |R| 275  |K| 80 (index 2)  n 864  degree 275  tri/edge 80..80  ratio 1.5000 
+Q(F5xF5xF11, K) |R| 275  |K| 80 (index 2)  n 864  degree 275  tri/edge 80..80  ratio 1.5000 
+# done F5xF5xF11 |R| 275 units 160 J2 69120  subgroups 30  sum-free with |K| >= 10: 16  evaluated 2  best ratio 1.5000 |K| 80 n 864  [11s]
+# done F11xF25 |R| 275 units 240 J2 74880  subgroups 16  sum-free with |K| >= 10: 6  evaluated 0  best none  [0s]
+Q(F11xZ25, K) |R| 275  |K| 100 (index 2)  n 720  degree 275  tri/edge 100..100  ratio 1.5000 
+# done F11xZ25 |R| 275 units 200 J2 72000  subgroups 24  sum-free with |K| >= 10: 17  evaluated 1  best ratio 1.5000 |K| 100 n 720  [5s]
+# done F9xF31 |R| 279 units 240 J2 76800  subgroups 16  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+Q(F5xF7xF8, K) |R| 280  |K| 84 (index 2)  n 864  degree 280  tri/edge 84..84  ratio 1.5000 
+# done F5xF7xF8 |R| 280 units 168 J2 72576  subgroups 12  sum-free with |K| >= 10: 7  evaluated 1  best ratio 1.5000 |K| 84 n 864  [7s]
+# done F7xF41 |R| 287 units 240 J2 80640  subgroups 16  sum-free with |K| >= 10: 10  evaluated 0  best none  [0s]
+# done F9xF32 |R| 288 units 248 J2 81840  subgroups 6  sum-free with |K| >= 10: 0  evaluated 0  best none  [0s]
+# done F17xF17 |R| 289 units 256 J2 82944  subgroups 52  sum-free with |K| >= 10: 23  evaluated 0  best none  [0s]
+# done Z289 |R| 289 units 272 J2 83232  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+Q(F5xF59, K) |R| 295  |K| 116 (index 2)  n 720  degree 295  tri/edge 116..116  ratio 1.5000 
+# done F5xF59 |R| 295 units 232 J2 83520  subgroups 6  sum-free with |K| >= 10: 2  evaluated 1  best ratio 1.5000 |K| 116 n 720  [5s]
+# done F8xF37 |R| 296 units 252 J2 86184  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F11xF27 |R| 297 units 260 J2 87360  subgroups 8  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+# done F13xF23 |R| 299 units 264 J2 88704  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F7xF43 |R| 301 units 252 J2 88704  subgroups 24  sum-free with |K| >= 10: 6  evaluated 0  best none  [0s]
+# done F16xF19 |R| 304 units 270 J2 91800  subgroups 20  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+Q(F5xF61, K) |R| 305  |K| 120 (index 2)  n 744  degree 305  tri/edge 120..120  ratio 1.5000 
+# done F5xF61 |R| 305 units 240 J2 89280  subgroups 32  sum-free with |K| >= 10: 15  evaluated 1  best ratio 1.5000 |K| 120 n 744  [6s]
+# done F5xF7xF9 |R| 315 units 192 J2 92160  subgroups 44  sum-free with |K| >= 10: 24  evaluated 0  best none  [0s]
+# done F11xF29 |R| 319 units 280 J2 100800  subgroups 12  sum-free with |K| >= 10: 6  evaluated 0  best none  [0s]
+# done F5xF8xF8 |R| 320 units 196 J2 95256  subgroups 20  sum-free with |K| >= 10: 14  evaluated 0  best none  [0s]
+Q(F5xF64, K) |R| 320  |K| 126 (index 2)  n 780  degree 320  tri/edge 126..126  ratio 1.5000 
+# done F5xF64 |R| 320 units 252 J2 98280  subgroups 12  sum-free with |K| >= 10: 4  evaluated 1  best ratio 1.5000 |K| 126 n 780  [6s]
+# done F17xF19 |R| 323 units 288 J2 103680  subgroups 15  sum-free with |K| >= 10: 7  evaluated 0  best none  [0s]
+# done F5xF5xF13 |R| 325 units 192 J2 96768  subgroups 108  sum-free with |K| >= 10: 58  evaluated 0  best none  [0s]
+# done F13xF25 |R| 325 units 288 J2 104832  subgroups 66  sum-free with |K| >= 10: 17  evaluated 0  best none  [0s]
+Q(F13xZ25, K) |R| 325  |K| 120 (index 2)  n 840  degree 325  tri/edge 120..120  ratio 1.5000 
+# done F13xZ25 |R| 325 units 240 J2 100800  subgroups 32  sum-free with |K| >= 10: 20  evaluated 1  best ratio 1.5000 |K| 120 n 840  [8s]
+# done F8xF41 |R| 328 units 280 J2 105840  subgroups 12  sum-free with |K| >= 10: 7  evaluated 0  best none  [0s]
+# done F7xF47 |R| 329 units 276 J2 105984  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F9xF37 |R| 333 units 288 J2 109440  subgroups 33  sum-free with |K| >= 10: 4  evaluated 0  best none  [0s]
+Q(F5xF67, K) |R| 335  |K| 132 (index 2)  n 816  degree 335  tri/edge 132..132  ratio 1.5000 
+# done F5xF67 |R| 335 units 264 J2 107712  subgroups 12  sum-free with |K| >= 10: 5  evaluated 1  best ratio 1.5000 |K| 132 n 816  [7s]
+# done F11xF31 |R| 341 units 300 J2 115200  subgroups 32  sum-free with |K| >= 10: 16  evaluated 0  best none  [0s]
+# done F7xF7xF7 |R| 343 units 216 J2 110592  subgroups 140  sum-free with |K| >= 10: 51  evaluated 0  best none  [0s]
+# done F7xF49 |R| 343 units 288 J2 115200  subgroups 30  sum-free with |K| >= 10: 9  evaluated 0  best none  [0s]
+# done F7xZ49 |R| 343 units 252 J2 112896  subgroups 24  sum-free with |K| >= 10: 8  evaluated 0  best none  [0s]
+# done F8xF43 |R| 344 units 294 J2 116424  subgroups 20  sum-free with |K| >= 10: 9  evaluated 0  best none  [0s]
+# done F13xF27 |R| 351 units 312 J2 122304  subgroups 12  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F11xF32 |R| 352 units 310 J2 122760  subgroups 4  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+Q(F5xF71, K) |R| 355  |K| 140 (index 2)  n 864  degree 355  tri/edge 140..140  ratio 1.5000 
+# done F5xF71 |R| 355 units 280 J2 120960  subgroups 12  sum-free with |K| >= 10: 8  evaluated 1  best ratio 1.5000 |K| 140 n 864  [9s]
+# done F5xF8xF9 |R| 360 units 224 J2 120960  subgroups 22  sum-free with |K| >= 10: 11  evaluated 0  best none  [0s]
+# done F19xF19 |R| 361 units 324 J2 129600  subgroups 46  sum-free with |K| >= 10: 10  evaluated 0  best none  [0s]
+# done Z361 |R| 361 units 342 J2 129960  subgroups 6  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+Q(F5xF73, K) |R| 365  |K| 144 (index 2)  n 888  degree 365  tri/edge 144..144  ratio 1.5000 
+# done F5xF73 |R| 365 units 288 J2 127872  subgroups 33  sum-free with |K| >= 10: 15  evaluated 1  best ratio 1.5000 |K| 144 n 888  [10s]
+# done F16xF23 |R| 368 units 330 J2 134640  subgroups 8  sum-free with |K| >= 10: 4  evaluated 0  best none  [0s]
+# done F9xF41 |R| 369 units 320 J2 134400  subgroups 44  sum-free with |K| >= 10: 18  evaluated 0  best none  [0s]
+# done F7xF53 |R| 371 units 312 J2 134784  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F8xF47 |R| 376 units 322 J2 139104  subgroups 4  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+# done F13xF29 |R| 377 units 336 J2 141120  subgroups 32  sum-free with |K| >= 10: 17  evaluated 0  best none  [0s]
+# done F5xF7xF11 |R| 385 units 240 J2 138240  subgroups 32  sum-free with |K| >= 10: 21  evaluated 0  best none  [0s]
+# done F9xF43 |R| 387 units 336 J2 147840  subgroups 16  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+# done F17xF23 |R| 391 units 352 J2 152064  subgroups 10  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F7xF7xF8 |R| 392 units 252 J2 145152  subgroups 24  sum-free with |K| >= 10: 12  evaluated 0  best none  [0s]
+# done F8xF49 |R| 392 units 336 J2 151200  subgroups 16  sum-free with |K| >= 10: 7  evaluated 0  best none  [0s]
+# done F8xZ49 |R| 392 units 294 J2 148176  subgroups 20  sum-free with |K| >= 10: 10  evaluated 0  best none  [0s]
+# done F5xF79 |R| 395 units 312 J2 149760  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F5xF5xF16 |R| 400 units 240 J2 146880  subgroups 32  sum-free with |K| >= 10: 18  evaluated 0  best none  [0s]
+# done F16xF25 |R| 400 units 360 J2 159120  subgroups 36  sum-free with |K| >= 10: 9  evaluated 0  best none  [0s]
+# done F16xZ25 |R| 400 units 300 J2 153000  subgroups 32  sum-free with |K| >= 10: 23  evaluated 0  best none  [0s]
+# done F13xF31 |R| 403 units 360 J2 161280  subgroups 36  sum-free with |K| >= 10: 11  evaluated 0  best none  [0s]
+# done F5xF9xF9 |R| 405 units 256 J2 153600  subgroups 140  sum-free with |K| >= 10: 74  evaluated 0  best none  [0s]
+# done F5xF81 |R| 405 units 320 J2 157440  subgroups 28  sum-free with |K| >= 10: 11  evaluated 0  best none  [0s]
+# done F11xF37 |R| 407 units 360 J2 164160  subgroups 18  sum-free with |K| >= 10: 8  evaluated 0  best none  [0s]
+# done F7xF59 |R| 413 units 348 J2 167040  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F5xF83 |R| 415 units 328 J2 165312  subgroups 6  sum-free with |K| >= 10: 2  evaluated 0  best none  [0s]
+# done F13xF32 |R| 416 units 372 J2 171864  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F9xF47 |R| 423 units 368 J2 176640  subgroups 8  sum-free with |K| >= 10: 1  evaluated 0  best none  [0s]
+# done F8xF53 |R| 424 units 364 J2 176904  subgroups 8  sum-free with |K| >= 10: 4  evaluated 0  best none  [0s]
+# done F5xF5xF17 |R| 425 units 256 J2 165888  subgroups 108  sum-free with |K| >= 10: 57  evaluated 0  best none  [0s]
+# done F17xF25 |R| 425 units 384 J2 179712  subgroups 58  sum-free with |K| >= 10: 24  evaluated 0  best none  [0s]
+# done F17xZ25 |R| 425 units 320 J2 172800  subgroups 28  sum-free with |K| >= 10: 17  evaluated 0  best none  [0s]
+# done F7xF61 |R| 427 units 360 J2 178560  subgroups 36  sum-free with |K| >= 10: 12  evaluated 0  best none  [0s]
+# done F16xF27 |R| 432 units 390 J2 185640  subgroups 8  sum-free with |K| >= 10: 3  evaluated 0  best none  [0s]
+# done F19xF23 |R| 437 units 396 J2 190080  subgroups 12  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F5xF8xF11 |R| 440 units 280 J2 181440  subgroups 12  sum-free with |K| >= 10: 8  evaluated 0  best none  [0s]
+# done F7xF7xF9 |R| 441 units 288 J2 184320  subgroups 66  sum-free with |K| >= 10: 24  evaluated 0  best none  [0s]
+# done F9xF49 |R| 441 units 384 J2 192000  subgroups 58  sum-free with |K| >= 10: 12  evaluated 0  best none  [0s]
+# done F9xZ49 |R| 441 units 336 J2 188160  subgroups 16  sum-free with |K| >= 10: 5  evaluated 0  best none  [0s]
+# done F5xF89 |R| 445 units 352 J2 190080  subgroups 22  sum-free with |K| >= 10: 8  evaluated 0  best none  [0s]
+# done F7xF8xF8 |R| 448 units 294 J2 190512  subgroups 20  sum-free with |K| >= 10: 14  evaluated 0  best none  [0s]
+# done F7xF64 |R| 448 units 378 J2 196560  subgroups 20  sum-free with |K| >= 10: 6  evaluated 0  best none  [0s]

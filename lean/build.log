@@ -1,0 +1,19 @@
+sha256 of FolkmanLemma.lean: c296f9f1a6f3d0a0b8681e516b88de9a549b96af91d8df03278207dcbb7debb6
+Lean (version 4.36.0, x86_64-unknown-linux-gnu, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9, Release)
+⚠ [2080/2082] Built FolkmanLemma (6.2s)
+warning: FolkmanLemma.lean: imports `Mathlib.Combinatorics.SimpleGraph.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Basic.Real.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Algebra.BigOperators.Ring.Finset` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.Linarith` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.Ring` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.NormNum` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+info: FolkmanLemma.lean:174:0: 'Folkman.weighted_criterion' depends on axioms: [propext, choice, Quot.sound]
+⚠ [2081/2082] Ran FolkmanLemma:irArts
+warning: FolkmanLemma.lean: imports `Mathlib.Combinatorics.SimpleGraph.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Basic.Real.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Algebra.BigOperators.Ring.Finset` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.Linarith` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.Ring` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: FolkmanLemma.lean: imports `Mathlib.Tactic.NormNum` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+Build completed successfully (2082 jobs).
+lake build finished with status 0

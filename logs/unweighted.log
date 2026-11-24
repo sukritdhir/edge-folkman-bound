@@ -1,0 +1,8 @@
+folkman_upper_483_q277s.txt         483 vertices,  21666 edges (21666 in a triangle): beta_0 = 1.052133  (fails by 5.21 per cent)
+folkman_upper_489_q277s.txt         489 vertices,  21735 edges (21735 in a triangle): beta_0 = 1.040400  (fails by 4.04 per cent)
+folkman_upper_495_q277s.txt         495 vertices,  22224 edges (22218 in a triangle): beta_0 = 1.038281  (fails by 3.83 per cent)
+folkman_upper_506_q277s.txt         506 vertices,  23391 edges (23391 in a triangle): beta_0 = 1.032128  (fails by 3.21 per cent)
+folkman_upper_533_q277.txt          533 vertices,  25869 edges (25869 in a triangle): beta_0 = 1.027524  (fails by 2.75 per cent)
+folkman_upper_534_q277.txt          534 vertices,  25963 edges (25963 in a triangle): beta_0 = 1.026941  (fails by 2.69 per cent)
+folkman_upper_556_q277.txt          556 vertices,  28078 edges (28078 in a triangle): beta_0 = 1.017027  (fails by 1.70 per cent)
+folkman_upper_588_q97.txt           588 vertices,  28518 edges (28518 in a triangle): beta_0 = 0.991719  (passes)

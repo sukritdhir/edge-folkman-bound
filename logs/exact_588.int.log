@@ -1,0 +1,70 @@
+verify_q2.py: certificate folkman_upper_588_q97.txt
+sha256 f89f580fde1891fe1f5c0b811378ffcb34b16e14d847c4a4cddd78c1f4ebdf2a
+0. self-test of the positive-definiteness check (K_6 accepted, K_5 not accepted): ok
+1. graph Q: p = 97, GF(p^2) = GF(p)[t]/(t^2 - 5), theta = 1 + 6 t, e0 = 6, |V0| = 16, classes [0], |S| = 16;
+   n = 588 vertices; the adjacency matrix is symmetric; the vectors theta^i are pairwise inequivalent modulo V0 and represent all nonzero vectors.
+   base graph G' = Q minus 0 vertices: 588 vertices, 28518 edges, 152096 triangles, degrees 97, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 588 vertices (an induced subgraph, so no K4 either).
+2. symmetry: pi: i -> i + 6 (mod 588) is an automorphism of Q that maps G' to itself; its order is q = 98.
+   certificate: 1552 triangle orbits (152096 triangles) with rational weights (0 orbits have a negative weight) (uniform: all triangles of G', weight 1), 291 edge orbits (28518 edges) with D > 0,
+   all orbits under pi have full length q; every listed triple is a triangle of G';
+   common denominator of the numbers in the file: 1.
+3. budget on G'': sum of D_e over its 28518 indexed edges = 456288/1;  3 * weight of its 152096 listed triangles = 456288/1;
+   ratio = 1.000000000000  (must be <= 1; exact integer comparison): ok
+4. matrix A = 3M + 2D: size 28518, commutes with the permutation of order 98; 98 orbit blocks of size 291,
+   9603 nonzero integer coefficients A_j[a,b].
+5. positive definiteness of A, block by block (r = 0..49; the blocks r and q-r are complex conjugates):
+   block   0: size  291, float lambda_min 8.578324e-03, proved lower bound 8901036491036159 / 2^60  ok  [0.0s]
+   block   1: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136632013125 / 2^60  ok  [0.3s]
+   block   2: size  582, float lambda_min 8.578324e-03, proved lower bound 8900953091208717 / 2^60  ok  [0.3s]
+   block   3: size  582, float lambda_min 8.280707e-03, proved lower bound 8592135189826987 / 2^60  ok  [0.3s]
+   block   4: size  582, float lambda_min 8.578324e-03, proved lower bound 8900950439956180 / 2^60  ok  [0.3s]
+   block   5: size  582, float lambda_min 8.280707e-03, proved lower bound 8592132118828164 / 2^60  ok  [0.3s]
+   block   6: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952515493585 / 2^60  ok  [0.3s]
+   block   7: size  582, float lambda_min 8.280707e-03, proved lower bound 8592133081575712 / 2^60  ok  [0.3s]
+   block   8: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952079257704 / 2^60  ok  [0.3s]
+   block   9: size  582, float lambda_min 8.280707e-03, proved lower bound 8592133459398328 / 2^60  ok  [0.4s]
+   block  10: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952219773107 / 2^60  ok  [0.4s]
+   block  11: size  582, float lambda_min 8.280707e-03, proved lower bound 8592135316275519 / 2^60  ok  [0.5s]
+   block  12: size  582, float lambda_min 8.578324e-03, proved lower bound 8900951891682315 / 2^60  ok  [0.4s]
+   block  13: size  582, float lambda_min 8.280707e-03, proved lower bound 8592128770799496 / 2^60  ok  [0.5s]
+   block  14: size  582, float lambda_min 8.578324e-03, proved lower bound 8900950335913787 / 2^60  ok  [0.3s]
+   block  15: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136362991015 / 2^60  ok  [0.3s]
+   block  16: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952208852672 / 2^60  ok  [0.3s]
+   block  17: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136496836340 / 2^60  ok  [0.3s]
+   block  18: size  582, float lambda_min 8.578324e-03, proved lower bound 8900953770719007 / 2^60  ok  [0.3s]
+   block  19: size  582, float lambda_min 8.280707e-03, proved lower bound 8592137580682006 / 2^60  ok  [0.3s]
+   block  20: size  582, float lambda_min 8.578324e-03, proved lower bound 8900949417011973 / 2^60  ok  [0.3s]
+   block  21: size  582, float lambda_min 8.280707e-03, proved lower bound 8592135808032269 / 2^60  ok  [0.3s]
+   block  22: size  582, float lambda_min 8.578324e-03, proved lower bound 8900954008563735 / 2^60  ok  [0.3s]
+   block  23: size  582, float lambda_min 8.280707e-03, proved lower bound 8592134950051124 / 2^60  ok  [0.3s]
+   block  24: size  582, float lambda_min 8.578324e-03, proved lower bound 8900949237054502 / 2^60  ok  [0.3s]
+   block  25: size  582, float lambda_min 8.280707e-03, proved lower bound 8592133750158715 / 2^60  ok  [0.3s]
+   block  26: size  582, float lambda_min 8.578324e-03, proved lower bound 8900951576950312 / 2^60  ok  [0.3s]
+   block  27: size  582, float lambda_min 8.280707e-03, proved lower bound 8592137122315945 / 2^60  ok  [0.3s]
+   block  28: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952776021017 / 2^60  ok  [0.3s]
+   block  29: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136626324339 / 2^60  ok  [0.3s]
+   block  30: size  582, float lambda_min 8.578324e-03, proved lower bound 8900949667320553 / 2^60  ok  [0.3s]
+   block  31: size  582, float lambda_min 8.280707e-03, proved lower bound 8592131843615526 / 2^60  ok  [0.3s]
+   block  32: size  582, float lambda_min 8.578324e-03, proved lower bound 8900953331006928 / 2^60  ok  [0.3s]
+   block  33: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136688534374 / 2^60  ok  [0.3s]
+   block  34: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952414263702 / 2^60  ok  [0.3s]
+   block  35: size  582, float lambda_min 8.280707e-03, proved lower bound 8592136373259786 / 2^60  ok  [0.4s]
+   block  36: size  582, float lambda_min 8.578324e-03, proved lower bound 8900951255982472 / 2^60  ok  [0.4s]
+   block  37: size  582, float lambda_min 8.280707e-03, proved lower bound 8592138357522547 / 2^60  ok  [0.4s]
+   block  38: size  582, float lambda_min 8.578324e-03, proved lower bound 8900947172622759 / 2^60  ok  [0.4s]
+   block  39: size  582, float lambda_min 8.280707e-03, proved lower bound 8592138468168917 / 2^60  ok  [0.4s]
+   block  40: size  582, float lambda_min 8.578324e-03, proved lower bound 8900949875484302 / 2^60  ok  [0.4s]
+   block  41: size  582, float lambda_min 8.280707e-03, proved lower bound 8592138882263427 / 2^60  ok  [0.4s]
+   block  42: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952296066510 / 2^60  ok  [0.5s]
+   block  43: size  582, float lambda_min 8.280707e-03, proved lower bound 8592135966830943 / 2^60  ok  [0.4s]
+   block  44: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952948437198 / 2^60  ok  [0.4s]
+   block  45: size  582, float lambda_min 8.280707e-03, proved lower bound 8592132311330233 / 2^60  ok  [0.4s]
+   block  46: size  582, float lambda_min 8.578324e-03, proved lower bound 8900952753925749 / 2^60  ok  [0.4s]
+   block  47: size  582, float lambda_min 8.280707e-03, proved lower bound 8592133741368964 / 2^60  ok  [0.4s]
+   block  48: size  582, float lambda_min 8.578324e-03, proved lower bound 8900953861088353 / 2^60  ok  [0.4s]
+   block  49: size  291, float lambda_min 8.280707e-03, proved lower bound 8592221497650397 / 2^60  ok  [0.0s]
+   all 50 blocks are positive definite (smallest proved bound 7.452484e-03 in units where the diagonal is about 1).
+6. conditions (i) and (ii) of the Lemma hold, and G'' has no K4.
+THEOREM CHECKED: the graph G'' on 588 vertices is K4-free and every 2-colouring of its edges contains a
+monochromatic triangle.  Hence F_e(3,3;4) <= 588.   [18 s]

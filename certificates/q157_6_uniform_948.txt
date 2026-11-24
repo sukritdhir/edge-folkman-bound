@@ -1,0 +1,11 @@
+# Certificate that the graph Q(157, 6) on 948 vertices is K4-free and arrows (3,3).  Checked by verify_q.py.
+# Vertices: classes of nonzero vectors of GF(157)^2 modulo sixth-power residues; [x] ~ [y] iff det(x, y) is a
+# sixth-power residue modulo 157.  Regular of degree 157, every edge lies in 26 triangles.  All weights 1.
+family Q
+p 157
+nr 2
+theta 1 7
+e0 6
+classes 0
+step 1
+uniform

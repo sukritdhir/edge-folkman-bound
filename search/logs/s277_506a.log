@@ -1,0 +1,78 @@
+method A: base 506 vertices, X = [], |F| = 0, target edges 23391, 6655 variables
+start: nubar = 23391, beta = 1.050000
+start: #neg(S) = 0 = #neg(G_FF), log det = -149220.8005  [state 2.8s]
+initial t = 1.873e+04 (gap bound nubar/2t = 6.25e-01)
+it   1  t 1.87e+04  beta 1.05000000  lam2 2.801e+02 (f'(0) -2.801e+02)  alpha 1.0000 (1 trials, f' -1.77e+01, boundary 2.755)  f 150946.1358  #neg(S) 0  min mu/mean 0.463  euler 1.9e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 3s, search 6s] reg 0e+00 
+it   2  t 1.87e+04  beta 1.05668590  lam2 1.897e+01 (f'(0) -1.897e+01)  alpha 1.0000 (1 trials, f' -2.21e+00, boundary 53.59)  f 150935.8823  #neg(S) 0  min mu/mean 0.580  euler 7.5e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 3s, search 17s] reg 0e+00 
+CENTRAL t = 1.873e+04: beta = 1.05668590, lower bound on min beta about 0.43309548 (rigorous only if lam2 = 0.39 < 1); margin now -0.0377906  (2 Newton steps, 33s total)
+   saved scan/s277_506a.pkl: beta = 1.05668590, min mu/mean = 0.5796, min D/mean = 0.8136 
+it   3  t 1.99e+04  beta 1.04646618  lam2 3.379e+01 (f'(0) -3.379e+01)  alpha 0.7000 (2 trials, f' -7.49e+00, boundary 2.11)  f 151059.4926  #neg(S) 0  min mu/mean 0.561  euler 7.4e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 1.995e+04 (factor 1.065, boundary of the tangent at factor 1.130)
+it   4  t 1.99e+04  beta 1.04384568  lam2 1.366e+00 (f'(0) -1.366e+00)  alpha 1.0000 (1 trials, f' 4.15e-02, boundary 10.5)  f 151058.8234  #neg(S) 0  min mu/mean 0.553  euler 7.5e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 4s] reg 0e+00 
+CENTRAL t = 1.995e+04: beta = 1.04384568, lower bound on min beta about 0.45762237 (rigorous only if lam2 = 0.00 < 1); margin now -0.0292305  (2 Newton steps, 52s total)
+   saved scan/s277_506a.pkl: beta = 1.04384568, min mu/mean = 0.5525, min D/mean = 0.8206 
+it   5  t 2.11e+04  beta 1.03637459  lam2 2.369e+01 (f'(0) -2.369e+01)  alpha 0.7000 (2 trials, f' -5.19e+00, boundary 2.019)  f 151146.4817  #neg(S) 0  min mu/mean 0.529  euler 7.7e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 2.107e+04 (factor 1.056, boundary of the tangent at factor 1.112)
+CENTRAL t = 2.107e+04: beta = 1.03637459, lower bound on min beta about 0.47930680 (rigorous only if lam2 = 0.95 < 1); margin now -0.0242497  (1 Newton steps, 63s total)
+   saved scan/s277_506a.pkl: beta = 1.03637459, min mu/mean = 0.5293, min D/mean = 0.8126 
+it   6  t 2.22e+04  beta 1.02899615  lam2 2.883e+01 (f'(0) -2.883e+01)  alpha 0.7000 (2 trials, f' -5.64e+00, boundary 1.748)  f 151215.5565  #neg(S) 0  min mu/mean 0.499  euler 8.1e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 2.219e+04 (factor 1.053, boundary of the tangent at factor 1.106)
+CENTRAL t = 2.219e+04: beta = 1.02899615, lower bound on min beta about 0.50026843 (rigorous only if lam2 = 0.95 < 1); margin now -0.0193308  (1 Newton steps, 75s total)
+   saved scan/s277_506a.pkl: beta = 1.02899615, min mu/mean = 0.4989, min D/mean = 0.8028 
+it   7  t 2.35e+04  beta 1.02259402  lam2 2.883e+01 (f'(0) -2.883e+01)  alpha 0.7000 (2 trials, f' -5.31e+00, boundary 1.899)  f 151278.3882  #neg(S) 0  min mu/mean 0.463  euler 9.7e-16  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 2.348e+04 (factor 1.058, boundary of the tangent at factor 1.117)
+CENTRAL t = 2.348e+04: beta = 1.02259402, lower bound on min beta about 0.52330107 (rigorous only if lam2 = 0.86 < 1); margin now -0.0150627  (1 Newton steps, 86s total)
+   saved scan/s277_506a.pkl: beta = 1.02259402, min mu/mean = 0.4634, min D/mean = 0.7919 
+it   8  t 2.51e+04  beta 1.01675744  lam2 3.281e+01 (f'(0) -3.281e+01)  alpha 0.7000 (2 trials, f' -5.30e+00, boundary 1.893)  f 151339.4774  #neg(S) 0  min mu/mean 0.421  euler 1.2e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 2.514e+04 (factor 1.071, boundary of the tangent at factor 1.141)
+CENTRAL t = 2.514e+04: beta = 1.01675744, lower bound on min beta about 0.55063497 (rigorous only if lam2 = 0.83 < 1); margin now -0.0111716  (1 Newton steps, 98s total)
+   saved scan/s277_506a.pkl: beta = 1.01675744, min mu/mean = 0.4213, min D/mean = 0.7791 
+it   9  t 2.72e+04  beta 1.01186777  lam2 3.331e+01 (f'(0) -3.331e+01)  alpha 0.7000 (2 trials, f' -5.12e+00, boundary 1.866)  f 151393.5331  #neg(S) 0  min mu/mean 0.375  euler 1.7e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 6s] reg 0e+00 t -> 2.718e+04 (factor 1.081, boundary of the tangent at factor 1.162)
+CENTRAL t = 2.718e+04: beta = 1.01186777, lower bound on min beta about 0.58076323 (rigorous only if lam2 = 0.81 < 1); margin now -0.0079118  (1 Newton steps, 109s total)
+   saved scan/s277_506a.pkl: beta = 1.01186777, min mu/mean = 0.3754, min D/mean = 0.7646 
+it  10  t 2.97e+04  beta 1.00774591  lam2 3.496e+01 (f'(0) -3.496e+01)  alpha 0.7000 (2 trials, f' -5.02e+00, boundary 1.931)  f 151439.5088  #neg(S) 0  min mu/mean 0.327  euler 2.6e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 7s] reg 0e+00 t -> 2.974e+04 (factor 1.094, boundary of the tangent at factor 1.188)
+CENTRAL t = 2.974e+04: beta = 1.00774591, lower bound on min beta about 0.61382848 (rigorous only if lam2 = 0.81 < 1); margin now -0.0051639  (1 Newton steps, 121s total)
+   saved scan/s277_506a.pkl: beta = 1.00774591, min mu/mean = 0.3270, min D/mean = 0.7480 
+it  11  t 3.3e+04  beta 1.00433799  lam2 3.618e+01 (f'(0) -3.618e+01)  alpha 0.7000 (2 trials, f' -4.97e+00, boundary 1.879)  f 151474.2560  #neg(S) 0  min mu/mean 0.277  euler 4.6e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 3.296e+04 (factor 1.108, boundary of the tangent at factor 1.217)
+CENTRAL t = 3.296e+04: beta = 1.00433799, lower bound on min beta about 0.64902833 (rigorous only if lam2 = 0.83 < 1); margin now -0.0028920  (1 Newton steps, 133s total)
+   saved scan/s277_506a.pkl: beta = 1.00433799, min mu/mean = 0.2773, min D/mean = 0.7294 
+it  12  t 3.7e+04  beta 1.00156043  lam2 3.695e+01 (f'(0) -3.695e+01)  alpha 0.7000 (2 trials, f' -4.96e+00, boundary 1.938)  f 151493.9243  #neg(S) 0  min mu/mean 0.228  euler 7.2e-15  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 8s] reg 0e+00 t -> 3.701e+04 (factor 1.123, boundary of the tangent at factor 1.246)
+CENTRAL t = 3.701e+04: beta = 1.00156043, lower bound on min beta about 0.68521743 (rigorous only if lam2 = 0.84 < 1); margin now -0.0010403  (1 Newton steps, 146s total)
+   saved scan/s277_506a.pkl: beta = 1.00156043, min mu/mean = 0.2277, min D/mean = 0.7091 
+it  13  t 4.23e+04  beta 0.99927660  lam2 3.963e+01 (f'(0) -3.963e+01)  alpha 0.6921 (2 trials, f' -5.39e+00, boundary 1.943)  f 151493.8391  #neg(S) 0  min mu/mean 0.179  euler 1.2e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 11s] reg 0e+00 t -> 4.228e+04 (factor 1.142, boundary of the tangent at factor 1.284)
+CENTRAL t = 4.228e+04: beta = 0.99927660, lower bound on min beta about 0.72232656 (rigorous only if lam2 = 0.93 < 1); margin now +0.0004823  (1 Newton steps, 162s total)
+   saved scan/s277_506a.pkl: beta = 0.99927660, min mu/mean = 0.1791, min D/mean = 0.6872 
+it  14  t 4.91e+04  beta 0.99744676  lam2 4.253e+01 (f'(0) -4.253e+01)  alpha 0.6731 (2 trials, f' -6.57e+00, boundary 1.871)  f 151466.4398  #neg(S) 0  min mu/mean 0.133  euler 1.8e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 10s, search 11s] reg 0e+00 t -> 4.912e+04 (factor 1.162, boundary of the tangent at factor 1.324)
+it  15  t 4.91e+04  beta 0.99715326  lam2 1.168e+00 (f'(0) -1.168e+00)  alpha 1.0000 (1 trials, f' 1.16e-02, boundary 15.83)  f 151465.8597  #neg(S) 0  min mu/mean 0.122  euler 3.0e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 6s] reg 0e+00 
+CENTRAL t = 4.912e+04: beta = 0.99715326, lower bound on min beta about 0.75905533 (rigorous only if lam2 = 0.00 < 1); margin now +0.0018978  (2 Newton steps, 192s total)
+   saved scan/s277_506a.pkl: beta = 0.99715326, min mu/mean = 0.1222, min D/mean = 0.6571 
+it  16  t 5.78e+04  beta 0.99594421  lam2 3.070e+01 (f'(0) -3.070e+01)  alpha 0.6802 (2 trials, f' -4.42e+00, boundary 2.01)  f 151403.8275  #neg(S) 0  min mu/mean 0.089  euler 2.7e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 7s] reg 0e+00 t -> 5.779e+04 (factor 1.177, boundary of the tangent at factor 1.353)
+CENTRAL t = 5.779e+04: beta = 0.99594421, lower bound on min beta about 0.79338526 (rigorous only if lam2 = 0.71 < 1); margin now +0.0027039  (1 Newton steps, 205s total)
+   saved scan/s277_506a.pkl: beta = 0.99594421, min mu/mean = 0.0894, min D/mean = 0.6390 
+it  17  t 6.86e+04  beta 0.99488596  lam2 4.010e+01 (f'(0) -4.010e+01)  alpha 0.6499 (2 trials, f' -7.07e+00, boundary 1.872)  f 151299.6456  #neg(S) 0  min mu/mean 0.051  euler 4.3e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 10s] reg 0e+00 t -> 6.863e+04 (factor 1.188, boundary of the tangent at factor 1.375)
+it  18  t 6.86e+04  beta 0.99468896  lam2 1.262e+00 (f'(0) -1.262e+00)  alpha 1.0000 (1 trials, f' 1.97e-02, boundary 13.86)  f 151299.0211  #neg(S) 0  min mu/mean 0.037  euler 6.4e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 5s] reg 0e+00 
+CENTRAL t = 6.863e+04: beta = 0.99468896, lower bound on min beta about 0.82429176 (rigorous only if lam2 = 0.00 < 1); margin now +0.0035407  (2 Newton steps, 228s total)
+   saved scan/s277_506a.pkl: beta = 0.99468896, min mu/mean = 0.0365, min D/mean = 0.6101 
+it  19  t 8.28e+04  beta 0.99397877  lam2 3.016e+01 (f'(0) -3.016e+01)  alpha 0.6630 (2 trials, f' -4.81e+00, boundary 2.016)  f 151136.3710  #neg(S) 0  min mu/mean -0.002  euler 6.3e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 6s, search 8s] reg 0e+00 t -> 8.279e+04 (factor 1.206, boundary of the tangent at factor 1.413)
+CENTRAL t = 8.279e+04: beta = 0.99397877, lower bound on min beta about 0.85259587 (rigorous only if lam2 = 0.76 < 1); margin now +0.0040142  (1 Newton steps, 243s total)
+   saved scan/s277_506a.pkl: beta = 0.99397877, min mu/mean = -0.0018, min D/mean = 0.5924 
+it  20  t 1e+05  beta 0.99337375  lam2 3.842e+01 (f'(0) -3.842e+01)  alpha 0.6297 (2 trials, f' -7.55e+00, boundary 1.812)  f 150911.4057  #neg(S) 0  min mu/mean -0.041  euler 9.0e-14  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 1.002e+05 (factor 1.210, boundary of the tangent at factor 1.421)
+it  21  t 1e+05  beta 0.99324816  lam2 1.359e+00 (f'(0) -1.359e+00)  alpha 1.0000 (1 trials, f' 3.03e-02, boundary 12.18)  f 150910.7357  #neg(S) 0  min mu/mean -0.053  euler 1.3e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 4s] reg 0e+00 
+CENTRAL t = 1.002e+05: beta = 0.99324816, lower bound on min beta about 0.87653169 (rigorous only if lam2 = 0.00 < 1); margin now +0.0045012  (2 Newton steps, 263s total)
+   saved scan/s277_506a.pkl: beta = 0.99324816, min mu/mean = -0.0527, min D/mean = 0.5649 
+it  22  t 1.23e+05  beta 0.99285158  lam2 2.711e+01 (f'(0) -2.711e+01)  alpha 0.6586 (2 trials, f' -4.39e+00, boundary 2.029)  f 150593.3777  #neg(S) 0  min mu/mean -0.081  euler 1.3e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 7s] reg 0e+00 t -> 1.229e+05 (factor 1.226, boundary of the tangent at factor 1.453)
+CENTRAL t = 1.229e+05: beta = 0.99285158, lower bound on min beta about 0.89761486 (rigorous only if lam2 = 0.66 < 1); margin now +0.0047656  (1 Newton steps, 275s total)
+   saved scan/s277_506a.pkl: beta = 0.99285158, min mu/mean = -0.0815, min D/mean = 0.5488 
+it  23  t 1.51e+05  beta 0.99251891  lam2 3.480e+01 (f'(0) -3.480e+01)  alpha 0.6171 (2 trials, f' -7.23e+00, boundary 1.813)  f 150177.0562  #neg(S) 0  min mu/mean -0.110  euler 1.8e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 7s] reg 0e+00 t -> 1.51e+05 (factor 1.229, boundary of the tangent at factor 1.458)
+it  24  t 1.51e+05  beta 0.99244654  lam2 1.263e+00 (f'(0) -1.263e+00)  alpha 1.0000 (1 trials, f' 3.87e-02, boundary 11.75)  f 150176.4369  #neg(S) 0  min mu/mean -0.118  euler 2.5e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 5s] reg 0e+00 
+CENTRAL t = 1.51e+05: beta = 0.99244654, lower bound on min beta about 0.91502103 (rigorous only if lam2 = 0.00 < 1); margin now +0.0050356  (2 Newton steps, 295s total)
+   saved scan/s277_506a.pkl: beta = 0.99244654, min mu/mean = -0.1183, min D/mean = 0.5248 
+it  25  t 1.88e+05  beta 0.99222925  lam2 2.489e+01 (f'(0) -2.489e+01)  alpha 0.6476 (2 trials, f' -4.25e+00, boundary 2.03)  f 149600.9584  #neg(S) 0  min mu/mean -0.139  euler 2.5e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 1.885e+05 (factor 1.248, boundary of the tangent at factor 1.496)
+CENTRAL t = 1.885e+05: beta = 0.99222925, lower bound on min beta about 0.93014134 (rigorous only if lam2 = 0.61 < 1); margin now +0.0051805  (1 Newton steps, 307s total)
+   saved scan/s277_506a.pkl: beta = 0.99222925, min mu/mean = -0.1388, min D/mean = 0.5110 
+it  26  t 2.36e+05  beta 0.99204986  lam2 3.263e+01 (f'(0) -3.263e+01)  alpha 0.5954 (2 trials, f' -7.47e+00, boundary 1.805)  f 148854.8383  #neg(S) 0  min mu/mean -0.158  euler 3.3e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 4s, search 7s] reg 0e+00 t -> 2.357e+05 (factor 1.250, boundary of the tangent at factor 1.501)
+it  27  t 2.36e+05  beta 0.99200686  lam2 1.284e+00 (f'(0) -1.284e+00)  alpha 1.0000 (1 trials, f' 6.13e-02, boundary 10.78)  f 148854.2161  #neg(S) 0  min mu/mean -0.165  euler 4.5e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 3s, search 5s] reg 0e+00 
+CENTRAL t = 2.357e+05: beta = 0.99200686, lower bound on min beta about 0.94238420 (rigorous only if lam2 = 0.00 < 1); margin now +0.0053288  (2 Newton steps, 327s total)
+   saved scan/s277_506a.pkl: beta = 0.99200686, min mu/mean = -0.1646, min D/mean = 0.4911 
+it  28  t 3e+05  beta 0.99189056  lam2 2.344e+01 (f'(0) -2.344e+01)  alpha 0.6319 (2 trials, f' -4.32e+00, boundary 2.034)  f 147813.9736  #neg(S) 0  min mu/mean -0.179  euler 4.7e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 5s, search 7s] reg 0e+00 t -> 3.002e+05 (factor 1.274, boundary of the tangent at factor 1.547)
+CENTRAL t = 3.002e+05: beta = 0.99189056, lower bound on min beta about 0.95290664 (rigorous only if lam2 = 0.59 < 1); margin now +0.0054063  (1 Newton steps, 339s total)
+   saved scan/s277_506a.pkl: beta = 0.99189056, min mu/mean = -0.1786, min D/mean = 0.4800 
+it  29  t 3.83e+05  beta 0.99179619  lam2 3.167e+01 (f'(0) -3.167e+01)  alpha 0.5677 (2 trials, f' -8.17e+00, boundary 1.79)  f 146460.3365  #neg(S) 0  min mu/mean -0.192  euler 6.2e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 6s, search 11s] reg 0e+00 t -> 3.829e+05 (factor 1.276, boundary of the tangent at factor 1.551)
+it  30  t 3.83e+05  beta 0.99177040  lam2 1.415e+00 (f'(0) -1.415e+00)  alpha 1.0000 (1 trials, f' 1.02e-01, boundary 9.608)  f 146459.6622  #neg(S) 0  min mu/mean -0.196  euler 8.6e-13  [deriv 1s (sym 1, cross 0, F 0, Gram 0), solve 2s, search 5s] reg 0e+00 
+CENTRAL t = 3.829e+05: beta = 0.99177040, lower bound on min beta about 0.96122710 (rigorous only if lam2 = 0.01 < 1); margin now +0.0054864  (2 Newton steps, 366s total)
+   saved scan/s277_506a.pkl: beta = 0.99177040, min mu/mean = -0.1962, min D/mean = 0.4644 

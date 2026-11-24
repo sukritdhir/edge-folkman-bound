@@ -1,0 +1,32 @@
+G: n 941 d 188 edges 88454 triangles 707632 (k = 24), triangle orbits 4  [0.5s]
+subgraph: 705 vertices, 49820 edges, 300518 triangles; |K'| = 47; edge orbits 1060, triangle orbits 6394  [0.2s]
+start: 7454 variables, nubar = 49820, beta = 1.060000
+initial t = 3.79e+04 (gap bound nubar/2t = 6.57e-01)
+      diag: sum w e^2 / lam2 = 1.0000, e min -0.352 max 0.849, #|e|>0.3: 394, #|e|>0.1: 6690, #|e|>0.03: 18717; f_t = 322560.3733
+it   1  t 3.79e+04  beta 1.06000000  lam2 5.424e+02  alpha 1.0692 (max 2.842)  min mu/mean 0.669  [hess 2s, chol+eig 16s, fact 6s] reg 0e+00 
+CENTRAL t = 3.79e+04: beta = 1.06000000, lower bound on min beta about 0.40932190 (rigorous only if lam2 = 26.60 < 1); margin now -0.0400000, optimum at most +0.3937854  (1 Newton steps, 30s total)
+   saved scan/ipm705_7_10_16_18_19.pkl: beta = 1.06000000, lambda_min(N) at the tight budget = -0.6877830 (margin -0.0211164), min mu/mean = 0.6690, min D/mean = 0.7787 
+      diag: sum w e^2 / lam2 = 1.0000, e min -41.344 max -0.058, #|e|>0.3: 24727, #|e|>0.1: 25439, #|e|>0.03: 25440; f_t = 337289.8946
+it   2  t 2.84e+05  beta 1.02931107  lam2 6.915e+05  alpha 0.0218 (max 0.024)  min mu/mean 0.625  [hess 2s, chol+eig 23s, fact 5s] reg 0e+00 t -> 2.84e+05
+      diag: sum w e^2 / lam2 = 1.0000, e min -35.847 max 4.436, #|e|>0.3: 17867, #|e|>0.1: 22810, #|e|>0.03: 24648; f_t = 332059.2748
+it   3  t 2.84e+05  beta 1.01806914  lam2 2.121e+05  alpha 0.0251 (max 0.028)  min mu/mean 0.567  [hess 3s, chol+eig 15s, fact 5s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -18.545 max 12.390, #|e|>0.3: 15550, #|e|>0.1: 22002, #|e|>0.03: 24407; f_t = 328782.6539
+it   4  t 2.84e+05  beta 1.01062734  lam2 7.024e+04  alpha 0.0485 (max 0.054)  min mu/mean 0.499  [hess 2s, chol+eig 24s, fact 8s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -10.660 max 10.308, #|e|>0.3: 8054, #|e|>0.1: 18755, #|e|>0.03: 23413; f_t = 327434.2683
+it   5  t 2.84e+05  beta 1.00729485  lam2 1.697e+04  alpha 0.0844 (max 0.094)  min mu/mean 0.453  [hess 3s, chol+eig 25s, fact 7s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -7.919 max 8.659, #|e|>0.3: 1823, #|e|>0.1: 12540, #|e|>0.03: 21299; f_t = 326878.5364
+it   6  t 2.84e+05  beta 1.00578568  lam2 5.264e+03  alpha 0.1136 (max 0.126)  min mu/mean 0.425  [hess 3s, chol+eig 15s, fact 4s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -5.801 max 6.741, #|e|>0.3: 546, #|e|>0.1: 6154, #|e|>0.03: 18311; f_t = 326566.9970
+it   7  t 2.84e+05  beta 1.00484548  lam2 2.215e+03  alpha 0.1552 (max 0.172)  min mu/mean 0.388  [hess 2s, chol+eig 16s, fact 5s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -3.355 max 4.339, #|e|>0.3: 253, #|e|>0.1: 2008, #|e|>0.03: 14030; f_t = 326346.6270
+it   8  t 2.84e+05  beta 1.00405610  lam2 9.828e+02  alpha 0.2683 (max 0.298)  min mu/mean 0.352  [hess 3s, chol+eig 16s, fact 4s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -2.193 max 3.124, #|e|>0.3: 152, #|e|>0.1: 436, #|e|>0.03: 6014; f_t = 326241.1069
+it   9  t 2.84e+05  beta 1.00360214  lam2 3.298e+02  alpha 0.4104 (max 0.456)  min mu/mean 0.327  [hess 2s, chol+eig 16s, fact 5s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -1.407 max 2.391, #|e|>0.3: 122, #|e|>0.1: 209, #|e|>0.03: 1376; f_t = 326182.6894
+it  10  t 2.84e+05  beta 1.00330668  lam2 1.315e+02  alpha 0.6396 (max 0.711)  min mu/mean 0.308  [hess 3s, chol+eig 22s, fact 7s] reg 0e+00 
+      diag: sum w e^2 / lam2 = 1.0000, e min -0.787 max 1.786, #|e|>0.3: 30, #|e|>0.1: 154, #|e|>0.03: 375; f_t = 326148.2768
+it  11  t 2.84e+05  beta 1.00310952  lam2 5.540e+01  alpha 1.1041 (max 1.271)  min mu/mean 0.295  [hess 2s, chol+eig 16s, fact 5s] reg 0e+00 
+CENTRAL t = 2.842e+05: beta = 1.00310952, lower bound on min beta about 0.91546021 (rigorous only if lam2 = 23.57 < 1); margin now -0.0020730, optimum at most +0.0563599  (10 Newton steps, 299s total)
+   saved scan/ipm705_7_10_16_18_19.pkl: beta = 1.00310952, lambda_min(N) at the tight budget = -0.6687396 (margin -0.0020730), min mu/mean = 0.2948, min D/mean = 0.6604 
+      diag: sum w e^2 / lam2 = 1.0000, e min -11.295 max 12.123, #|e|>0.3: 568, #|e|>0.1: 6116, #|e|>0.03: 18249; f_t = 332680.7935
+it  12  t 1.42e+06  beta 1.00286345  lam2 7.154e+03  alpha 0.0797 (max 0.089)  min mu/mean 0.275  [hess 3s, chol+eig 41s, fact 7s] reg 0e+00 t -> 1.42e+06

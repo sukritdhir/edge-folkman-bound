@@ -1,0 +1,72 @@
+{
+ "certificate": "certificates/folkman_upper_495_q277s.txt",
+ "p": 277,
+ "e": 6,
+ "H_order": 46,
+ "sumfree": true,
+ "n_Q": 1668,
+ "base_is_cube_norm_set": false,
+ "base_vertices": 495,
+ "base_edges": 22224,
+ "base_triangles": 120175,
+ "base_degrees": [
+  70,
+  85,
+  86,
+  87,
+  88,
+  92,
+  93,
+  96
+ ],
+ "tri_per_edge": [
+  0,
+  22
+ ],
+ "target_vertices": 495,
+ "target_edges": 22224,
+ "target_triangles": 120175,
+ "target_degrees": [
+  70,
+  96
+ ],
+ "extra": [],
+ "symmetry": "matrix 144 0 0 252",
+ "images": 69,
+ "base_cycles": {
+  "3": 12,
+  "69": 483
+ },
+ "weighted_triangles": 120129,
+ "indexed_edges": 22218,
+ "all_triangles_weighted": false,
+ "all_edges_indexed": false,
+ "w_range": [
+  -0.144169069132,
+  0.63626567519
+ ],
+ "d_range": [
+  2.243325493527,
+  8.0
+ ],
+ "negative_weights": 69,
+ "budget_lhs": "117714034789270563/1000000000000",
+ "budget_rhs": "117714152503423467/1000000000000",
+ "budget_ratio": 0.9999989999999966,
+ "budget_ok": true,
+ "indexed_edges_in_target": 22218,
+ "weighted_triangles_in_target": 120129,
+ "m": 22218,
+ "nnz_offdiag": 720774,
+ "smallest_eigenvalue_estimate": 0.004023142701419097,
+ "sigma": 0.003620828431277187,
+ "residual_max_entry": 5.551115123125783e-16,
+ "residual_inf_norm": 6.54103090466858e-15,
+ "lmax2": 0.9963791725651068,
+ "rounding_allowance": 5.466216366317621e-08,
+ "proved_lower_bound": 0.003620773769106983,
+ "positive_definite": true,
+ "peak_memory_gb": 4.501938176,
+ "passed": true,
+ "seconds": 143.9746241569519
+}

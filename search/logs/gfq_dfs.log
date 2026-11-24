@@ -1,0 +1,364 @@
+q  127 index   3 (|H0|  42) orbits  3  S = union of classes [0]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   3 (|H0|  42) orbits  3  S = union of classes [1]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   3 (|H0|  42) orbits  3  S = union of classes [2]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 3 orbits 3  nodes 4  maximal 3  best ratio 1.1275 d 42 tri/edge 11..11 classes [2]  [0s]
+q  127 index   6 (|H0|  21) orbits  3  S = union of classes [0]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   6 (|H0|  21) orbits  3  S = union of classes [1]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   6 (|H0|  21) orbits  3  S = union of classes [2]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 6 orbits 3  nodes 4  maximal 3  best ratio 1.1275 d 42 tri/edge 11..11 classes [2]  [0s]
+# done q 127 index 7 orbits 7  nodes 8  maximal 7  best ratio 1.5000 d 18 tri/edge 2..2 classes [6]  [0s]
+q  127 index   9 (|H0|  14) orbits  9  S = union of classes [0, 3, 6]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   9 (|H0|  14) orbits  9  S = union of classes [1, 4, 7]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index   9 (|H0|  14) orbits  9  S = union of classes [2, 5, 8]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 9 orbits 9  nodes 31  maximal 12  best ratio 1.1275 d 42 tri/edge 11..11 classes [2, 5, 8]  [0s]
+# done q 127 index 14 orbits 7  nodes 8  maximal 7  best ratio 1.5000 d 18 tri/edge 2..2 classes [3]  [0s]
+q  127 index  18 (|H0|   7) orbits  9  S = union of classes [0, 3, 6]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  18 (|H0|   7) orbits  9  S = union of classes [1, 4, 7]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  18 (|H0|   7) orbits  9  S = union of classes [2, 5, 8]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 18 orbits 9  nodes 31  maximal 12  best ratio 1.1275 d 42 tri/edge 11..11 classes [2, 5, 8]  [0s]
+q  127 index  21 (|H0|   6) orbits 21  S = union of classes [0, 3, 6, 9, 12, 15, 18]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  21 (|H0|   6) orbits 21  S = union of classes [1, 4, 7, 10, 13, 16, 19]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  21 (|H0|   6) orbits 21  S = union of classes [2, 5, 8, 11, 14, 17, 20]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 21 orbits 21  nodes 6562  maximal 717  best ratio 1.1275 d 42 tri/edge 11..11 classes [2, 5, 8, 11, 14, 17, 20]  [2s]
+q  127 index  42 (|H0|   3) orbits 21  S = union of classes [0, 3, 6, 9, 12, 15, 18]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  42 (|H0|   3) orbits 21  S = union of classes [1, 4, 7, 10, 13, 16, 19]  d  42  tri/edge 11..11  ratio 1.1275 
+q  127 index  42 (|H0|   3) orbits 21  S = union of classes [2, 5, 8, 11, 14, 17, 20]  d  42  tri/edge 11..11  ratio 1.1275 
+# done q 127 index 42 orbits 21  nodes 6562  maximal 717  best ratio 1.1275 d 42 tri/edge 11..11 classes [2, 5, 8, 11, 14, 17, 20]  [3s]
+# done q 121 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 5 orbits 5  nodes 6  maximal 5  best ratio 1.5000 d 24 tri/edge 2..2 classes [0]  [0s]
+# done q 121 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 8 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 10 orbits 10  nodes 26  maximal 15  best ratio 1.5000 d 24 tri/edge 2..2 classes [0, 2]  [0s]
+# done q 121 index 12 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 15 orbits 15  nodes 411  maximal 110  best ratio 1.4664 d 32 tri/edge 4..5 classes [1, 2, 7, 11]  [0s]
+# done q 121 index 20 orbits 20  nodes 4365  maximal 480  best ratio 1.3860 d 36 tri/edge 8..9 classes [1, 13, 14, 16, 17, 18]  [1s]
+# done q 121 index 24 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 121 index 30 orbits 30  nodes 100092 TRUNCATED  maximal 3997  best ratio 1.2727 d 36 tri/edge 7..10 classes [0, 2, 6, 10, 12, 16, 17, 22, 23]  [24s]
+# done q 121 index 40 orbits 20  nodes 4365  maximal 480  best ratio 1.3860 d 36 tri/edge 8..9 classes [3, 7, 11, 14, 16, 18]  [2s]
+# done q 125 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 125 index 4 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 125 index 31 orbits 31  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 4 orbits 4  nodes 5  maximal 4  best ratio 1.5000 d 42 tri/edge 8..8 classes [2]  [0s]
+# done q 169 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 7 orbits 7  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 8 orbits 4  nodes 5  maximal 4  best ratio 1.5000 d 42 tri/edge 8..8 classes [2]  [0s]
+# done q 169 index 12 orbits 12  nodes 137  maximal 64  best ratio 1.2998 d 42 tri/edge 6..9 classes [1, 3, 5]  [0s]
+# done q 169 index 14 orbits 14  nodes 1  maximal 0  best none  [0s]
+# done q 169 index 21 orbits 21  nodes 3108  maximal 546  best ratio 1.3777 d 40 tri/edge 6..8 classes [0, 4, 15, 16, 20]  [2s]
+# done q 169 index 24 orbits 12  nodes 137  maximal 64  best ratio 1.2998 d 42 tri/edge 6..9 classes [1, 3, 5]  [0s]
+# done q 169 index 28 orbits 28  nodes 100055 TRUNCATED  maximal 2999  best ratio 1.4791 d 42 tri/edge 6..10 classes [0, 1, 3, 5, 6, 8, 12]  [32s]
+# done q 169 index 56 orbits 28  nodes 100055 TRUNCATED  maximal 2999  best ratio 1.4791 d 42 tri/edge 6..10 classes [0, 1, 3, 5, 6, 8, 12]  [41s]
+# done q 243 index 11 orbits 11  nodes 67  maximal 55  best ratio 1.4200 d 44 tri/edge 7..7 classes [3, 8]  [0s]
+# done q 243 index 22 orbits 11  nodes 67  maximal 55  best ratio 1.4200 d 44 tri/edge 7..7 classes [3, 9]  [0s]
+# done q 289 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 8 orbits 8  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 9 orbits 9  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 12 orbits 12  nodes 73  maximal 24  best ratio 1.2989 d 72 tri/edge 11..15 classes [1, 6, 8]  [0s]
+# done q 289 index 16 orbits 16  nodes 225  maximal 112  best ratio 1.3798 d 54 tri/edge 6..10 classes [7, 8, 9]  [0s]
+# done q 289 index 18 orbits 18  nodes 1  maximal 0  best none  [0s]
+# done q 289 index 24 orbits 24  nodes 2640  maximal 264  best ratio 1.2989 d 72 tri/edge 11..15 classes [0, 10, 11, 12, 22, 23]  [2s]
+# done q 289 index 32 orbits 16  nodes 225  maximal 112  best ratio 1.3798 d 54 tri/edge 6..10 classes [7, 8, 9]  [1s]
+# done q 343 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 343 index 6 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 343 index 9 orbits 9  nodes 10  maximal 0  best none  [0s]
+# done q 343 index 18 orbits 9  nodes 10  maximal 0  best none  [0s]
+# done q 343 index 19 orbits 19  nodes 1  maximal 0  best none  [0s]
+# done q 343 index 38 orbits 19  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 5 orbits 5  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 6 orbits 6  nodes 7  maximal 6  best ratio 1.4695 d 60 tri/edge 8..8 classes [5]  [0s]
+# done q 361 index 8 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 9 orbits 9  nodes 10  maximal 0  best none  [0s]
+# done q 361 index 10 orbits 10  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 12 orbits 12  nodes 31  maximal 18  best ratio 1.4695 d 60 tri/edge 8..8 classes [2, 8]  [0s]
+# done q 361 index 15 orbits 15  nodes 121  maximal 30  best ratio 1.3962 d 72 tri/edge 6..12 classes [3, 4, 12]  [0s]
+# done q 361 index 18 orbits 18  nodes 356  maximal 150  best ratio 1.2264 d 80 tri/edge 9..16 classes [8, 9, 16, 17]  [1s]
+# done q 361 index 20 orbits 20  nodes 1  maximal 0  best none  [0s]
+# done q 361 index 24 orbits 12  nodes 31  maximal 18  best ratio 1.4695 d 60 tri/edge 8..8 classes [2, 8]  [0s]
+# done q 361 index 30 orbits 30  nodes 11902  maximal 1596  best ratio 1.3768 d 60 tri/edge 6..12 classes [3, 14, 15, 21, 27]  [12s]
+# done q 361 index 40 orbits 20  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 8 orbits 8  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 11 orbits 11  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 12 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 16 orbits 8  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 22 orbits 22  nodes 462  maximal 132  best ratio 1.3826 d 72 tri/edge 8..10 classes [4, 6, 13]  [1s]
+# done q 529 index 24 orbits 24  nodes 1  maximal 0  best none  [0s]
+# done q 529 index 48 orbits 24  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 8 orbits 8  nodes 9  maximal 8  best ratio 1.5000 d 78 tri/edge 2..2 classes [0]  [0s]
+# done q 625 index 12 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 13 orbits 13  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 16 orbits 8  nodes 9  maximal 8  best ratio 1.5000 d 78 tri/edge 2..2 classes [1]  [0s]
+# done q 625 index 24 orbits 24  nodes 1640  maximal 528  best ratio 1.1596 d 104 tri/edge 10..20 classes [1, 9, 17, 23]  [4s]
+# done q 625 index 26 orbits 26  nodes 1  maximal 0  best none  [0s]
+# done q 625 index 48 orbits 24  nodes 1640  maximal 528  best ratio 1.1596 d 104 tri/edge 10..20 classes [3, 11, 17, 19]  [8s]
+# done q 729 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 7 orbits 7  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 8 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 13 orbits 13  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 14 orbits 14  nodes 1  maximal 0  best none  [0s]
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 3, 4, 10]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 3, 10, 17]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 3, 17, 18]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 4, 5, 10]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 6, 9, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 6, 22, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 7, 23, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 9, 10, 12]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 9, 12, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 1, 18, 24]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 2, 3, 9, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 2, 3, 20]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 2, 9, 16, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 2, 16, 17, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 3, 4, 9, 12]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 3, 4, 9, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 3, 4, 12, 15]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 3, 14, 17, 18]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 3, 17, 20, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 5, 8, 22, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 5, 21, 22, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 6, 8, 9]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 6, 22, 23, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 7, 14, 23, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 7, 16, 17, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 8, 9, 11, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 8, 11, 22, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 9, 10, 12, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 11, 14, 15, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 14, 15, 23, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 14, 17, 18, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 16, 17, 19, 20]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 16, 17, 20, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [0, 17, 23, 25]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 4, 5, 11]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 4, 11, 18]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 4, 18, 19]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 5, 6, 11]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 7, 10, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 7, 23, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 8, 24, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 10, 11, 13]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 10, 13, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 2, 19, 25]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 3, 4, 21]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 4, 5, 10, 13]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 4, 5, 13, 16]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 4, 15, 18, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 4, 18, 21, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 7, 9, 10]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 8, 15, 24, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 8, 17, 18, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 10, 11, 13, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 12, 15, 16, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 15, 16, 24, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 15, 18, 19, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 17, 18, 20, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [1, 17, 18, 21, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 5, 6, 12]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 5, 12, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 5, 19, 20]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 6, 7, 12]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 8, 11, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 8, 24, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 11, 12, 14]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 3, 11, 14, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 4, 5, 22]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 5, 6, 11, 14]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 5, 6, 14, 17]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 5, 16, 19, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 5, 19, 22, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 8, 10, 11]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 9, 18, 19, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 11, 12, 14, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 13, 16, 17, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 16, 19, 20, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 18, 19, 21, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [2, 18, 19, 22, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 4, 6, 7, 13]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 4, 6, 13, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 4, 6, 20, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 4, 7, 8, 13]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 4, 12, 13, 15]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 5, 6, 23]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 6, 7, 12, 15]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 6, 7, 15, 18]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 6, 17, 20, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 6, 20, 23, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 9, 11, 12]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 10, 19, 20, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 12, 13, 15, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 19, 20, 22, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [3, 19, 20, 23, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 5, 7, 8, 14]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 5, 7, 14, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 5, 7, 21, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 5, 8, 9, 14]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 5, 13, 14, 16]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 6, 7, 24]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 7, 8, 13, 16]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 7, 8, 16, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 7, 18, 21, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 7, 21, 24, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 10, 12, 13]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 11, 20, 21, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 13, 14, 16, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 20, 21, 23, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [4, 20, 21, 24, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 6, 8, 9, 15]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 6, 8, 15, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 6, 8, 22, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 6, 9, 10, 15]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 6, 14, 15, 17]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 7, 8, 25]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 8, 9, 14, 17]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 8, 9, 17, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 8, 19, 22, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 11, 13, 14]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 12, 21, 22, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 14, 15, 17, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [5, 21, 22, 24, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 7, 9, 10, 16]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 7, 9, 16, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 7, 9, 23, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 7, 10, 11, 16]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 7, 15, 16, 18]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 9, 10, 15, 18]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 9, 10, 18, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 9, 20, 23, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 12, 14, 15]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 13, 22, 23, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [6, 15, 16, 18, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 8, 10, 11, 17]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 8, 10, 17, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 8, 10, 24, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 8, 11, 12, 17]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 8, 16, 17, 19]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 10, 11, 16, 19]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 10, 11, 19, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 10, 21, 24, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [7, 13, 15, 16]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 9, 11, 12, 18]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 9, 11, 18, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 9, 12, 13, 18]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 9, 17, 18, 20]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 11, 12, 17, 20]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 11, 12, 20, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [8, 14, 16, 17]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 10, 12, 13, 19]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 10, 13, 14, 19]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 10, 18, 19, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 12, 13, 18, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 12, 13, 21, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [9, 15, 17, 18]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 11, 13, 14, 20]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 11, 14, 15, 20]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 11, 19, 20, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 13, 14, 19, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 13, 14, 22, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [10, 16, 18, 19]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [11, 12, 14, 15, 21]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [11, 12, 15, 16, 21]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [11, 12, 20, 21, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [11, 14, 15, 20, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [11, 17, 19, 20]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [12, 13, 15, 16, 22]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [12, 13, 16, 17, 22]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [12, 13, 21, 22, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [12, 15, 16, 21, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [12, 18, 20, 21]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [13, 14, 16, 17, 23]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [13, 14, 17, 18, 23]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [13, 14, 22, 23, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [13, 16, 17, 22, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [13, 19, 21, 22]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [14, 15, 17, 18, 24]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [14, 15, 18, 19, 24]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [14, 20, 22, 23]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [15, 16, 18, 19, 25]  d 140  tri/edge 11..19  ratio 1.0865 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [15, 16, 19, 20, 25]  d 140  tri/edge 9..19  ratio 1.1457 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [15, 21, 23, 24]  d 112  tri/edge 13..15  ratio 1.0338 
+q  729 index  26 (|H0|  28) orbits 26  S = union of classes [16, 22, 24, 25]  d 112  tri/edge 13..15  ratio 1.0338 
+# done q 729 index 26 orbits 26  nodes 2921  maximal 702  best ratio 1.0338 d 112 tri/edge 13..15 classes [14, 20, 22, 23]  [9s]
+# done q 729 index 28 orbits 28  nodes 1  maximal 0  best none  [0s]
+# done q 729 index 56 orbits 28  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 5 orbits 5  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 7 orbits 7  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 8 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 10 orbits 10  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 12 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 14 orbits 14  nodes 15  maximal 0  best none  [0s]
+# done q 841 index 15 orbits 15  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 20 orbits 20  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 21 orbits 21  nodes 315  maximal 168  best ratio 1.3220 d 120 tri/edge 8..12 classes [2, 18, 19]  [2s]
+# done q 841 index 24 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 28 orbits 28  nodes 2127  maximal 616  best ratio 1.2045 d 120 tri/edge 14..16 classes [4, 9, 15, 17]  [10s]
+# done q 841 index 30 orbits 30  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 40 orbits 20  nodes 1  maximal 0  best none  [0s]
+# done q 841 index 56 orbits 28  nodes 2127  maximal 616  best ratio 1.2045 d 120 tri/edge 14..16 classes [4, 9, 15, 17]  [19s]
+# done q 961 index 2 orbits 2  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 3 orbits 3  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 4 orbits 4  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 5 orbits 5  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 6 orbits 6  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 8 orbits 8  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 10 orbits 10  nodes 11  maximal 0  best none  [0s]
+# done q 961 index 12 orbits 12  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 15 orbits 15  nodes 31  maximal 15  best ratio 1.5000 d 128 tri/edge 2..4 classes [0, 4]  [0s]
+# done q 961 index 16 orbits 16  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 20 orbits 20  nodes 249  maximal 120  best ratio 1.1588 d 144 tri/edge 18..20 classes [1, 14, 17]  [2s]
+# done q 961 index 24 orbits 24  nodes 1  maximal 0  best none  [0s]
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [0, 2, 8, 15, 25]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [0, 5, 7, 13, 20]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [0, 6, 13, 23, 28]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [0, 7, 17, 22, 24]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [0, 10, 15, 17, 23]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [1, 3, 9, 16, 26]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [1, 6, 8, 14, 21]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [1, 7, 14, 24, 29]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [1, 8, 18, 23, 25]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [1, 11, 16, 18, 24]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [2, 4, 10, 17, 27]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [2, 7, 9, 15, 22]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [2, 9, 19, 24, 26]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [2, 12, 17, 19, 25]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [3, 5, 11, 18, 28]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [3, 8, 10, 16, 23]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [3, 10, 20, 25, 27]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [3, 13, 18, 20, 26]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [4, 6, 12, 19, 29]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [4, 9, 11, 17, 24]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [4, 11, 21, 26, 28]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [4, 14, 19, 21, 27]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [5, 10, 12, 18, 25]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [5, 12, 22, 27, 29]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [5, 15, 20, 22, 28]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [6, 11, 13, 19, 26]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [6, 16, 21, 23, 29]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [7, 12, 14, 20, 27]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [8, 13, 15, 21, 28]  d 160  tri/edge 14..21  ratio 1.1255 
+q  961 index  30 (|H0|  32) orbits 30  S = union of classes [9, 14, 16, 22, 29]  d 160  tri/edge 14..21  ratio 1.1255 
+# done q 961 index 30 orbits 30  nodes 4216  maximal 1170  best ratio 1.1255 d 160 tri/edge 14..21 classes [3, 5, 11, 18, 28]  [29s]
+# done q 961 index 32 orbits 32  nodes 1  maximal 0  best none  [0s]
+# done q 961 index 64 orbits 32  nodes 1  maximal 0  best none  [0s]

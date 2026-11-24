@@ -1,0 +1,17 @@
+verify_q2.py: certificate t6_wrong_matrix.txt
+sha256 739c2030dd049e1e006de3a231575a71551e0b4d9412424e80c7ac4d147fe13a
+0. self-test of the positive-definiteness check (K_6 accepted, K_5 not accepted): ok
+1. graph Q: p = 277, GF(p^2) = GF(p)[t]/(t^2 - 2), theta = 1 + 3 t, e0 = 6, |V0| = 46, classes [0], |S| = 46;
+   n = 1668 vertices; the adjacency matrix is symmetric; the vectors theta^i are pairwise inequivalent modulo V0 and represent all nonzero vectors.
+   base graph G' = Q minus 1185 vertices: 483 vertices, 21666 edges, 118933 triangles, degrees 85..94, no K4 (exhaustive check).
+   target graph G'' = G' minus 0 further vertices: 483 vertices (an induced subgraph, so no K4 either).
+Traceback (most recent call last):
+  File "/home/user/folkman-pub/r1/supplement/verify_q2.py", line 635, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/home/user/folkman-pub/r1/supplement/verify_q2.py", line 600, in main
+    sysd = build_system(C, G, log)
+  File "/home/user/folkman-pub/r1/supplement/verify_q2.py", line 402, in build_system
+    assert bool((A[np.ix_(perm, perm)] == A).all()), "pi is not an automorphism of Q"
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: pi is not an automorphism of Q

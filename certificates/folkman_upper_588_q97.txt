@@ -1,0 +1,14 @@
+# Certificate for F_e(3,3;4) <= 588.  Checked by verify_q.py (exact integer arithmetic).
+# Graph Q(97, 6): the vertices are the 588 classes of nonzero vectors of GF(97)^2 modulo multiplication by
+# sixth-power residues; two classes [x], [y] are adjacent iff det(x, y) is a sixth-power residue modulo 97.
+# 588 vertices, regular of degree 97, 28518 edges, every edge lies in 16 triangles, 152096 triangles, no K4.
+# Data: all triangles have the weight 1 (D_e = 16 for every edge); the statement checked is that
+# 3 M + 32 I is positive definite, where M is the 0/1 matrix "two edges lie in a common triangle".
+family Q
+p 97
+nr 5
+theta 1 6
+e0 6
+classes 0
+step 1
+uniform

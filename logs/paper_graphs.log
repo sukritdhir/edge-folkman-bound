@@ -1,0 +1,45 @@
+folkman_upper_483_q277s.txt    W                            definition = certificate: True
+     483 vertices, 21666 edges, 118933 triangles, degrees 85 to 94, triangles on an edge 11 to 22, connected: True, K4: False
+     degrees that occur: 85, 87, 91, 92, 94
+     pi has the order 69 and maps the graph to itself; orbits on the vertices: 7 of length 69;
+     on the edges: 314 of length 69; on the triangles: 1723 of length 69, 2 of length 23;
+     triangles with a short orbit: 46 (46 of the form {v, pi^(q/3) v, pi^(2q/3) v}); edges in no triangle: 0
+folkman_upper_489_q277s.txt    W_489                        definition = certificate: True
+     489 vertices, 21735 edges, 116656 triangles, degrees 69 to 95, triangles on an edge 10 to 22, connected: True, K4: False
+     degrees that occur: 69, 84, 85, 86, 87, 91, 92, 95
+     pi has the order 69 and maps the graph to itself; orbits on the vertices: 7 of length 69, 2 of length 3;
+     on the edges: 315 of length 69; on the triangles: 1690 of length 69, 2 of length 23;
+     triangles with a short orbit: 46 (46 of the form {v, pi^(q/3) v, pi^(2q/3) v}); edges in no triangle: 0
+folkman_upper_495_q277s.txt    W_495                        definition = certificate: True
+     495 vertices, 22224 edges, 120175 triangles, degrees 70 to 96, triangles on an edge 0 to 22, connected: True, K4: False
+     degrees that occur: 70, 85, 86, 87, 88, 92, 93, 96
+     pi has the order 69 and maps the graph to itself; orbits on the vertices: 7 of length 69, 4 of length 3;
+     on the edges: 322 of length 69, 2 of length 3; on the triangles: 1741 of length 69, 2 of length 23;
+     triangles with a short orbit: 46 (46 of the form {v, pi^(q/3) v, pi^(2q/3) v}); edges in no triangle: 6
+folkman_upper_506_q277s.txt    W_506                        definition = certificate: True
+     506 vertices, 23391 edges, 129674 triangles, degrees 85 to 98, triangles on an edge 10 to 22, connected: True, K4: False
+     degrees that occur: 85, 87, 88, 90, 92, 94, 96, 98
+     pi has the order 23 and maps the graph to itself; orbits on the vertices: 22 of length 23;
+     on the edges: 1017 of length 23; on the triangles: 5638 of length 23;
+     triangles with a short orbit: 0; edges in no triangle: 0
+folkman_upper_556_q277.txt     Y                            definition = certificate: True
+     556 vertices, 28078 edges, 168468 triangles, degrees 101 to 101, triangles on an edge 16 to 20, connected: True, K4: False
+     degrees that occur: 101
+     pi has the order 139 and maps the graph to itself; orbits on the vertices: 4 of length 139;
+     on the edges: 202 of length 139; on the triangles: 1212 of length 139;
+     triangles with a short orbit: 0; edges in no triangle: 0
+folkman_upper_534_q277.txt     Y - X (22 vertices removed)  definition = certificate: True
+     534 vertices, 25963 edges, 150303 triangles, degrees 93 to 101, triangles on an edge 13 to 20, connected: True, K4: False
+     degrees that occur: 93, 94, 95, 96, 97, 98, 99, 100, 101
+     pi does not map the graph to itself (the certificate lives on a larger graph)
+folkman_upper_533_q277.txt     Y - X (23 vertices removed)  definition = certificate: True
+     533 vertices, 25869 edges, 149512 triangles, degrees 93 to 101, triangles on an edge 13 to 20, connected: True, K4: False
+     degrees that occur: 93, 94, 95, 96, 97, 98, 99, 100, 101
+     pi does not map the graph to itself (the certificate lives on a larger graph)
+folkman_upper_588_q97.txt      Q(97,6)                      definition = certificate: True
+     588 vertices, 28518 edges, 152096 triangles, degrees 97 to 97, triangles on an edge 16 to 16, connected: True, K4: False
+     degrees that occur: 97
+     pi has the order 98 and maps the graph to itself; orbits on the vertices: 6 of length 98;
+     on the edges: 291 of length 98; on the triangles: 1552 of length 98;
+     triangles with a short orbit: 0; edges in no triangle: 0
+ALL DEFINITIONS MATCH

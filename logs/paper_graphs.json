@@ -1,0 +1,267 @@
+{
+ "folkman_upper_483_q277s.txt": {
+  "vertices": 483,
+  "edges": 21666,
+  "triangles": 118933,
+  "degree_min": 85,
+  "degree_max": 94,
+  "degrees": [
+   85,
+   87,
+   91,
+   92,
+   94
+  ],
+  "tri_per_edge_min": 11,
+  "tri_per_edge_max": 22,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 69,
+   "vertex_orbits": {
+    "69": 7
+   },
+   "edge_orbits": {
+    "69": 314
+   },
+   "triangle_orbits": {
+    "69": 1723,
+    "23": 2
+   },
+   "short_orbit_triangles": 46,
+   "short_orbit_triangles_rotated": 46,
+   "edges_in_no_triangle": 0
+  }
+ },
+ "folkman_upper_489_q277s.txt": {
+  "vertices": 489,
+  "edges": 21735,
+  "triangles": 116656,
+  "degree_min": 69,
+  "degree_max": 95,
+  "degrees": [
+   69,
+   84,
+   85,
+   86,
+   87,
+   91,
+   92,
+   95
+  ],
+  "tri_per_edge_min": 10,
+  "tri_per_edge_max": 22,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 69,
+   "vertex_orbits": {
+    "3": 2,
+    "69": 7
+   },
+   "edge_orbits": {
+    "69": 315
+   },
+   "triangle_orbits": {
+    "69": 1690,
+    "23": 2
+   },
+   "short_orbit_triangles": 46,
+   "short_orbit_triangles_rotated": 46,
+   "edges_in_no_triangle": 0
+  }
+ },
+ "folkman_upper_495_q277s.txt": {
+  "vertices": 495,
+  "edges": 22224,
+  "triangles": 120175,
+  "degree_min": 70,
+  "degree_max": 96,
+  "degrees": [
+   70,
+   85,
+   86,
+   87,
+   88,
+   92,
+   93,
+   96
+  ],
+  "tri_per_edge_min": 0,
+  "tri_per_edge_max": 22,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 69,
+   "vertex_orbits": {
+    "3": 4,
+    "69": 7
+   },
+   "edge_orbits": {
+    "69": 322,
+    "3": 2
+   },
+   "triangle_orbits": {
+    "69": 1741,
+    "23": 2
+   },
+   "short_orbit_triangles": 46,
+   "short_orbit_triangles_rotated": 46,
+   "edges_in_no_triangle": 6
+  }
+ },
+ "folkman_upper_506_q277s.txt": {
+  "vertices": 506,
+  "edges": 23391,
+  "triangles": 129674,
+  "degree_min": 85,
+  "degree_max": 98,
+  "degrees": [
+   85,
+   87,
+   88,
+   90,
+   92,
+   94,
+   96,
+   98
+  ],
+  "tri_per_edge_min": 10,
+  "tri_per_edge_max": 22,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 23,
+   "vertex_orbits": {
+    "23": 22
+   },
+   "edge_orbits": {
+    "23": 1017
+   },
+   "triangle_orbits": {
+    "23": 5638
+   },
+   "short_orbit_triangles": 0,
+   "short_orbit_triangles_rotated": null,
+   "edges_in_no_triangle": 0
+  }
+ },
+ "folkman_upper_556_q277.txt": {
+  "vertices": 556,
+  "edges": 28078,
+  "triangles": 168468,
+  "degree_min": 101,
+  "degree_max": 101,
+  "degrees": [
+   101
+  ],
+  "tri_per_edge_min": 16,
+  "tri_per_edge_max": 20,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 139,
+   "vertex_orbits": {
+    "139": 4
+   },
+   "edge_orbits": {
+    "139": 202
+   },
+   "triangle_orbits": {
+    "139": 1212
+   },
+   "short_orbit_triangles": 0,
+   "short_orbit_triangles_rotated": null,
+   "edges_in_no_triangle": 0
+  }
+ },
+ "folkman_upper_534_q277.txt": {
+  "vertices": 534,
+  "edges": 25963,
+  "triangles": 150303,
+  "degree_min": 93,
+  "degree_max": 101,
+  "degrees": [
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101
+  ],
+  "tri_per_edge_min": 13,
+  "tri_per_edge_max": 20,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": false
+ },
+ "folkman_upper_533_q277.txt": {
+  "vertices": 533,
+  "edges": 25869,
+  "triangles": 149512,
+  "degree_min": 93,
+  "degree_max": 101,
+  "degrees": [
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101
+  ],
+  "tri_per_edge_min": 13,
+  "tri_per_edge_max": 20,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": false
+ },
+ "folkman_upper_588_q97.txt": {
+  "vertices": 588,
+  "edges": 28518,
+  "triangles": 152096,
+  "degree_min": 97,
+  "degree_max": 97,
+  "degrees": [
+   97
+  ],
+  "tri_per_edge_min": 16,
+  "tri_per_edge_max": 16,
+  "connected": true,
+  "K4": false,
+  "definition_matches_certificate": true,
+  "pi_maps_graph_to_itself": true,
+  "orbits": {
+   "order": 98,
+   "vertex_orbits": {
+    "98": 6
+   },
+   "edge_orbits": {
+    "98": 291
+   },
+   "triangle_orbits": {
+    "98": 1552
+   },
+   "short_orbit_triangles": 0,
+   "short_orbit_triangles_rotated": null,
+   "edges_in_no_triangle": 0
+  }
+ }
+}
