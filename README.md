@@ -15,6 +15,14 @@ monochromatic triangle in every colouring of its edges with two colours. The pre
 Lange, Radziszowski and Xu (2012). The paper proves the bound 483 with an induced subgraph W of the graph
 Q(277,6), one of Mathon's antipodal distance-regular covers of complete graphs.
 
+## Further progress
+
+Note of 24 November 2026. Since the paper was written, the same method has given a better bound: a certificate
+for a graph on 480 vertices, again an induced subgraph of Q(277,6), passes both verification programs of this
+repository, which gives F_e(3,3;4) <= 480. This improvement is not part of the paper yet. The certificate and
+its description will be published with a revised version of the paper, and work on further improvements
+continues.
+
 ## Check the result yourself
 
 The shortest check needs Python 3 with NumPy and takes less than a minute:
